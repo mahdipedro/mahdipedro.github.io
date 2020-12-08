@@ -42,12 +42,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C, Python, Java, Matlab, VHDL, and Verilog
+* Softwares: Proteus Design Suite, Weka, Eagle PCB Design,Altium Designer, SPICE software, LaTeX
+* Laboratory: System Prototyping, Oscilloscope, Logic Analyzer, Signal Generator, Solder, and Multimeter 
 
 Publications
 ======
