@@ -20,10 +20,21 @@ Work experience
   * Amirkabir University of Technology
   * Duties included: Desing and development of a greenhouse automation system.
 
-* November 2015 - April 2015: Technical Assistant
+* November 2014 - April 2015: Technical Assistant
   * Washington State University
   * Duties included: Design and development of SmartSock and analysis the collected data with the developed prototype.
   * Supervisor: Professor Hassan Ghasemzadeh
+  
+* July 2015 - December 2015: SCADA System Researcher
+  * Saba System Sadra, Tehran, Iran
+  * Duties included: Providing information for a safe and secure SCADA system development.
+  * Supervisor: Omid Banaei
+
+* August 2016 - Present: Research Assistant
+  * Washington State University
+  * Supervisor: Professor Hassan Ghasemzadeh
+  
+
   
 Skills
 ======
