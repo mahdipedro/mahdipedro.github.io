@@ -11,7 +11,6 @@ I am a PhD candidate in the [School of Electrical Engineering & Computer Sience]
 
 Research Interest
 ======
-My research 
 My research topics include :
 * Embedded systemS
 * Health monitoring systems
