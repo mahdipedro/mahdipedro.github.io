@@ -37,7 +37,7 @@ Work experience
 * July 2019 - Present: Teaching Assistant
   * Washington State University
   * Duties included: Assisting the instructor in designing syllabus/projects and mentoring students on their projects.
-  * Courses: Embedded Systems, [Machine Learning]((https://github.com/mahdipedro/mpedram.github.io/tree/master/files/syllabus.pdf)), and Operating Systems
+  * Courses: Embedded Systems, [Machine Learning]((hhttps://github.com/mahdipedro/mpedram.github.io/blob/master/files/syllabus.pdf)), and Operating Systems
   
   
 Skills
