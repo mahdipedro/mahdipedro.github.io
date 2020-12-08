@@ -20,10 +20,10 @@ Work experience
   * Amirkabir University of Technology
   * Duties included: Desing and development of a greenhouse automation system.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2015 - April 2015: Technical Assistant
+  * Washington State University
+  * Duties included: Design and development of SmartSock and analysis the collected data with the developed prototype.
+  * Supervisor: Professor Hassan Ghasemzadeh
   
 Skills
 ======
