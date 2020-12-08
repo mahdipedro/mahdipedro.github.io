@@ -12,7 +12,7 @@ I am a PhD candidate in the [School of Electrical Engineering & Computer Sience]
 Research Interest
 ======
 My research topics include :
-* Embedded systemS
+* Embedded Systems
 * Health monitoring systems
 * Wearable Sensor Development
 * Sensor Data Mining
