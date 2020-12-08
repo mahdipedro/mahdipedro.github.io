@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, Amirkabir University of Technology, 2014
+* Ph.D in Computer Engineering, Washington State University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2013 - June 2013: Research Assistant
+  * Amirkabir University of Technology
+  * Duties included: Desing and development of a greenhouse automation system.
 
 * Fall 2015: Research Assistant
   * Github University
