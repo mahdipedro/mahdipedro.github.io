@@ -34,7 +34,11 @@ Work experience
   * Washington State University
   * Supervisor: Professor Hassan Ghasemzadeh
   
-
+* July 2019 - Present: Teaching Assistant
+  * Washington State University
+  * Duties included: Assisting the instructor in designing syllabus/projects and mentoring students on their projects.
+  * Courses: Embedded Systems, Machine Learning, and Operating Systems
+  
   
 Skills
 ======
