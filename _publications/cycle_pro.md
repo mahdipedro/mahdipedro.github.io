@@ -1,7 +1,7 @@
 ---
 title: "Smartsock: A wearable platform for context-aware assessment of ankle edema"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/cycle_pro
 date: 2016-08-16
 venue: '38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7592169'
