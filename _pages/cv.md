@@ -37,7 +37,7 @@ Work experience
   
 * April 2013 - June 2013: Research Assistant
   * Amirkabir University of Technology
-  * Duties included: Desing and development of a greenhouse automation system.
+  * Duties included: Design and development of a greenhouse automation system.
 
 
   
