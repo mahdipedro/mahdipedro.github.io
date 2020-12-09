@@ -1,10 +1,10 @@
 ---
 title: "Smart-cuff: A wearable bio-sensing platform with activity-sensitive information quality assessment for monitoring ankle edema"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 'https://d1wqtxts1xzle7.cloudfront.net/38530126/07133994.pdf?1440125292=&response-content-disposition=inline%3B+filename%3DSmart_Cuff_A_Wearable_Bio_Sensing_Platfo.pdf&Expires=1607478957&Signature=QqKhxZQcljPA1qEBoNGn0X95Su6aj~HzRZ8YcsnsCjQPuU2gxYnFPJ2heealwJFoyqew08yeZrxkOEPG6y98mAHp9iX8yU9bSW6tX-BQiZFsmZCfzwNl5WGLmpLyfLWetUur3MT1QsrcE6BNm85egqT4w0HFx194cbQuYMVzkL-a3aWOhnpNCL1YVy5~PJ10iCGVRkff-uhf1dTe0H~fjM1XVOsqlYyq12Lx8m0AEOGbEq5B14pxe6Tb64uqkKqGxjUvPLc26CbpNBrh0UWWcpJI0h2NCfx5imJV7PalC1BB1WRiKO6~5b11cDLcmXYyrfzWvRh05~IIeg1VthQq0Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'https://d1wqtxts1xzle7.cloudfront.net/38530126/07133994.pdf?1440125292=&response-content-disposition=inline%3B+filename%3DSmart_Cuff_A_Wearable_Bio_Sensing_Platfo.pdf&Expires=1607478957&Signature=QqKhxZQcljPA1qEBoNGn0X95Su6aj~HzRZ8YcsnsCjQPuU2gxYnFPJ2heealwJFoyqew08yeZrxkOEPG6y98mAHp9iX8yU9bSW6tX-BQiZFsmZCfzwNl5WGLmpLyfLWetUur3MT1QsrcE6BNm85egqT4w0HFx194cbQuYMVzkL-a3aWOhnpNCL1YVy5~PJ10iCGVRkff-uhf1dTe0H~fjM1XVOsqlYyq12Lx8m0AEOGbEq5B14pxe6Tb64uqkKqGxjUvPLc26CbpNBrh0UWWcpJI0h2NCfx5imJV7PalC1BB1WRiKO6~5b11cDLcmXYyrfzWvRh05~IIeg1VthQq0Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'
-citation: 'Your Name, You. (2015). &quot;Smart-cuff: A wearable bio-sensing platform with activity-sensitive information quality assessment for monitoring ankle edema.&quot; <i>IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops)</i>. 1(1).'
+citation: 'Ramin Fallahzadeh, Mahdi Pedram, Ramyar Saeedi, Bahman Sadeghi, Michael Ong, Hassan Ghasemzadeh. (2015). &quot;Smart-cuff: A wearable bio-sensing platform with activity-sensitive information quality assessment for monitoring ankle edema.&quot; <i>IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops)</i>. 1(1).'
 ---
