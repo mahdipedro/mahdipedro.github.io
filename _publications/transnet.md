@@ -1,7 +1,7 @@
 ---
 title: "TransNet: Minimally Supervised Deep Transfer Learning for Dynamic Adaptation of Wearable Systems"
 collection: publications
-permalink: /publication/resource
+permalink: /publication/transnet
 date: 2020-09-10
 venue: 'ACM Transactions on Design Automation of Electronic Systems (TODAES)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3414062'
