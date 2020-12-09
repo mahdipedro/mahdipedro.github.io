@@ -2,7 +2,6 @@
 title: "Smart-cuff: A wearable bio-sensing platform with activity-sensitive information quality assessment for monitoring ankle edema"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: ' IEEE International Conference on Pervasive Computing and Communication Workshops'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7133994'
