@@ -11,7 +11,7 @@ title                    : "Mahdi Pedram"
 title_separator          : "-"
 name                     : &name "Mahdi_Pedram"
 description              : &description "personal description"
-url                      : https://mahdipedro.github.io/mpedram.github.io/ 
+url                      : https://mahdipedro.github.io/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mahdipedro/mpedram.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
