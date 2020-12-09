@@ -8,4 +8,4 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/8371282'
 citation: 'Josue Pagan, Ramin Fallahzadeh, Mahdi Pedram, Jose L Risco-Martin, Jose M Moya, Jose L Ayala, Hassan Ghasemzadeh. (2015). &quot;Toward ultra-low-power remote health monitoring: An optimal and adaptive compressed sensing framework for activity recognition.&quot; <i>IEEE Transactions on Mobile Computing</i>.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://github.com/mahdipedro/mpedram.github.io/blob/master/files/toward%20ultra-low-power.pdf)
