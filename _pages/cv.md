@@ -16,20 +16,6 @@ Education
 
 Work experience
 ======
-* April 2013 - June 2013: Research Assistant
-  * Amirkabir University of Technology
-  * Duties included: Desing and development of a greenhouse automation system.
-
-* November 2014 - April 2015: Technical Assistant
-  * Washington State University
-  * Duties included: Design and development of SmartSock and analysis the collected data with the developed prototype.
-  * Supervisor: Professor Hassan Ghasemzadeh
-  
-* July 2015 - December 2015: SCADA System Researcher
-  * Saba System Sadra, Tehran, Iran
-  * Duties included: Providing information for a safe and secure SCADA system development.
-  * Supervisor: Omid Banaei
-
 * August 2016 - Present: Research Assistant
   * Washington State University
   * Supervisor: Professor Hassan Ghasemzadeh
@@ -39,6 +25,21 @@ Work experience
   * Duties included: Assisting the instructor in designing syllabus/projects and mentoring students on their projects.
   * Courses: Embedded Systems, [Machine Learning](https://github.com/mahdipedro/mpedram.github.io/blob/master/files/syllabus.pdf), and Operating Systems
   
+* July 2015 - December 2015: SCADA System Researcher
+  * Saba System Sadra, Tehran, Iran
+  * Duties included: Providing information for a safe and secure SCADA system development.
+  * Supervisor: Omid Banaei
+
+* November 2014 - April 2015: Technical Assistant
+  * Washington State University
+  * Duties included: Design and development of SmartSock and analysis the collected data with the developed prototype.
+  * Supervisor: Professor Hassan Ghasemzadeh
+  
+* April 2013 - June 2013: Research Assistant
+  * Amirkabir University of Technology
+  * Duties included: Desing and development of a greenhouse automation system.
+
+
   
 Skills
 ======
