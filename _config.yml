@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mahdi Pedram"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mahdi_Pedram"
 description              : &description "personal description"
 url                      : https://mahdipedro.github.io/mpedram.github.io/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
