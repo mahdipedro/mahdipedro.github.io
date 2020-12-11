@@ -1,5 +1,5 @@
 ---
-title: "Embedded Systems - Fall 2020"
+title: "Operating Systems - Fall 2020"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-4
