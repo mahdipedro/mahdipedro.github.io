@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "Pullman, WA"
 ---
 
-Teaching Assistant
+Teaching Assistant.
 
 Heading 1
 ======
