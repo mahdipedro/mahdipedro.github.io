@@ -9,8 +9,8 @@ location: "Pullman, WA"
 ---
 
 Lab Instructor and Teaching Asssitant.
-  
-Heading 1111111111
+
+Heading 1
 ======
 
 Heading 2
