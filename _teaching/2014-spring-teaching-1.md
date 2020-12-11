@@ -10,7 +10,7 @@ location: "Pullman, WA"
 
 I Assisted the instructor in designing syllabus and projects. I held lab sessions of the course which included mentoring student projects and showing them the demos of the upcoming projects.
 
-Introduction to Machine Learning
+Introduction to Machine Learning - Spring 2020
 ======
 collection: teaching
 type: "Undergraduate and graduate course"
