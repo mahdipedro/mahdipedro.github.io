@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Machine Learning"
+title: "Introduction to Machine Learning - Spring 2020"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
