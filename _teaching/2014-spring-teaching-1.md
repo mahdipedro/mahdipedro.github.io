@@ -7,8 +7,9 @@ venue: "Washington State University, School of Electrical Engineering & Computer
 date: 2018-08-15
 location: "Pullman, WA"
 ---
-          
-		  
+
+Lab Instructor and Teaching Asssitant.  
+  
 Heading 1
 ======
 
