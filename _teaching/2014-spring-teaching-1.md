@@ -1,5 +1,5 @@
 ---
-title: "Embedded Systems"
+title: "Embedded Systems - Fall 2018"
 collection: teaching
 type: "Undergraduate and graduate course"
 permalink: /teaching/
