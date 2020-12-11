@@ -10,8 +10,12 @@ location: "Pullman, WA"
 
 I Assisted the instructor in designing syllabus and projects. I held lab sessions of the course which included mentoring student projects and showing them the demos of the upcoming projects.
 
-Heading 1
+Introduction to Machine Learning
 ======
+collection: teaching
+type: "Undergraduate and graduate course"
+venue: "Washington State University, School of Electrical Engineering & Computer Science"
+date: 2020-01-10
 
 Heading 2
 ======
