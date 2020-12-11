@@ -8,7 +8,7 @@ date: 2018-08-15
 location: "Pullman, WA"
 ---
 
-I Assisted the instructor in designing syllabus and projects. I held lab sessions of the course which included mentoring student projects and showing them the demos of the upcoming projects.
+I assisted the instructor in designing syllabus and projects. I held lab sessions of the course which included mentoring student projects and showing them the demos of the upcoming projects.
 
 Heading 1
 ======
