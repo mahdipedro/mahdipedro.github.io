@@ -15,7 +15,7 @@ My research topics include :
 * Embedded Systems
 * Health Monitoring Systems
 * Medical Devices
-* Wearable Sensor Development
+* Sensor System Development
 * Sensor Data Mining
 * Power Optimization
 * Machine Learning
