@@ -7,7 +7,7 @@ In [this](https://github.com/mahdipedro/Handling-Power-Hungry-Sensors-in-a-Low-P
 
 1- How to utilize 3.7V Lipo battery for a 5V sensor.
 
-
 2- How to control energy consumption of the sensors by turning them on and off periodically.
+
 3- How to read the analog output of a 5V sensor. 
 
