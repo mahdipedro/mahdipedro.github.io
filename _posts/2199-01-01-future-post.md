@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+In this post I explained how one can use 5V power-hungry sensors via 3.3V microcontroller. 
