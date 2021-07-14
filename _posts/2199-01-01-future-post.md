@@ -1,7 +1,7 @@
 ---
 title: 'Handling Power Hungry Sensors in a Low-Power Project'
 date: 2021-07-13
-permalink: /posts/2012/08/blog-post-4/
+permalink: 
 tags:
   - cool posts
   - category1
