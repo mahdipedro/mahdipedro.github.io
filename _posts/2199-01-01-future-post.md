@@ -1,5 +1,5 @@
 ---
-title: 'Handling Power Hungry Sensors in a Low-Power Projectt'
+title: 'Handling Power Hungry Sensors in a Low-Power Project'
 date: 2021-07-13
 permalink: https://github.com/mahdipedro/Handling-Power-Hungry-Sensors-in-a-Low-Power-Project
 tags:
