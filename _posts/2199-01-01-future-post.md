@@ -9,7 +9,7 @@ In [this](https://github.com/mahdipedro/Handling-Power-Hungry-Sensors-in-a-Low-P
 
 2- How to control energy consumption of the sensors by turning them on and off periodically.
 
-3- How to read the analog output of a 5V sensor. 
+3- How to read the analog output of a 5V sensor with a 3.3V microcontroller. 
 
 4- In what condition we can power a sensor through one of the microcontroller's pin.
 
