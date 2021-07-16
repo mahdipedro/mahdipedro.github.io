@@ -11,3 +11,5 @@ In [this](https://github.com/mahdipedro/Handling-Power-Hungry-Sensors-in-a-Low-P
 
 3- How to read the analog output of a 5V sensor. 
 
+4- In what condition we can power a sensor through one of the microcontroller's pin.
+
