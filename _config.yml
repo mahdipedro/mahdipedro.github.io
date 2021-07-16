@@ -86,8 +86,10 @@ author:
   location         : "Pullman, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Hpc-9PAAAAAJ&hl=en"
   email            : "mahdi.pedram@wsu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=Hpc-9PAAAAAJ&hl=en"
+  linkedin         : "mahdi-pedram-b29bb7107"
+  github           : "mahdipedro"
   researchgate     : "https://www.researchgate.net/profile/Mahdi_Pedram"
   uri              :
   bitbucket        :
@@ -96,13 +98,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mahdipedro"
   google_plus      :
   keybase          :
   instagram        : "mahdipedro"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mahdi-pedram-b29bb7107"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
