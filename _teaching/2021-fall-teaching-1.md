@@ -11,11 +11,11 @@ location: "Pullman, WA"
 General Information
 ======
 
-	Day/Time/Venue: Tue Thur.  / 1:25pm to 2:40pm / Sloan 175
-	Instructor: Hassan Ghasemzadeh, Email: hassan.ghasemzadeh@wsu.edu, Office: EME 131, Office Hours: Monday and Wednesday 1:30pm to 2:30pm or by appointment.
-	Pre-requisite: CptS 360 Systems Programming; Good background on Operating Systems, C/C++ programming experience, and knowledge of microprocessors.
-	Course Webpage: http://epsl.eecs.wsu.edu/fall-2018-cpts-4663 (for lecture notes, syllabus, class schedule, etc.); and WSU Blackboard: http://learn.wsu.edu (for grades, submission of the assignments).
-	Main Textbook: Embedded Systems: Introduction to Arm® Cortex™-M Microcontrollers, Fifth Edition (Volume 1) 5th Edition, By: Jonathan W Valvano, ISBN-13: 978-1477508992, ISBN-10: 1477508996.
+* Item	Day/Time/Venue: M,W,F11.10-12 / Sloan 146
+* Item	Instructor: Mahdi Pedram, Email: mahdi.pedram@wsu.edu, Office: Dana 114, Office Hours: Monday and Wednesday 1:30pm to 2:30pm or by appointment.
+* Item	Pre-requisite: CptS 360 Systems Programming; Good background on Operating Systems, C/C++ programming experience, and knowledge of microprocessors.
+* Item	Course Webpage: http://epsl.eecs.wsu.edu/fall-2021-cpts-4663 (for lecture notes, syllabus, class schedule, etc.); and WSU Blackboard: http://learn.wsu.edu (for grades, submission of the assignments).
+* Item	Main Textbook: Embedded Systems: Introduction to Arm® Cortex™-M Microcontrollers, Fifth Edition (Volume 1) 5th Edition, By: Jonathan W Valvano, ISBN-13: 978-1477508992, ISBN-10: 1477508996.
 
 1
 
