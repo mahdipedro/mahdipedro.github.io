@@ -19,8 +19,10 @@ General Information
     1. Embedded Systems: Introduction to Arm® Cortex™-M Microcontrollers (Volume 1) 5th Edition, By: Jonathan W Valvano, ISBN-13: 978-1477508992, ISBN-10: 1477508996.
     2. Embedded Systems: Real-Time Interfacing to Arm Cortex-M Microcontrollers, 5th Edition, By: Jonathan W Valvano, ISBN-13: 978-1463590154, ISBN-10: 1463590156.
 
+<p align="center">
 ![image](https://user-images.githubusercontent.com/45086751/126048660-d51c0bfe-eb76-48b0-ab62-d6e14712b02b.png)
 ![image](https://user-images.githubusercontent.com/45086751/126048662-cf78830a-e148-4722-94d6-d2044f40d626.png)
+  </p>
 
 
 1
