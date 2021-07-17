@@ -8,7 +8,6 @@ date: 2021-07-16
 location: "Pullman, WA"
 ---
 
-Course Instructor.
 
 Heading 1
 ======
