@@ -20,11 +20,11 @@ General Information
     2. Embedded Systems: Real-Time Interfacing to Arm Cortex-M Microcontrollers, 5th Edition, By: Jonathan W Valvano, ISBN-13: 978-1463590154, ISBN-10: 1463590156.
 
 <p align="center">
-    <img width="460" height="500" src="https://user-images.githubusercontent.com/45086751/126048660-d51c0bfe-eb76-48b0-ab62-d6e14712b02b.png">
+    <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/126048660-d51c0bfe-eb76-48b0-ab62-d6e14712b02b.png">
  </p>   
     
  <p align="center">
-    <img width="460" height="500" src="https://user-images.githubusercontent.com/45086751/126048662-cf78830a-e148-4722-94d6-d2044f40d626.png">
+    <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/126048662-cf78830a-e148-4722-94d6-d2044f40d626.png">
  </p> 
  
  
