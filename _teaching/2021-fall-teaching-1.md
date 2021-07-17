@@ -8,8 +8,7 @@ date: 2021-07-16
 location: "Pullman, WA"
 ---
 
-
-Heading 1
+General Information
 ======
 
 Heading 2
