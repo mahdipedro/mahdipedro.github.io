@@ -25,19 +25,17 @@ General Information
     <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/126048662-cf78830a-e148-4722-94d6-d2044f40d626.png">
  </p> 
  
- 
+ Statement of Reasonable Accommodation
+ ======
+Reasonable accommodations are available for students with a documented disability. If you have a disability and need accommodations to fully participate in this class, please either visit or call the Access Center (Washington Building 217; 509-335-3417) to schedule an appointment with an Access Advisor. All accommodations MUST be approved through the Access Center. For more information contact a Disability Specialist @ 509-335-3417, http://accesscenter.wsu.edu, Access.Center@wsu.edu.
 
-
-1
-
-2
-
-3
-
-4
-
-Heading 2
+Campus Safety Information
 ======
+Review the Campus Safety Plan (http://safetyplan.wsu.edu/) and visit the Office of Emergency Management website (http://oem.wsu.edu/) for a comprehensive listing of university policies, procedures, statistics, and information related to campus safety, emergency management, and the health and welfare of the campus community.
 
-Heading 3
+
+Cheating Policy
 ======
+Limited cooperation among students on homework assignments and programming projects is encouraged. Students may discuss meaning of the assignments and possible directions on how to solve the problems. However, any written portion of an assignment MUST be the student’s work. Copying from other students or allowing other students to copy your work is considered to be cheating and will result in a reduced or a failing grade.
+
+
