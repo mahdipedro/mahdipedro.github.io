@@ -44,7 +44,7 @@ Please read the instructions included in each homework assignment about how to s
 
  Hardware Components
 
-You will be working on hands-on projects. You will need to purchase a number of hardware components for your projects. A list of the components is provided [here]()
+You will be working on hands-on projects. You will need to purchase a number of hardware components for your projects. A list of the components is provided.
 
 
 
