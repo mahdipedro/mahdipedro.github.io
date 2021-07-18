@@ -9,7 +9,7 @@ location: "Pullman, WA"
 ---
  Course Instructor.
 
-## General Information
+General Information
 
 * Day/Time/Venue: M,W,F11.10-12 / Sloan 146
 * Instructor: Mahdi Pedram, Email: mahdi.pedram@wsu.edu, Office: Dana 114, Office Hours: Monday and Wednesday 1:30pm to 2:30pm or by appointment.
