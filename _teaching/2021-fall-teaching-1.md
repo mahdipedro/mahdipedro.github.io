@@ -26,6 +26,7 @@ General Information
  </p> 
  
  
+ 
  Statement of Reasonable Accommodation
  ======
 Reasonable accommodations are available for students with a documented disability. If you have a disability and need accommodations to fully participate in this class, please either visit or call the Access Center (Washington Building 217; 509-335-3417) to schedule an appointment with an Access Advisor. All accommodations MUST be approved through the Access Center. For more information contact a Disability Specialist @ 509-335-3417, http://accesscenter.wsu.edu, Access.Center@wsu.edu.
