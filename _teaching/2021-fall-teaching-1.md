@@ -39,4 +39,13 @@ Cheating Policy
 ======
 Limited cooperation among students on homework assignments and programming projects is encouraged. Students may discuss meaning of the assignments and possible directions on how to solve the problems. However, any written portion of an assignment MUST be the student’s work. Copying from other students or allowing other students to copy your work is considered to be cheating and will result in a reduced or a failing grade.
 
+Assignments (Homework and Projects)
+======
+Please read the instructions included in each homework assignment about how to submit your assignment and on late submission policy. Assignments that are submitted beyond the allowed time frame will not be graded.  A tutorial document on how to install and use the Keil software is provided on the course website.
+
+Hardware Components
+======
+You will be working on hands-on projects. You will need to purchase a number of hardware components for your projects. A list of the components is provided [here]()
+
+
 
