@@ -54,6 +54,13 @@ You will be working on hands-on projects. You will need to purchase a number of 
   <img width="200" height="240" src="https://user-images.githubusercontent.com/45086751/126089915-085b8dc7-c11b-4dbc-95bd-ed68abb66355.png">
  </p> 
 
+## Grades
+Grades will be posted on WSU Blackboard approximately one week after the due date for each homework assignment.
+ 
+## Exams
+ *	Midterms will take place during normal class hours and in the same classroom as lectures.
+ *	Final exam will take place according to the University Final Exams Schedules.
+  
 
 
 
