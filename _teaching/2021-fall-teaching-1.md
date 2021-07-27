@@ -53,17 +53,21 @@ location: "Pullman, WA"
  
 *	Interrupts
     -	Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.
+	
+*	Digital to Analog Conversion
+    -	Digitization, Nyquist Theorem, Sampling, Precision, Resolution, Designing a DAC using binary weighted approach, Sound as an analog signal, Designing a DAC using R2R approach, Sound generation example code.
+ 
+*	ADC and data acquisition
+    -	Data acquisition system; ADC parameters; Configuring micro-controller for ADC process; Software code for data acquisition.
     -	
-●	Digital to Analog Conversion
-o	Digitization, Nyquist Theorem, Sampling, Precision, Resolution, Designing a DAC using binary weighted approach, Sound as an analog signal, Designing a DAC using R2R approach, Sound generation example code.
-●	ADC and data acquisition
-o	Data acquisition system; ADC parameters; Configuring micro-controller for ADC process; Software code for data acquisition.
-●	Monitoring complex events
-o	Signal processing; Segmentation; Feature extraction; Introduction to Machine Learning
-●	Feature selection
-o	Search directions/strategies; Selection criteria; Filter versus wrapper methods
-●	Supervised learning algorithms
-o	Decision tree classification; K-Nearest-Neighbor classification; Evaluating classifier performance
+*	Monitoring complex events
+   -	Signal processing; Segmentation; Feature extraction; Introduction to Machine Learning
+ 
+*	Feature selection
+    -	Search directions/strategies; Selection criteria; Filter versus wrapper methods
+ 
+*	Supervised learning algorithms
+    -	Decision tree classification; K-Nearest-Neighbor classification; Evaluating classifier performance
 
 
 
