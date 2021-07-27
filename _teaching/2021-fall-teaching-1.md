@@ -41,14 +41,19 @@ location: "Pullman, WA"
     -	Current, voltage, Ohms law, power, voltage division, current division, transistor-level NAND gate.
 *	System Development Cylce
     -	Requirements document, design process, testing; Switch and LED interfacing.
-●	Functional debugging; 
-o	SysTick timer; Arrays in C; Functional debugging.
-●	Finite State Machines
-o	Precise Timing (using SysTick timer)
-●	Serial Communication
-o	UART: Methods of synchronization, UART configuration
-●	Interrupts
-o	Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.
+    
+*	Functional debugging; 
+    -	SysTick timer; Arrays in C; Functional debugging.
+  
+*	Finite State Machines
+    -	Precise Timing (using SysTick timer)
+ 
+*	Serial Communication
+    -	UART: Methods of synchronization, UART configuration
+ 
+*	Interrupts
+    -	Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.
+    -	
 ●	Digital to Analog Conversion
 o	Digitization, Nyquist Theorem, Sampling, Precision, Resolution, Designing a DAC using binary weighted approach, Sound as an analog signal, Designing a DAC using R2R approach, Sound generation example code.
 ●	ADC and data acquisition
