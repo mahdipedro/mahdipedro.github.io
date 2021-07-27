@@ -59,7 +59,7 @@ location: "Pullman, WA"
  
 *	ADC and data acquisition
     -	Data acquisition system; ADC parameters; Configuring micro-controller for ADC process; Software code for data acquisition.
-    -	
+	
 *	Monitoring complex events
    -	Signal processing; Segmentation; Feature extraction; Introduction to Machine Learning
  
