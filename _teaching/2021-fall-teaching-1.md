@@ -29,6 +29,37 @@ location: "Pullman, WA"
 
 *	Introduction to Computers and Electronics
     - Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.
+    - Review of digital design basics: what is a digital system, combinational logics, gates, truth table, decoder, encoder, multiplexer, logic simplification, rules of Boolean algebra, designing a simple 1-bit ALU
+
+* Introduction to Embedded Systems & Applications
+* Introduction to the ARM Cortex-M
+    - Instruction Set Architecture (ISA), ARM registers, Processor Status Register (PSR), Instruction Format and Instruction Types, Memory Mapped I/O.
+
+* Introduction to Input / Output
+    -	I/O Ports configuration on Arm micro-controller TM4C123: I/O types, Direction register, Data register;
+*	Electronic Circuits
+    -	Current, voltage, Ohms law, power, voltage division, current division, transistor-level NAND gate.
+*	System Development Cylce
+    -	Requirements document, design process, testing; Switch and LED interfacing.
+●	Functional debugging; 
+o	SysTick timer; Arrays in C; Functional debugging.
+●	Finite State Machines
+o	Precise Timing (using SysTick timer)
+●	Serial Communication
+o	UART: Methods of synchronization, UART configuration
+●	Interrupts
+o	Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.
+●	Digital to Analog Conversion
+o	Digitization, Nyquist Theorem, Sampling, Precision, Resolution, Designing a DAC using binary weighted approach, Sound as an analog signal, Designing a DAC using R2R approach, Sound generation example code.
+●	ADC and data acquisition
+o	Data acquisition system; ADC parameters; Configuring micro-controller for ADC process; Software code for data acquisition.
+●	Monitoring complex events
+o	Signal processing; Segmentation; Feature extraction; Introduction to Machine Learning
+●	Feature selection
+o	Search directions/strategies; Selection criteria; Filter versus wrapper methods
+●	Supervised learning algorithms
+o	Decision tree classification; K-Nearest-Neighbor classification; Evaluating classifier performance
+
 
 
 ## Statement of Reasonable Accommodation
