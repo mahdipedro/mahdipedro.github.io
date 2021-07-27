@@ -28,7 +28,7 @@ location: "Pullman, WA"
 ## Course Syllabus
 
 *	Introduction to Computers and Electronics
-  * Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.
+    - Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.
 
 
 ## Statement of Reasonable Accommodation
