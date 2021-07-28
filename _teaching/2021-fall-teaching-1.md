@@ -63,7 +63,7 @@ location: "Pullman, WA"
 	
 *	Monitoring complex events
  	- Signal processing; Segmentation; Feature extraction; Introduction to Machine Learning
-
+ 	- s
  
 *	Feature selection
     -	Search directions/strategies; Selection criteria; Filter versus wrapper methods
