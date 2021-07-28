@@ -50,6 +50,7 @@ location: "Pullman, WA"
  
 *	Serial Communication
     -	UART: Methods of synchronization, UART configuration
+    -	I2C : Communication method, bus configurtion
  
 *	Interrupts
     -	Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.
