@@ -39,7 +39,7 @@ location: "Pullman, WA"
     -	I/O Ports configuration on Arm micro-controller TM4C123: I/O types, Direction register, Data register;
 *	Electronic Circuits
     -	Current, voltage, Ohms law, power, voltage division, current division, transistor-level NAND gate.
-*	System Development Cylce
+*	System Development Cycle
     -	Requirements document, design process, testing; Switch and LED interfacing.
     
 *	Functional debugging; 
@@ -104,7 +104,7 @@ You will be working on hands-on projects. You will need to purchase a number of 
  </p> 
 
 ## Grades
-Grades will be posted on WSU Blackboard approximately one week after the due date for each homework assignment.
+Grades will be posted on WSU Canvas approximately one week after the due date for each homework assignment.
  
 ## Exams
  *	Midterms will take place during normal class hours and in the same classroom as lectures.
