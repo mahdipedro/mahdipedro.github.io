@@ -110,7 +110,9 @@ Grades will be posted on WSU Canvas approximately one week after the due date fo
  *	Midterms will take place during normal class hours and in the same classroom as lectures.
  *	Final exam will take place according to the University Final Exams Schedules.
   
-
-
-
+## Class Schedule 
+| Week Of      | Topic & Reading |
+| ----------- 	| ----------- |
+| August 23      | Introduction to the course; Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.|
+| Paragraph   | Text        |
 
