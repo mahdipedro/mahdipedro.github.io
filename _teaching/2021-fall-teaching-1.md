@@ -113,12 +113,12 @@ Grades will be posted on WSU Canvas approximately one week after the due date fo
 ## Class Schedule 
 | Week Of      | Topic & Reading | Comments |
 | ----------- 	| ----------- |	 ----------- |	
-| August 23      | Introduction to the course; Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.| 
-| August 30   | Review of digital design basics: what is a digital system, combinational logics, gates, truth table, decoder, encoder, multiplexer, logic simplification, rules of Boolean algebra, designing a simple 1-bit ALU;  Introduction to Microcontrollers and Embedded systems: Applications, Von Neumann and Harvard Architectures, Instruction Set Architecture (ISA), ARM registers, Processor Status Register (PSR), Instruction Format and Instruction Types, Memory Mapped I/O.|
-|September 6	|I/O Ports configuration on Arm micro-controller TM4C123: I/O types, Direction register, Data register; Electronic circuits: current, voltage, Ohms law, power, voltage division, current division, transistor-level NAND gate.|
-|September 13	|Development cycle: requirements document, design process, testing; Switch and LED interfacing.|
-|September 20	|SysTick timer; Arrays in C; Functional debugging.|
-|September 27	|Finite State Machines; Precise Timing (SysTick timer)|
-|October 4	|UART: Methods of synchronization, UART configuration|
-|October 11	|Interrupts: Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.|
-|October 18	| Digital to Analog Conversion: Digitization, Nyquist Theorem, Sampling, Precision, Resolution, Designing a DAC using binary weighted approach, Sound as an analog signal, Designing a DAC using R2R approach, Sound generation example code.|
+| Aug.23      | Introduction to the course; Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.| 
+| Aug.30   | Review of digital design basics: what is a digital system, combinational logics, gates, truth table, decoder, encoder, multiplexer, logic simplification, rules of Boolean algebra, designing a simple 1-bit ALU;  Introduction to Microcontrollers and Embedded systems: Applications, Von Neumann and Harvard Architectures, Instruction Set Architecture (ISA), ARM registers, Processor Status Register (PSR), Instruction Format and Instruction Types, Memory Mapped I/O.|
+|Sept.6	|I/O Ports configuration on Arm micro-controller TM4C123: I/O types, Direction register, Data register; Electronic circuits: current, voltage, Ohms law, power, voltage division, current division, transistor-level NAND gate.|
+|Sept.13	|Development cycle: requirements document, design process, testing; Switch and LED interfacing.|
+|Sept.20	|SysTick timer; Arrays in C; Functional debugging.|
+|Sept.27	|Finite State Machines; Precise Timing (SysTick timer)|
+|Oct.4	|UART: Methods of synchronization, UART configuration|
+|Oct.11	|Interrupts: Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.|
+|Oct.18	| Digital to Analog Conversion: Digitization, Nyquist Theorem, Sampling, Precision, Resolution, Designing a DAC using binary weighted approach, Sound as an analog signal, Designing a DAC using R2R approach, Sound generation example code.|
