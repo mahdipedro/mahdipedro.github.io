@@ -122,3 +122,5 @@ Grades will be posted on WSU Canvas approximately one week after the due date fo
 |Oct.4	|UART: Methods of synchronization, UART configuration|
 |Oct.11	|Interrupts: Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.|
 |Oct.18	| Digital to Analog Conversion: Digitization, Nyquist Theorem, Sampling, Precision, Resolution, Designing a DAC using binary weighted approach, Sound as an analog signal, Designing a DAC using R2R approach, Sound generation example code.|
+|Oct.25	|ADC and Data Acquisition: Data acquisition system; ADC parameters; Configuring micro-controller for ADC process; Software code for data acquisition.|
+|Nov.1	|Monitoring complex events: Signal processing; segmentation; feature extraction; Introduction to Machine Learning|
