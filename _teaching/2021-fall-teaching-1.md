@@ -114,5 +114,6 @@ Grades will be posted on WSU Canvas approximately one week after the due date fo
 | Week Of      | Topic & Reading |
 | ----------- 	| ----------- |
 | August 23      | Introduction to the course; Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.|
-| Paragraph   | Text        |
+| August 30   | Review of digital design basics: what is a digital system, combinational logics, gates, truth table, decoder, encoder, multiplexer, logic simplification, rules of Boolean algebra, designing a simple 1-bit ALU;  Introduction to Microcontrollers and Embedded systems: Applications, Von Neumann and Harvard Architectures, Instruction Set Architecture (ISA), ARM registers, Processor Status Register (PSR), Instruction Format and Instruction Types, Memory Mapped I/O.|
+|ass	|asd	|
 
