@@ -100,7 +100,7 @@ You will be working on hands-on projects. You will need to purchase a number of 
  *	The letter-grade equivalencies are based on lower bound thresholds of 90, 87, 83, 80, 77, 73, 70, 67, 63, and 60 for letter-grades of ‘A’, ‘A-‘, ‘B+’, ‘B’, ‘B-‘, ‘C+’, ‘C’, ‘C-‘, ‘D+’, and ‘D’, respectively. An overall course score of below 60 translates into an ‘F’ letter-grade. In short, the letter equivalencies are as follows. ‘A’≥=90; 87≤’A-‘<90; 83≤’B+'<87; 80≤’B'<87; 77≤’B-‘<80; 73≤’C+'<77; 70≤’C'<73; 67≤’C-‘<70; 63≤’D+'<67; 60≤’D'<63; F<60.
 
 <p align="center">
-  <img width="220" height="240" src="https://user-images.githubusercontent.com/45086751/126089915-085b8dc7-c11b-4dbc-95bd-ed68abb66355.png">
+  <img width="220" height="230" src="https://user-images.githubusercontent.com/45086751/126089915-085b8dc7-c11b-4dbc-95bd-ed68abb66355.png">
  </p> 
 
 ## Grades
