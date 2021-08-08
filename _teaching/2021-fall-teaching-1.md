@@ -111,9 +111,9 @@ Grades will be posted on WSU Canvas approximately one week after the due date fo
  *	Final exam will take place according to the University Final Exams Schedules.
   
 ## Class Schedule 
-| Week Of      | Topic & Reading |
-| ----------- 	| ----------- |
-| August 23      | Introduction to the course; Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.|
+| Week Of      | Topic & Reading | Comments |
+| ----------- 	| ----------- |	 ----------- |	
+| August 23      | Introduction to the course; Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.| 
 | August 30   | Review of digital design basics: what is a digital system, combinational logics, gates, truth table, decoder, encoder, multiplexer, logic simplification, rules of Boolean algebra, designing a simple 1-bit ALU;  Introduction to Microcontrollers and Embedded systems: Applications, Von Neumann and Harvard Architectures, Instruction Set Architecture (ISA), ARM registers, Processor Status Register (PSR), Instruction Format and Instruction Types, Memory Mapped I/O.|
 |September 6	|I/O Ports configuration on Arm micro-controller TM4C123: I/O types, Direction register, Data register; Electronic circuits: current, voltage, Ohms law, power, voltage division, current division, transistor-level NAND gate.|
 |September 13	|Development cycle: requirements document, design process, testing; Switch and LED interfacing.|
