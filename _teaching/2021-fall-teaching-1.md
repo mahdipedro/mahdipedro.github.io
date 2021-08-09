@@ -62,6 +62,9 @@ location: "Pullman, WA"
  
 *	ADC and data acquisition
     -	Data acquisition system; ADC parameters; Configuring micro-controller for ADC process; Software code for data acquisition.
+
+*	Internet of Things
+	- CC3100 Booster Pack, IP Addresses, Client Server Communication.
 	
 *	Monitoring complex events
       -	Signal processing; Segmentation; Feature extraction; Introduction to Machine Learning.
