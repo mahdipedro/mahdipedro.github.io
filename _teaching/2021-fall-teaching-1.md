@@ -52,7 +52,7 @@ location: "Pullman, WA"
     -	UART: Methods of synchronization, UART configuration
     -	SPI: Fundamentals
     -	I2C : Synchronization method, TM4C I2C details
-    -	USb : Basic principles, modular and integrated USB Interfaces
+    -	USB : Basic principles, modular and integrated USB Interfaces
  
 *	Interrupts
     -	Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.
