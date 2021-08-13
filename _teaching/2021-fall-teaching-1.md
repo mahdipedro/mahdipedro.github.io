@@ -48,11 +48,12 @@ location: "Pullman, WA"
 *	Finite State Machines
     -	Precise Timing (using SysTick timer)
  
-*	Serial Communication
+*	Serial and Parallel Port Interfacing
     -	UART: Methods of synchronization, UART configuration
     -	SPI: Fundamentals
     -	I2C : Synchronization method, TM4C I2C details
     -	USB : Basic principles, modular and integrated USB Interfaces
+    -	Binary Actuators: Motors, Pulse-width modulation
  
 *	Interrupts
     -	Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.
