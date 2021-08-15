@@ -1,6 +1,6 @@
 ---
 title: 'Gas Sensor Selection Guide'
-date: 2021-07-13
+date: 2021-07-15
 ---
 
 I have been invloved with a project that required us to use gas sensors. I had to do research on these sensors to select the right sensor for our project. In this post I explain how we may select the right gas sensor for a project. There are certian points that neeed to be considered before sensor selection which includes:
