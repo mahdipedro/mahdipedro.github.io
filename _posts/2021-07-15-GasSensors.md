@@ -11,7 +11,7 @@ I have been invloved with a project that required us to use gas sensors. I had t
 
 3- Operation Temperature: In what kind of environment are we going to deploy the sensor. For example, it would be important for sensor selection if the temperature goes below 0℃.
 
-4- Measurement Range: What is the required measurement range for the application? For example, CO2 concentration below 1000ppm is safe for humans. However, at higher levels, around 2500 ppm, there are significant reductions in cognitive functioning, especially for tasks that require higher-level thinking. And finally, CO2 levels above 50,000ppm can cause humans to lose consciousness which can lead to death, f this occurs for long enough. [reference](https://learn.kaiterra.com/en/air-academy/is-carbon-dioxide-harmful-to-people)
+4- Measurement Range: What is the required measurement range for the application? For example, CO2 concentration below 1000ppm is safe for humans. However, at higher levels, around 2500 ppm, there are significant reductions in cognitive functioning, especially for tasks that require higher-level thinking. And finally, CO2 levels above 50,000ppm can cause humans to lose consciousness which can lead to death, f this occurs for long enough. Or in CO case, at sustained concentrations above 150 to 200 ppm, disorientation, unconsciousness, and death are possible. [reference1](https://learn.kaiterra.com/en/air-academy/is-carbon-dioxide-harmful-to-people) [reference2](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers)
 
 5- Response Time:
 
