@@ -39,7 +39,7 @@ The potential CO2 options were:
 MH-Z14A NDIR CO2 Module or Gravity Analog Infrared CO2 Sensor.
 
 <p align="center">
-  <img width="180" height="200" src="https://user-images.githubusercontent.com/45086751/129488247-ebf32e1c-9bf7-4af7-8e08-19220f2f98d1.png">
+  <img width="180" height="200" src="https://user-images.githubusercontent.com/45086751/129488385-c0311048-ae0f-4949-8194-401621b754da.png">
   <img width="220" height="200" src="https://user-images.githubusercontent.com/45086751/129488266-70117cc3-fa8a-44ef-89ec-e9c8a051363c.png">
 </p> 
 
