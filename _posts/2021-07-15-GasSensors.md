@@ -25,7 +25,7 @@ I have been invloved with a project that required us to use gas sensors. I had t
 ## CO2 Gas Sensor Selection
 The goal of the project was to develop a portable sensing system to detect environmental factors predisposing to common disease and stress in dairy calves. Therefore, we needed to consider these points to select the sensor:
 
-  - Sensor cost was important because costly sensor was not feasible for the project because we had a limit on the total cost of the device.
+  - Sensor cost was important because costly sensor was not feasible for the project, and we had a limit on the total cost of the sensing device.
   
   - Sensor's response rate was not an important factor for the project since the goal was to log the average CO2 concentration over time. Measurement range was not a critical factor for this application as well.
   
