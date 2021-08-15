@@ -56,9 +56,9 @@ The potential CO2 options were:
 </p> 
 
 
-| Sensor Module      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Gravity Analog Infrared CO2 Sensor| Title       | Here's this   |
-| MG-811 Electrochemical Sensor     | Text        | And more      |
-| MH-Z19 NDIR CO2 Sensor Module     | Title       | Here's this   |
-| SCD30 NDIR CO2 Sensor Module      | Text        | And more      |
+| Sensor Module                     | Sensor Cost | Response Rate| Power Consumption |  Operation Temperature   |
+| :---                              |    :----:   |         ---: | :----:            |          ---:            |
+| Gravity Analog Infrared CO2 Sensor| $58         | <90s         |<430mW             |                          |
+| MG-811 Electrochemical Sensor     | $50         | <20s         |<1W                |                          |
+| MH-Z19 NDIR CO2 Sensor Module     | $30         | <60s         |<60mW              |                          |
+| SCD30 NDIR CO2 Sensor Module      | $60         | <20          |<63mW              |                          |
