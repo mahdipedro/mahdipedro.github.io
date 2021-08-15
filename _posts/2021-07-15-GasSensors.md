@@ -27,11 +27,11 @@ The goal of the project was to develop a portable sensing system to detect envir
 
   - Sensor cost was important because costly sensor was not feasible for the project because we had a limit on the total cost of the device.
   
-  - Sensor's response rate was not an important factor for the project since the goal was to log the average CO2 concentration over time.
+  - Sensor's response rate was not an important factor for the project since the goal was to log the average CO2 concentration over time. Measurement range was not a critical factor for this application as well.
   
   - Power consumption of the sensor was important because the system was portable and we had to power the device with a battery.
 
-  - The facility was eqqupped with heaters, and the temperature would not go below 0℃.
+  - The facility was eqqupped with heaters, and the temperature would not go below 0℃. 
 
   - The sensor was about to deploy in a harsh environment. Therefore, the sensor had to be waterproof as well.
 
@@ -69,3 +69,4 @@ The potential CO2 options were:
 | SCD30 NDIR Module                 | $60         | <20          |<63mW              |        0℃～50℃         |    0～40000 ppm     | No               |
 | MH-Z16 NDIR Module                | $90         | <30          |<430mW             |        -10℃～50℃       |    0～5000 ppm      | Yes              |
 
+Based on the project requirements, we had to deploy the sensor in a harsh environment. Therefore, we came down to two choices: 1)MH-Z14A NDIR Module 2) MH-Z16 NDIR Module. 
