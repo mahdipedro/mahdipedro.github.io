@@ -36,6 +36,7 @@ The goal of the project was to develop a portable sensing system to detect envir
   - The sensor was about to deploy in a harsh environment. Therefore, the sensor had to be waterproof as well.
 
 The potential CO2 options were:
+
   1- MH-Z14A NDIR CO2 Module or Gravity Analog Infrared CO2 Sensor
   <p align="center">
   <img width="180" height="150" src="https://user-images.githubusercontent.com/45086751/129488385-c0311048-ae0f-4949-8194-401621b754da.png">
