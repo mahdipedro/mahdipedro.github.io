@@ -62,7 +62,7 @@ The potential CO2 options were:
 
 
 | Sensor Module                     | Sensor Cost | Response Rate| Power Consumption |  Operation Temperature   | Measurement Range  | Harsh Environment
-| :---                              |    :----:   |        :---: | :----:            |         :---:            |   :---:            | :---:            |
+| :---:                             |    :----:   |        :---: | :----:            |         :---:            |   :---:            | :---:            |
 | MH-Z14A NDIR Module               | $40         | <90s         |<430mW             |       0℃～50℃          |    0～5000 ppm      | Yes              |
 | MG-811 Electrochemical Module     | $50         | <20s         |<1W                |        -20℃～50℃       |    0～10000 ppm     | No               |
 | MH-Z19 NDIR Module                | $30         | <60s         |<60mW              |        0℃～50℃         |    0～5000 ppm      | No               |
