@@ -41,10 +41,12 @@ The potential CO2 options were:
   <img width="180" height="150" src="https://user-images.githubusercontent.com/45086751/129488385-c0311048-ae0f-4949-8194-401621b754da.png">
 </p> 
     2- MG-811 Sensor 
-
 <p align="center">
   <img width="190" height="160" src="https://user-images.githubusercontent.com/45086751/129488562-bc95f80b-2d58-4ed1-be62-d5a89cd671ee.png">
 </p> 
 
-  
+  3- MH-Z19 NDIR CO2 Sensor Module
+  <p align="center">
+  <img width="190" height="160" src="https://user-images.githubusercontent.com/45086751/129488629-0e957fa7-23a9-42b8-a257-ca7284d6e87c.png">
+</p> 
  
