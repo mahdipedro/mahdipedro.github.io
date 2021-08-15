@@ -48,7 +48,7 @@ The potential CO2 options were:
 
   3- MH-Z19 NDIR CO2 Sensor Module
  <p align="center">
-  <img width="190" height="160" src="https://user-images.githubusercontent.com/45086751/129488629-0e957fa7-23a9-42b8-a257-ca7284d6e87c.png">
+  <img width="170" height="140" src="https://user-images.githubusercontent.com/45086751/129488629-0e957fa7-23a9-42b8-a257-ca7284d6e87c.png">
 </p> 
 
   4- SCD30 Nondispersive Infrared (NDIR) based CO2 sensor
