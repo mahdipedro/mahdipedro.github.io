@@ -15,11 +15,11 @@ I have been invloved with a project that required us to use gas sensors. I had t
 
 5- Response Time: How fast the sensor's output change according to the new gas level. For example, we need a fast response time if the target gas is so toxic to human because we do not have time to wait for the sensor to respond after 90 seconds which might be too long for some applications.
 
-6- Lifespan:
+6- Lifespan: How long can we rely on the sensor's performance? Are we going to deploy the sensing system for some years or just some months?
 
-7- Size of the Module:
+7- Size of the Module: Depending on the technology that is used the sensor size can vary. Or some may require larger driving circuit to function.
 
-8- Measurement Principle:
+8- Measurement Principle: The technology that is used for building the sensor which inlcudes Electrochemical, MEMS Pellistors, Infrared, Thermal Conductivity, Catalytic Pellistors, and Metal Oxide.
 
 
 
