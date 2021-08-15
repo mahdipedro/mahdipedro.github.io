@@ -23,4 +23,5 @@ I have been invloved with a project that required us to use gas sensors. I had t
 
 
 ## CO2 Gas Sensor Selection
+The goal of the project was to develop a portable sensing system to detect environmental factors predisposing to common disease and stress in dairy calves. 
 
