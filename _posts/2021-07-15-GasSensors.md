@@ -22,5 +22,5 @@ I have been invloved with a project that required us to use gas sensors. I had t
 8- Measurement Principle: The technology that is used for building the sensor which inlcudes Electrochemical, MEMS Pellistors, Infrared, Thermal Conductivity, Catalytic Pellistors, and Metal Oxide.
 
 
-** CO2 Gas Sensor Selection
+## CO2 Gas Sensor Selection
 
