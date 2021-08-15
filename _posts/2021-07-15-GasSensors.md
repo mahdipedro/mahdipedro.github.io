@@ -31,6 +31,16 @@ The goal of the project was to develop a portable sensing system to detect envir
   
   - Power consumption of the sensor was important because the system was portable and we had to power the device with a battery.
 
-  - 
+  - The facility was eqqupped with heaters, and the temperature would not go below 0℃.
+
+  - The sensor was about to deploy in a harsh environment. Therefore, the sensor had to be waterproof as well.
+
+The potential CO2 options were:
+MH-Z14A NDIR CO2 Module or Gravity Analog Infrared CO2 Sensor.
+
+![image](https://user-images.githubusercontent.com/45086751/129488247-ebf32e1c-9bf7-4af7-8e08-19220f2f98d1.png)
+![image](https://user-images.githubusercontent.com/45086751/129488266-70117cc3-fa8a-44ef-89ec-e9c8a051363c.png)
+
+
   
  
