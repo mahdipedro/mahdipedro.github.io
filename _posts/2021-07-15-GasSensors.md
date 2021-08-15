@@ -57,7 +57,7 @@ The potential CO2 options were:
   <img width="190" height="160" src="https://user-images.githubusercontent.com/45086751/129488759-943becbd-3ca0-4ecd-ae02-a960bb8c9987.png">
 </p> 
 
-  5- MH-Z16 NDIR Infrared gas module
+  5- MH-Z16 NDIR Infrared CO2 Gas Module
    <p align="center">
   <img width="190" height="160" src="https://user-images.githubusercontent.com/45086751/129490123-5ddfb4b3-d0d8-4ed2-8c22-71053afa4118.png">
 </p> 
