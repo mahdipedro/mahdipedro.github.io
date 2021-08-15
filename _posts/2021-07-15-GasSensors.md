@@ -58,7 +58,7 @@ The potential CO2 options were:
 
 | Sensor Module                     | Sensor Cost | Response Rate| Power Consumption |  Operation Temperature   |
 | :---                              |    :----:   |         ---: | :----:            |          ---:            |
-| Gravity Analog Infrared CO2 Sensor| $58         | <90s         |<430mW             |                          |
-| MG-811 Electrochemical Sensor     | $50         | <20s         |<1W                |                          |
-| MH-Z19 NDIR CO2 Sensor Module     | $30         | <60s         |<60mW              |                          |
-| SCD30 NDIR CO2 Sensor Module      | $60         | <20          |<63mW              |                          |
+| Gravity Analog Infrared CO2 Sensor| $58         | <90s         |<430mW             |       0℃～50℃          |
+| MG-811 Electrochemical Sensor     | $50         | <20s         |<1W                |        -20℃～50℃       |
+| MH-Z19 NDIR CO2 Sensor Module     | $30         | <60s         |<60mW              |        0℃～50℃         |
+| SCD30 NDIR CO2 Sensor Module      | $60         | <20          |<63mW              |        0℃～50℃         |
