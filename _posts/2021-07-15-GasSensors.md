@@ -55,10 +55,17 @@ The potential CO2 options were:
   <img width="190" height="160" src="https://user-images.githubusercontent.com/45086751/129488759-943becbd-3ca0-4ecd-ae02-a960bb8c9987.png">
 </p> 
 
+  5- MH-Z16 NDIR Infrared gas module
+   <p align="center">
+  <img width="190" height="160" src="https://user-images.githubusercontent.com/45086751/129490123-5ddfb4b3-d0d8-4ed2-8c22-71053afa4118.png">
+</p> 
+
 
 | Sensor Module                     | Sensor Cost | Response Rate| Power Consumption |  Operation Temperature   | Measurement Range  | Harsh Environment
 | :---                              |    :----:   |        :---: | :----:            |         :---:            |   :---:            | :---:            |
-| Gravity Analog Infrared CO2 Sensor| $58         | <90s         |<430mW             |       0℃～50℃          |    0～5000 ppm      | Yes              |
+| Gravity Analog Infrared CO2 Sensor| $40         | <90s         |<430mW             |       0℃～50℃          |    0～5000 ppm      | Yes              |
 | MG-811 Electrochemical Sensor     | $50         | <20s         |<1W                |        -20℃～50℃       |    0～10000 ppm     | No               |
 | MH-Z19 NDIR CO2 Sensor Module     | $30         | <60s         |<60mW              |        0℃～50℃         |    0～5000 ppm      | No               |
 | SCD30 NDIR CO2 Sensor Module      | $60         | <20          |<63mW              |        0℃～50℃         |    0～40000 ppm     | No               |
+| SCD30 NDIR CO2 Sensor Module      | $60         | <20          |<63mW              |        0℃～50℃         |    0～40000 ppm     | No               |
+
