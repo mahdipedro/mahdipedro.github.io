@@ -43,7 +43,7 @@ The potential CO2 options were:
     2- MG-811 Sensor 
 
 <p align="center">
-  <img width="180" height="150" src="https://user-images.githubusercontent.com/45086751/129488523-c9ed13a4-37b4-4aa6-bee4-02c89bacce0b.png">
+  <img width="180" height="150" src="https://user-images.githubusercontent.com/45086751/129488562-bc95f80b-2d58-4ed1-be62-d5a89cd671ee.png">
 </p> 
 
   
