@@ -1,5 +1,5 @@
 ---
-title: 'Handling Power Hungry Sensors in a Low-Power Project'
+title: 'CO2 Gas Sensor Selection Guide'
 date: 2021-07-13
 ---
 
