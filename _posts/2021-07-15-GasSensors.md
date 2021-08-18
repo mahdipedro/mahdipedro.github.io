@@ -76,7 +76,7 @@ The potential CO2 options were:
 </p> 
 
   6- SCD4x Photoacoustic CO2 Gas Module
-     <p align="center">
+  <p align="center">
   <img width="100" height="100" src="https://user-images.githubusercontent.com/45086751/129962273-15df7600-6bfe-4b92-88d7-147ad5108e2b.png">
 </p> 
 
