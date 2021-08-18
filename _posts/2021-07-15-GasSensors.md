@@ -30,7 +30,7 @@ There are various gas sensors mechanism and it is important to select the most s
 
   - Electrochemical: Electrochemical gas sensors use oxidation-reduction reactions to measure gas concentration. The gas molecules to be detected undergo an oxidative reaction at a sensing electrode, generating ions and electrons. Ions are transferred to the counter electrode via an electrolyte and electrons are transferred to a counter electrode via an external circuit, resulting in a reduction. CO is one of the typical gases used for measurement and CO2 is generated as a result of the reaction of CO with a sensing electrode. The electrochemical sensor uses this chemical reaction. At this time, since the current flowing through the external circuit increases in proportion to the gas concentration, the gas concentration can be calculated by monitoring the current value. On the one hand, the sensors have the advantages of not being interfered by other gases and being resistant to condensation, but on the other hand, the sensors are said to have a short life span and require regular maintenance.
 
-## CO2 Gas Sensor Selection
+## Gas Sensor Selection
 The goal of the project was to develop a portable sensing system to detect environmental factors predisposing to common disease and stress in dairy calves. Therefore, we needed to consider these points to select the sensor:
 
   - Sensor cost was important because costly sensor was not feasible for the project, and we had a limit on the total cost of the sensing device.
@@ -79,12 +79,16 @@ The potential CO2 options were:
 | SCD30 NDIR Module                 | $60         | <20          |<63mW              |        0℃～50℃         |    0～40000 ppm     | No               |
 | MH-Z16 NDIR Module                | $90         | <30          |<430mW             |        -10℃～50℃       |    0～5000 ppm      | Yes              |
 
-Based on the project requirements, we had to deploy the sensor in a harsh environment. Therefore, we came down to two choices: 1)MH-Z14A NDIR Module 2) MH-Z16 NDIR Module. The response rate of MH-Z16 NDIR Module is way faster than MH-Z14A NDIR Module. However, as I mentioned before, the application could tolerate slower response rate as well. The power consumption was very important factor for the project. However, the power consumption of both modules are the same! The temperature of the facility would not go below 0℃. Therefore, we should be fine with both sensors.
-As a result, we chose MH-Z14A NDIR Module which was cheaper (less than half) between the two! 
+Based on the project requirements, we had to deploy the sensor in a harsh environment. Therefore, we came down to two choices: 1)MH-Z14A NDIR Module 2) MH-Z16 NDIR Module. The response rate of MH-Z16 NDIR Module is way faster than MH-Z14A NDIR Module. However, as I mentioned before, the application could tolerate slower response rate as well. The power consumption was very important factor for the project. However, the power consumption of both modules are the same! The temperature of the facility would not go below 0℃. Therefore, we should be fine with both sensors. As a result, we chose MH-Z14A NDIR Module which was cheaper (less than half) between the two! 
 
+We also choose MQ-137 and MQ-135 for ammonia and nitrous oxide detection as well. We chose these semiconductor gas sensors because of the price limitation of the project.
 
+  5- MH-Z16 NDIR Infrared CO2 Gas Module
+   <p align="center">
+  <img width="100" height="100" src="https://user-images.githubusercontent.com/45086751/129832313-ff5fe5b3-f62d-4d75-9bd3-d7c458d75c21.png">
+</p> 
 
-## Gas Sensor Calibration
+## Gas Sensor Calibration Methods
 After selecting the right sensor for the project, now we need to calibrate it. Sensors that measure a variable value such as gas sensors require calibration. Calibration is a process of matching a sensor’s output to a known value. There are three types of calibration:
       
   - Span or 2-point calibration: It is typically performed at the factory after a gas sensor is manufactured. To perform a span calibration, a gas sensor is exposed to 2 gases, one with no target gas, and one with a known amount of the target gas. The process begins by exposing the sensor to a pure inert gas (stable and non-reactive) such as nitrogen or argon. Then the value of 0% is recorded in sensor’s EPROM memory. Next, the sensor is exposed to a known percentage of gas (often the highest level for which the sensor is rated). For instance, a 25% oxygen sensor would be calibrated with 25% oxygen. Finally, the sensor response to the 2nd known gas is recorded in the sensor’s memory. In addition, if the sensor's response is not linear, they perform 4 or more span calibration to create the response. Zero-point adjustment is also vital when dealing with gas sensors. For instance, if at 0% target gas a sensor reads 0.01% when exposed to no target gas, a negative offset of -0.01% is stored in the sensor’s memory and applied to all readings.
@@ -99,3 +103,4 @@ After selecting the right sensor for the project, now we need to calibrate it. S
   - Automatic Background Calibration (ABC): Considering an indoor air quality CO2 sensor, the theory behind ABC is that at some point each day a room is unoccupied. The CO2 level should return to 400ppm (fresh air), the same as outdoor air. By storing the lowest CO2 readings taken over several days in EPROM memory, an offset to 400ppm could be calculated, then added or subtracted from the actual CO2 readings. It is automated version of single-point calibration. And like single-point calibration, a span calibration curve was originally saved in the sensor's memory at the factory. For maximum accuracy, even devices that use ABC should be calibrated over time. The advantage of automatic background calibration is that the CO2 sensor is self-zeroing over the life of the sensor. However, it is vital that the sensor reads fresh air CO2 (400ppm) occasionally.
 
 
+## 
