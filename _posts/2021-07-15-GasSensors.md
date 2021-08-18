@@ -78,6 +78,7 @@ The potential CO2 options were:
 | MH-Z19 NDIR Module                | $30         | <60s         |<60mW              |        0℃～50℃         |    0～5000 ppm      | No               |
 | SCD30 NDIR Module                 | $60         | <20          |<63mW              |        0℃～50℃         |    0～40000 ppm     | No               |
 | MH-Z16 NDIR Module                | $90         | <30          |<430mW             |        -10℃～50℃       |    0～5000 ppm      | Yes              |
+| SCD4x Photoacoustic Module        | $60         | <60          |<60mW              |        -10℃～60℃       |    400～5000 ppm    | No               |
 
 Based on the project requirements, we had to deploy the sensor in a harsh environment. Therefore, we came down to two choices: 1)MH-Z14A NDIR Module 2) MH-Z16 NDIR Module. The response rate of MH-Z16 NDIR Module is way faster than MH-Z14A NDIR Module. However, as I mentioned before, the application could tolerate slower response rate as well. The power consumption was very important factor for the project. However, the power consumption of both modules are the same! The temperature of the facility would not go below 0℃. Therefore, we should be fine with both sensors. As a result, we chose MH-Z14A NDIR Module which was cheaper (less than half) between the two! 
 
@@ -102,5 +103,3 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 
   - Automatic Background Calibration (ABC): Considering an indoor air quality CO2 sensor, the theory behind ABC is that at some point each day a room is unoccupied. The CO2 level should return to 400ppm (fresh air), the same as outdoor air. By storing the lowest CO2 readings taken over several days in EPROM memory, an offset to 400ppm could be calculated, then added or subtracted from the actual CO2 readings. It is automated version of single-point calibration. And like single-point calibration, a span calibration curve was originally saved in the sensor's memory at the factory. For maximum accuracy, even devices that use ABC should be calibrated over time. The advantage of automatic background calibration is that the CO2 sensor is self-zeroing over the life of the sensor. However, it is vital that the sensor reads fresh air CO2 (400ppm) occasionally.
 
-
-## 
