@@ -88,7 +88,6 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 
   - Single Point Calibration: The prerequisite of this calibration is span calibration. It is useful in cases where maximum accuracy is less important than total cost. We only record one measurement of the sensor which often performed in fresh air. Fresh air contains approximately 78% nitrogen, 20.9% oxygen, 0.9% argon and 400ppm of carbon dioxide. Any gas sensor exposed to fresh air should match these readings. Once the calibration curve is stored in the sensor’s memory after span calibration, single point calibration is used like the zero-point offset. For example, if a carbon monoxide sensor uses single point calibration in fresh air, calibration process tells the sensor that there is no CO present and to save any offset to the zero point. 
 
-  - Automatic Background Calibration:
-
+  - Automatic Background Calibration (ABC): Considering an indoor air quality CO2 sensor, the theory behind ABC is that at some point each day a room is unoccupied. The CO2 level should return to 400ppm (fresh air), the same as outdoor air. By storing the lowest CO2 readings taken over several days in EPROM memory, an offset to 400ppm could be calculated, then added or subtracted from the actual CO2 readings. It is automated version of single-point calibration. And like single-point calibration, a span calibration curve was originally saved in the sensor's memory at the factory. For maximum accuracy, even devices that use ABC should be calibrated over time. The advantage of automatic background calibration is that the CO2 sensor is self-zeroing over the life of the sensor. However, it is vital that the sensor reads fresh air CO2 (400ppm) once in a while.
 
 
