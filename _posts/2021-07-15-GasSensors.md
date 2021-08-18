@@ -70,6 +70,11 @@ The potential CO2 options were:
   <img width="190" height="160" src="https://user-images.githubusercontent.com/45086751/129490123-5ddfb4b3-d0d8-4ed2-8c22-71053afa4118.png">
 </p> 
 
+  6- SCD4x Photoacoustic CO2 Gas Module
+     <p align="center">
+  <img width="190" height="160" src="https://user-images.githubusercontent.com/45086751/129962273-15df7600-6bfe-4b92-88d7-147ad5108e2b.png">
+</p> 
+
 
 | Sensor Module                     | Sensor Cost | Response Rate| Power Consumption |  Operation Temperature   | Measurement Range  | Harsh Environment
 | :---:                             |    :----:   |        :---: | :----:            |         :---:            |   :---:            | :---:            |
