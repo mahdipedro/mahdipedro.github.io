@@ -94,7 +94,6 @@ Based on the project requirements, we had to deploy the sensor in a harsh enviro
 
 We also choose MQ-137 and MQ-135 for ammonia and nitrous oxide detection as well. We chose these semiconductor gas sensors because of the price limitation of the project.
 
-  5- MH-Z16 NDIR Infrared CO2 Gas Module
    <p align="center">
   <img width="150" height="150" src="https://user-images.githubusercontent.com/45086751/129832313-ff5fe5b3-f62d-4d75-9bd3-d7c458d75c21.png">
 </p> 
