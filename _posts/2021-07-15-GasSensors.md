@@ -3,7 +3,7 @@ title: 'Gas Sensor Selection Guide'
 date: 2021-07-15
 ---
 
-I have been invloved with a project that required us to use gas sensors. I had to do research on these sensors to select the right sensor for our project. In this post I explain how we may select the right gas sensor for a project. There are certian points that neeed to be considered before sensor selection which includes:
+I have been invloved with a project that required us to use multiple gas sensors. I had to do research on these sensors to select the right sensors for our project. In this article, I explain how we may select the right gas sensors for a project. There are certian points that neeed to consider before sensor selection which includes:
 
 1- Cost of the Sensor: How much you would like to spend on the sensor. For instance the price range of CO2 sensors is from $2.5 to hundreds of dollars.
 
@@ -77,7 +77,7 @@ The potential CO2 options were:
 
   6- SCD4x Photoacoustic CO2 Gas Module
   <p align="center">
-  <img width="100" height="100" src="https://user-images.githubusercontent.com/45086751/129962273-15df7600-6bfe-4b92-88d7-147ad5108e2b.png">
+  <img width="90" height="90" src="https://user-images.githubusercontent.com/45086751/129962273-15df7600-6bfe-4b92-88d7-147ad5108e2b.png">
 </p> 
 
 
