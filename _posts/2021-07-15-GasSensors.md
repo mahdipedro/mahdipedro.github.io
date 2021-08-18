@@ -11,7 +11,7 @@ I have been invloved with a project that required us to use gas sensors. I had t
 
 3- Operation Temperature: In what kind of environment are we going to deploy the sensor. For example, it would be important for sensor selection if the temperature goes below 0℃.
 
-4- Measurement Range: What is the required measurement range for the application? For example, CO2 concentration below 1000ppm is safe for humans. However, at higher levels, around 2500 ppm, there are significant reductions in cognitive functioning, especially for tasks that require higher-level thinking. And finally, CO2 levels above 50,000ppm can cause humans to lose consciousness which can lead to death, f this occurs for long enough. Or in CO case, at sustained concentrations above 150 to 200 ppm, disorientation, unconsciousness, and death are possible. [reference1](https://learn.kaiterra.com/en/air-academy/is-carbon-dioxide-harmful-to-people) [reference2](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers)
+4- Measurement Range: What is the required measurement range for the application? For example, CO2 concentration below 1000ppm (parts-per-million) is safe for humans. However, at higher levels, around 2500 ppm, there are significant reductions in cognitive functioning, especially for tasks that require higher-level thinking. And finally, CO2 levels above 50,000ppm can cause humans to lose consciousness which can lead to death, f this occurs for long enough. Or in CO case, at sustained concentrations above 150 to 200 ppm, disorientation, unconsciousness, and death are possible. [reference1](https://learn.kaiterra.com/en/air-academy/is-carbon-dioxide-harmful-to-people) [reference2](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers)
 
 5- Response Time: How fast the sensor's output change according to the new gas level. For example, we need a fast response time if the target gas is so toxic to human because we do not have time to wait for the sensor to respond after 90 seconds which might be too long for some applications.
 
@@ -81,7 +81,14 @@ After selecting the right sensor for the project, now we need to calibrate it. S
       
   - Span or 2-point calibration: It is typically performed at the factory after a gas sensor is manufactured. To perform a span calibration, a gas sensor is exposed to 2 gases, one with no target gas, and one with a known amount of the target gas. The process begins by exposing the sensor to a pure inert gas (stable and non-reactive) such as nitrogen or argon. Then the value of 0% is recorded in sensor’s EPROM memory. Next, the sensor is exposed to a known percentage of gas (often the highest level for which the sensor is rated). For instance, a 25% oxygen sensor would be calibrated with 25% oxygen. Finally, the sensor response to the 2nd known gas is recorded in the sensor’s memory. In addition, if the sensor's response is not linear, they perform 4 or more span calibration to create the response. Zero-point adjustment is also vital when dealing with gas sensors. For instance, if at 0% target gas a sensor reads 0.01% when exposed to no target gas, a negative offset of -0.01% is stored in the sensor’s memory and applied to all readings.
 
-  - Single Point Calibration:
+
+   <p align="center">
+  <img width="190" height="160" src="https://user-images.githubusercontent.com/45086751/129829113-bc7b36ed-8ad3-48aa-99a4-49e79f195224.png">
+</p> 
+
+  
+
+  - Single Point Calibration: The prerequisite of this calibration is span calibration. It is useful in cases where maximum accuracy is less important than total cost. We only record one measurement of the sensor which often performed in fresh air. Fresh air contains approximately 78% nitrogen, 20.9% oxygen, 0.9% argon and 400ppm of carbon dioxide. Any gas sensor exposed to fresh air should match these readings. Once the calibration curve is stored in the sensor’s memory after span calibration, single point calibration is used like the zero-point offset. For example, if a carbon monoxide sensor uses single point calibration in fresh air, calibration process tells the sensor that there is no CO present and to save any offset to the zero point. 
 
   - Automatic Background Calibration:
 
