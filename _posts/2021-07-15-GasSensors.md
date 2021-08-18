@@ -83,8 +83,8 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 
 
    <p align="center">
-  <img width="300" height="250" src="https://user-images.githubusercontent.com/45086751/129829113-bc7b36ed-8ad3-48aa-99a4-49e79f195224.png">
-</p> 
+ ![calibration_sample](https://user-images.githubusercontent.com/45086751/129829295-5f78f627-d74a-4e90-ac4e-01cd73fe70d7.png)
+  </p> 
 
   
 
