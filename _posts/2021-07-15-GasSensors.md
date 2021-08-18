@@ -73,3 +73,17 @@ The potential CO2 options were:
 
 Based on the project requirements, we had to deploy the sensor in a harsh environment. Therefore, we came down to two choices: 1)MH-Z14A NDIR Module 2) MH-Z16 NDIR Module. The response rate of MH-Z16 NDIR Module is way faster than MH-Z14A NDIR Module. However, as I mentioned before, the application could tolerate slower response rate as well. The power consumption was very important factor for the project. However, the power consumption of both modules are the same! The temperature of the facility would not go below 0℃. Therefore, we should be fine with both sensors.
 As a result, we chose MH-Z14A NDIR Module which was cheaper (less than half) between the two! 
+
+
+
+## Gas Sensor Calibration
+After selecting the right sensor for the project, now we need to calibrate it. Sensors that measure a variable value such as gas sensors require calibration. Calibration is a process of matching a sensor’s output to a known value. There are three types of calibration:
+      
+  - Span or 2-point calibration: It is typically performed at the factory after a gas sensor is manufactured. To perform a span calibration, a gas sensor is exposed to 2 gases, one with no target gas, and one with a known amount of the target gas. The process begins by exposing the sensor to a pure inert gas (stable and non-reactive) such as nitrogen or argon. Then the value of 0% is recorded in sensor’s EPROM memory. Next, the sensor is exposed to a known percentage of gas (often the highest level for which the sensor is rated). For instance, a 25% oxygen sensor would be calibrated with 25% oxygen. Finally, the sensor response to the 2nd known gas is recorded in the sensor’s memory. In addition, if the sensor's response is not linear, they perform 4 or more span calibration to create the response. Zero-point adjustment is also vital when dealing with gas sensors. For instance, if at 0% target gas a sensor reads 0.01% when exposed to no target gas, a negative offset of -0.01% is stored in the sensor’s memory and applied to all readings.
+
+  - Single Point Calibration:
+
+  - Automatic Background Calibration:
+
+
+
