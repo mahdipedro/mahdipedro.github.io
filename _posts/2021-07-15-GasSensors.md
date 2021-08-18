@@ -101,7 +101,7 @@ We also choose MQ-137 and MQ-135 for ammonia and nitrous oxide detection as well
 | Sensor Module                     | Sensor Cost | Response Rate| Power Consumption |  Operation Temperature   | Measurement Range  |
 | :---:                             |    :----:   |        :---: | :----:            |         :---:            |   :---:            |
 | MQ-137 Ammonia Gas Sensor         | $40         | <15s         |<900mW             |       -10℃～45℃        |    5～500 ppm       |
-| MG-811 Electrochemical Module     | $35         | <20s         |<1W                |        -20℃～50℃       |    0～10000 ppm     |
+| MQ-135 Gas Sensor for Air Quality | $3          | <15s         |<950mW             |        -10℃～50℃       |    10～1000 ppm     |
 
 ## Gas Sensor Calibration Methods
 After selecting the right sensor for the project, now we need to calibrate it. Sensors that measure a variable value such as gas sensors require calibration. Calibration is a process of matching a sensor’s output to a known value. There are three types of calibration:
