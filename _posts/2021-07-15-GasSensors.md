@@ -57,7 +57,7 @@ The potential CO2 options were:
   
   2- MG-811 Electrochemical Sensor
 <p align="center">
-  <img width="190" height="150" src="https://user-images.githubusercontent.com/45086751/129488562-bc95f80b-2d58-4ed1-be62-d5a89cd671ee.png">
+  <img width="210" height="170" src="https://user-images.githubusercontent.com/45086751/129488562-bc95f80b-2d58-4ed1-be62-d5a89cd671ee.png">
 </p> 
 
   3- MH-Z19 NDIR CO2 Sensor Module
