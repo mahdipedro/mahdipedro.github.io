@@ -137,6 +137,7 @@ with sensor. Vc supplies the detect voltage to load resistance RL and it require
   
   We developed the sensor drvier as mentioned above and we connect the VRL to arduio A0 pin. Then we move on to determine the value of R0:
   
+  ```
   void setup() {
   Serial.begin(9600); //Baud rate 
 }
@@ -159,6 +160,6 @@ void loop() {
   Serial.println(R0); //Display value of R0 
   delay(1000); //Wait 1 second 
 }
-
+```
   -
   
