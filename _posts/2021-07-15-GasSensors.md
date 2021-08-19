@@ -160,5 +160,5 @@ void loop() {
   ```
 
 
-Then we used the above code for 12 hours because of the sensor pre-heat and also waiting for R0 value to get stable. Value of R0 in fresh air was 37KΩ for our sensor which was required for the NH3 concentration estimation.
+Then we used the above code for 12 hours because of the sensor pre-heat and also waiting for R0 value to get stable. Value of R0 in fresh air was 37KΩ for our sensor which was required for the NH3 sensor calibration. Then we continue working with the sensor using Rs/R0 with R0 as a constant value of 37KΩ.
   
