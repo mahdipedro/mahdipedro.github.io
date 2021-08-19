@@ -117,3 +117,5 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 
   - Automatic Background Calibration (ABC): Considering an indoor air quality CO2 sensor, the theory behind ABC is that at some point each day a room is unoccupied. The CO2 level should return to 400ppm (fresh air), the same as outdoor air. By storing the lowest CO2 readings taken over several days in EPROM memory, an offset to 400ppm could be calculated, then added or subtracted from the actual CO2 readings. It is automated version of single-point calibration. And like single-point calibration, a span calibration curve was originally saved in the sensor's memory at the factory. For maximum accuracy, even devices that use ABC should be calibrated over time. The advantage of automatic background calibration is that the CO2 sensor is self-zeroing over the life of the sensor. However, it is vital that the sensor reads fresh air CO2 (400ppm) occasionally.
 
+## Calibration Phase of the Project
+
