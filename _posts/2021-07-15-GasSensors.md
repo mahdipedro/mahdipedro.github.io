@@ -131,10 +131,34 @@ After selecting the right sensor for the project, now we need to calibrate it. S
    Rs is the resistance of the sensor in target gas (NH3) with different concentration; And R0 is the resistance of the sensor in fresh air. As a result, to calibrate the sensor, we need to find out the value of R0. The below circuit is the basic driver circuit for MQ-137.The sensor requires two voltage inputs including heater voltage (VH) and circuit voltage (VC). VH is used to supply standard working temperature to the sensor, and it can adopt DC or AC power, while VRL is the voltage of load resistance RL which is in series
 with sensor. Vc supplies the detect voltage to load resistance RL and it requires DC power. RL is adjustable and we set it to 4.7KΩ. As a result, we will be able to use the sensor response graph of the datasheet, because the graph is based on RL of 4.7KΩ.
 
-
   <p align="center">
   <img width="360" height="310" src="https://user-images.githubusercontent.com/45086751/130012733-0ce16644-633a-4edf-abc7-a24882ef542d.JPG">
   </p> 
+  
+  We developed the sensor drvier as mentioned above and we connect the VRL to arduio A0 pin. Then we move on to determine the value of R0:
+  
+  void setup() {
+  Serial.begin(9600); //Baud rate 
+}
+ 
+void loop() { 
+  float sensor_volt; //Define variable for sensor voltage 
+  float RS_air; //Define variable for sensor resistance
+  float R0; //Define variable for R0
+  float sensorValue; //Define variable for analog readings 
+  //for(int x = 0 ; x < 500 ; x++) //Start for loop 
+ // {
+    sensorValue = analogRead(A0); //Add analog values of sensor 500 times 
+ // }
+  sensorValue = sensorValue; //Take average of readings
+  sensor_volt = sensorValue*(3.3/1023.0); //Convert average to voltage 
+  RS_air = ((3.3*47.0)/sensor_volt)-47.0; //Calculate RS in fresh air 
+  R0 = RS_air/3.6; //Calculate R0 
+ 
+  Serial.print("R0 = "); //Display "R0"
+  Serial.println(R0); //Display value of R0 
+  delay(1000); //Wait 1 second 
+}
 
   -
   
