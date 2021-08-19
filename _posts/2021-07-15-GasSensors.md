@@ -129,9 +129,10 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 ![nh3](https://user-images.githubusercontent.com/45086751/130011646-160c87f4-cb89-4767-947e-d6a2cfa145aa.JPG)
 
 Rs is the resistance of the sensor in target gas (NH3) with different concentration; And R0 is the resistance of the sensor in fresh air. As a result, to calibrate the sensor, we need to find out the value of R0. 
-![cir_nh3](https://user-images.githubusercontent.com/45086751/130012733-0ce16644-633a-4edf-abc7-a24882ef542d.JPG)
 
-
+  <p align="center">
+  <img width="180" height="180" src="https://user-images.githubusercontent.com/45086751/130012733-0ce16644-633a-4edf-abc7-a24882ef542d.JPG">
+  </p> 
 
 
   - 
