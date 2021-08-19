@@ -127,7 +127,8 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 
   - MQ-137 Calibration:  The sensor has been calibrated in the factory and the sensor's response to CO2 concentration is reported as:
 
-![nh3](https://user-images.githubusercontent.com/45086751/130011552-4936796d-2213-4ba6-a38f-a6228d4eacbd.JPG)
+![nh3](https://user-images.githubusercontent.com/45086751/130011646-160c87f4-cb89-4767-947e-d6a2cfa145aa.JPG)
+
 
 
 
