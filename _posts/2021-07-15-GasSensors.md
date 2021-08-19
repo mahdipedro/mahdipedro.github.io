@@ -132,7 +132,7 @@ Rs is the resistance of the sensor in target gas (NH3) with different concentrat
 
 
   <p align="center">
-  <img width="340" height="300" src="https://user-images.githubusercontent.com/45086751/130012733-0ce16644-633a-4edf-abc7-a24882ef542d.JPG">
+  <img width="360" height="310" src="https://user-images.githubusercontent.com/45086751/130012733-0ce16644-633a-4edf-abc7-a24882ef542d.JPG">
   </p> 
 
 
