@@ -121,7 +121,8 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 
   -  MH-Z14A NDIR Calibration: The sensor has been calibrated in the factory and the sensor's response to CO2 concentration is reported:
 
-![image](https://user-images.githubusercontent.com/45086751/130003145-1cdc0b38-30bb-45a6-96c0-eff501bfb8b2.png)
+![co2_calibrate](https://user-images.githubusercontent.com/45086751/130004531-0199d239-77fe-4019-b2ad-b336fbcf574f.png)
+
 
   - d
   - 
