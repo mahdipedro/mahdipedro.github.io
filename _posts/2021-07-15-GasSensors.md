@@ -125,10 +125,11 @@ After selecting the right sensor for the project, now we need to calibrate it. S
   
   When the CO2 sensor supplies with 5V, it will generate 0.4~2V analog signal corresponding to 0~5000 ppm; And when the sensor finds faults during the self-checking process, it will generate 0V. Considering the linear behavior of the sensor, we calibrate the sensor using the single point calibration method. Fresh air contains approximately 400ppm od CO2 and we confirmed it using an industrial grade digital CO2 sensor. The sensor output while in fresh air (400 ppm which is confirmed by the digital carbon dioxide sensor) was about 437 ppm. As a result, we use the offset of -37ppm for the sensors readings. For instance, when the sensor output shows 550ppm of CO2 concentration, the true value would be 513ppm. The sensor was going to be used in an outdoor facility. Therefore, we can assume there would be times when the sensor shows fresh air CO2 concentration (400ppm). This means we can use ABC method to calibrate the sensor automatically. As a result, we use the 10 lowest values of the sensor during each day and take the average of them. We use the average value to determine the sensor's response to 400ppm of CO2 which ultimately helps us to set the right offset.
 
-  - MQ-137 Calibration:  The sensor has been calibrated in the factory and the sensor's response to CO2 concentration is reported as:
-
+  - MQ-137 Calibration:  The sensor has been calibrated in the factory and the sensor's response to CO2 concentration is reported in the sensor's datasheet:
 ![nh3](https://user-images.githubusercontent.com/45086751/130011646-160c87f4-cb89-4767-947e-d6a2cfa145aa.JPG)
 
+Rs is the resistance of the sensor in target gas (NH3) with different concentration; And R0 is the resistance of the sensor in fresh air. As a result, to calibrate the sensor, we need to find out the value of R0. 
+![cir_nh3](https://user-images.githubusercontent.com/45086751/130012733-0ce16644-633a-4edf-abc7-a24882ef542d.JPG)
 
 
 
