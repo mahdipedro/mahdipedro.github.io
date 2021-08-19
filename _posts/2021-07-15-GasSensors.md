@@ -135,7 +135,7 @@ with sensor. Vc supplies the detect voltage to load resistance RL and it require
   <img width="360" height="310" src="https://user-images.githubusercontent.com/45086751/130012733-0ce16644-633a-4edf-abc7-a24882ef542d.JPG">
   </p> 
   
-  We developed the sensor drvier as mentioned above and we connect the VRL to arduio A0 pin. Then we move on to determine the value of R0. 
+  We developed the sensor drvier as mentioned above and we connect the VRL to arduio A0 pin. Then we move on to develop the firmware to determine the value of R0. 
   
   ```
   void setup() {
