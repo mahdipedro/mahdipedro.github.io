@@ -171,5 +171,30 @@ b is the Y intercept of the line which can be calculated by using any point on t
 Ultimately, we have: x = 10 ^ [(log(Rs/R0) - b) / m]. Note that all values except Rs are constant and we need to compute this for new values of Rs to get the ppm values of the target gas (NH3).
 
 
+```
+#define RL 47  //The value of resistor RL is 47K
+#define m -0.244 //Enter calculated Slope 
+#define b 0.389 //Enter calculated intercept
+#define Ro 37 //Enter found Ro value
 
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  
+  float VRL; //Voltage drop across MQ137 sensor
+  float Rs; //Sensor resistance according to gas concentration 
+   
+  VRL = analogRead(A0)*(3.3/1023.0); //Measure the voltage from A0 pin and convert to 0-3.3V
+  Rs = ((3.3*RL)/VRL)-RL; //Equation according to Ohm law to compute Rs value
+  float ratio = Rs/Ro;  // find ratio of Rs/Ro
+ 
+  float ppm = pow(10, ((log10(ratio)-b)/m)); //use the above formula to compute the value of gas concentration in ppm
+  Serial.print("NH3 (ppm) = ");
+  Serial.println(ppm);
+   delay(200);
+}
+
+```
   
