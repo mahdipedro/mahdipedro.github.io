@@ -166,7 +166,7 @@ X is ppm value and y is Rs/R0.
 m is the slope of the line and to determine the value of the slope, we select two points on the NH3 line including (40,1), and (100,0.8). 
 Then we have:
 m = (log(y2) - log(y1)) / (log(x2) - log(x1)) which will be equal to -0.244.
-b is the offset of the line which can be calculated by: b = log(y) - mlog(x) --> b = -0.096 + 0.244*2 = 0.389.
+b is the Y intercept of the line which can be calculated by using any point on the NH3 line: b = log(y) - mlog(x) --> b = -0.096 + 0.244*2 = 0.389.
 
 Ultimately, we have: x = 10 ^ [(log(Rs/R0) - b) / m]. Note that all values except Rs are constant and we need to compute this for new values of Rs to get ppm values of the target gas (NH3).
 
