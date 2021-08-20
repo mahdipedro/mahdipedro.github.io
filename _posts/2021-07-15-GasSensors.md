@@ -3,9 +3,9 @@ title: 'Gas Sensor Selection Guide'
 date: 2021-07-15
 ---
 
-I have been involved with a project that required us to use multiple gas sensors. I had to do research on these sensors to select the right sensors for our project. In this article, I explain how we may select the right gas sensors for a project. There are certain points that need to consider before sensor selection which includes:
+I have been involved with a project that required us to use multiple gas sensors. I had to do research on these sensors to select the right sensors for our project. In this article, I explain how we may select the right gas sensors for a project. There are certain points that need to be considered before sensor selection which includes:
 
-1- Cost of the Sensor: How much you would like to spend on the sensor. For instance the price range of CO2 sensors is from $2.5 to hundreds of dollars.
+1- Cost of the Sensor: How much you would like to spend on the sensor. For instance, the price range of CO2 sensors are from $2.5 to hundreds of dollars.
 
 2- Power Consumption: Gas sensors are often considered power-hungry sensors especially if we compare them to other sensors such as motion, pressure, or temperature sensors.
 
