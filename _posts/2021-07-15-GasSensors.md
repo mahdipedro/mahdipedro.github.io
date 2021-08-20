@@ -121,7 +121,7 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 
   -  MH-Z14A NDIR Calibration: The sensor has been calibrated in the factory and the sensor's response to CO2 concentration is reported as:
 
-![co2_calibrate](https://user-images.githubusercontent.com/45086751/130004531-0199d239-77fe-4019-b2ad-b336fbcf574f.png)
+![co2_calibrate](https://user-images.githubusercontent.com/45086751/130175101-1171427c-992d-4513-a45d-979cf6bcf02a.JPG.png)
   
   When the CO2 sensor supplies with 5V, it generates 0.4~ 2V analog signal corresponding to 0~5000 ppm; And when the sensor finds faults during the self-checking process, it will generate 0V. Considering the linear behavior of the sensor, we calibrate the sensor using the single point calibration method. Fresh air contains approximately 400ppm od CO2 and we confirmed it using an industrial grade digital CO2 sensor. The sensor output while in fresh air (400 ppm which is confirmed by the digital carbon dioxide sensor) was about 437 ppm. As a result, we use the offset of -37ppm for the sensors readings. For instance, when the sensor output shows 550ppm of CO2 concentration, the true value would be 513ppm. The sensor was going to be used in an outdoor facility. Therefore, we can assume there would be times when the sensor shows fresh air CO2 concentration (400ppm). This means we can use ABC method to calibrate the sensor automatically. As a result, we use the 10 lowest values of the sensor during each day and take the average of them. We use the average value to determine the sensor's response to 400ppm of CO2 which ultimately helps us to set the right offset.
 
@@ -132,8 +132,9 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 with sensor. Vc supplies the detect voltage to load resistance RL and it requires DC power. RL is adjustable and we set it to 47KΩ. As a result, we will be able to use the sensor response graph of the datasheet, because the graph is based on RL of 47KΩ.
 
   <p align="center">
-  <img width="360" height="310" src="https://user-images.githubusercontent.com/45086751/130175101-1171427c-992d-4513-a45d-979cf6bcf02a.JPG">
+  <img width="360" height="310" src="https://user-images.githubusercontent.com/45086751/130175216-d8178af8-7c49-4655-9035-31765a4201fe.JPG">
   </p> 
+
 
 
   We developed the sensor drvier as mentioned above and we connect the VRL to arduio A0 pin. Then we move on to develop the firmware to determine the value of R0. 
