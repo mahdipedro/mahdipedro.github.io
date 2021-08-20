@@ -168,7 +168,7 @@ Then we have:
 m = (log(y2) - log(y1)) / (log(x2) - log(x1)) which will be equal to -0.244.
 b is the Y intercept of the line which can be calculated by using any point on the NH3 line: b = log(y) - mlog(x) --> b = -0.096 + 0.244*2 = 0.389.
 
-Ultimately, we have: x = 10 ^ [(log(Rs/R0) - b) / m]. Note that all values except Rs are constant and we need to compute this for new values of Rs to get the ppm values of the target gas (NH3).
+Ultimately, we have: x = 10 ^ [(log(Rs/R0) - b) / m]. Note that all values except Rs are constant and we need to compute this for new values of Rs to get the ppm values of the target gas (NH3). Then we program the microcontroller to read the ppm level of ammonia gas using the below code.
 
 
 ```
