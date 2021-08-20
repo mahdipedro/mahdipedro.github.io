@@ -163,7 +163,8 @@ void loop() {
 Then we used the above code for 12 hours because of the sensor pre-heat and waiting for R0 value to become stable. Value of R0 in fresh air was 37KΩ for our sensor which was required for the NH3 sensor calibration. Then we continue working with the sensor using Rs/R0 with R0 as a constant value of 37KΩ. According to the datasheet, the relation between Rs/Ro and PPM is logarithmic which is log(y) = m*log(x) + b.
 
 X is ppm value and y is Rs/R0.
-m is the slope of the line and to determine the value of the slope, we select two points on the NH3 line including (40,1), and (100,0.8). Then we have:
+m is the slope of the line and to determine the value of the slope, we select two points on the NH3 line including (40,1), and (100,0.8). 
+Then we have:
 m = (log(y2) - log(y1)) / (log(x2) - log(x1)) which will be equal to -0.244.
 b is the offset of the line which can be calculated by: b = log(y) - mlog(x) --> b = -0.096 + 0.244*2 = 0.389.
 
