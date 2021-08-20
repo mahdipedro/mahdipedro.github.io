@@ -132,9 +132,10 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 with sensor. Vc supplies the detect voltage to load resistance RL and it requires DC power. RL is adjustable and we set it to 47KΩ. As a result, we will be able to use the sensor response graph of the datasheet, because the graph is based on RL of 47KΩ.
 
   <p align="center">
-  <img width="360" height="310" src="https://user-images.githubusercontent.com/45086751/130012733-0ce16644-633a-4edf-abc7-a24882ef542d.JPG">
+  <img width="360" height="310" src="https://user-images.githubusercontent.com/45086751/130175101-1171427c-992d-4513-a45d-979cf6bcf02a.JPG">
   </p> 
-  
+
+
   We developed the sensor drvier as mentioned above and we connect the VRL to arduio A0 pin. Then we move on to develop the firmware to determine the value of R0. 
   
   ```
