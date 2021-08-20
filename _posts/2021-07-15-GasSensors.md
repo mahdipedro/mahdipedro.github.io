@@ -172,10 +172,10 @@ Ultimately, we have: x = 10 ^ [(log(Rs/R0) - b) / m]. Note that all values excep
 
 
 ```
-#define RL 47  //The value of resistor RL is 47K
-#define m -0.244 //Enter calculated Slope 
-#define b 0.389 //Enter calculated intercept
-#define Ro 37 //Enter found Ro value
+#define RL 47  //The value of RL which was set to 47K according to the datasheet
+#define m -0.244 //Slope of the NH3 line
+#define b 0.389 //Y intercept of the NH3 line
+#define Ro 37 //Resistance of the sensor while in fresh air
 
 void setup() {
   Serial.begin(9600);
