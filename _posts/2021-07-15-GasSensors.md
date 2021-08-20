@@ -160,5 +160,6 @@ void loop() {
   ```
 
 
-Then we used the above code for 12 hours because of the sensor pre-heat and also waiting for R0 value to become stable. Value of R0 in fresh air was 37KΩ for our sensor which was required for the NH3 sensor calibration. Then we continue working with the sensor using Rs/R0 with R0 as a constant value of 37KΩ.
+Then we used the above code for 12 hours because of the sensor pre-heat and waiting for R0 value to become stable. Value of R0 in fresh air was 37KΩ for our sensor which was required for the NH3 sensor calibration. Then we continue working with the sensor using Rs/R0 with R0 as a constant value of 37KΩ. According to the datasheet, the relation between Rs/Ro and PPM is logarithmic which is log(y) = m*log(x) + b. m
+
   
