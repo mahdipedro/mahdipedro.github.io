@@ -121,12 +121,13 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 
   -  MH-Z14A NDIR Calibration: The sensor has been calibrated in the factory and the sensor's response to CO2 concentration is reported as:
 
-![co2_calibrate](https://user-images.githubusercontent.com/45086751/130175101-1171427c-992d-4513-a45d-979cf6bcf02a.JPG.png)
-  
+  ![co2_calibrate](https://user-images.githubusercontent.com/45086751/130175398-712a9a1d-9d91-4888-99cc-2ba7e50e2066.png)
+
   When the CO2 sensor supplies with 5V, it generates 0.4~ 2V analog signal corresponding to 0~5000 ppm; And when the sensor finds faults during the self-checking process, it will generate 0V. Considering the linear behavior of the sensor, we calibrate the sensor using the single point calibration method. Fresh air contains approximately 400ppm od CO2 and we confirmed it using an industrial grade digital CO2 sensor. The sensor output while in fresh air (400 ppm which is confirmed by the digital carbon dioxide sensor) was about 437 ppm. As a result, we use the offset of -37ppm for the sensors readings. For instance, when the sensor output shows 550ppm of CO2 concentration, the true value would be 513ppm. The sensor was going to be used in an outdoor facility. Therefore, we can assume there would be times when the sensor shows fresh air CO2 concentration (400ppm). This means we can use ABC method to calibrate the sensor automatically. As a result, we use the 10 lowest values of the sensor during each day and take the average of them. We use the average value to determine the sensor's response to 400ppm of CO2 which ultimately helps us to set the right offset.
 
   - MQ-137 Calibration:  The sensor has been calibrated in the factory and the sensor's response to NH3 concentration is reported in the sensor's datasheet:
-![nh3](https://user-images.githubusercontent.com/45086751/130011646-160c87f4-cb89-4767-947e-d6a2cfa145aa.JPG)
+
+![nh3](https://user-images.githubusercontent.com/45086751/130175101-1171427c-992d-4513-a45d-979cf6bcf02a.JPG.png)
 
    Rs is the resistance of the sensor in target gas (NH3) with different concentration; And R0 is the resistance of the sensor in fresh air. As a result, to calibrate the sensor, we need to find out the value of R0. The below circuit is the basic driver circuit for MQ-137.The sensor requires two voltage inputs including heater voltage (VH) and circuit voltage (VC). VH is used to supply standard working temperature to the sensor, and it can adopt DC or AC power, while VRL is the voltage of load resistance RL which is in series
 with sensor. Vc supplies the detect voltage to load resistance RL and it requires DC power. RL is adjustable and we set it to 47KΩ. As a result, we will be able to use the sensor response graph of the datasheet, because the graph is based on RL of 47KΩ.
