@@ -167,7 +167,7 @@ m is the slope of the line and to determine the value of the slope, we select tw
 m = (log(y2) - log(y1)) / (log(x2) - log(x1)) which will be equal to -0.244.
 b is the offset of the line which can be calculated by: b = log(y) - mlog(x) --> b = -0.096 + 0.244*2 = 0.389.
 
-Ultimately we have: x = 10 ^ {[log(Rs/R0) - b] / m}. Note that all values except Rs are constant and the sensor and we need to compute this for new values of Rs.
+Ultimately we have: x = 10 ^ [(log(Rs/R0) - b) / m]. Note that all values except Rs are constant and we need to compute this for new values of Rs to get ppm values of the target gas (NH3).
 
 
 
