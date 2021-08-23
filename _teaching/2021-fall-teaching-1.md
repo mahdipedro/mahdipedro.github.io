@@ -97,7 +97,7 @@ Please read the instructions included in each homework assignment about how to s
 
 ## Hardware Components
 
-You will be working on hands-on projects. You will need to purchase a number of hardware components for your projects. A list of the components is provided [here](https://github.com/mahdipedro/mahdipedro.github.io/blob/master/files/CptS466_566_Componentsv3.pdf).
+You will be working on hands-on projects. You will need to purchase a number of hardware components for your projects. A list of the components is provided [here](https://github.com/mahdipedro/mahdipedro.github.io/blob/master/files/CptS466_566_Componentsv4.pdf).
 
 ## Grading Policy
  *	There will be one midterm exam (15%), one final exam (15%), and approximately 10 assignments (70%).
