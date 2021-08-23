@@ -100,7 +100,7 @@ Please read the instructions included in each homework assignment about how to s
 You will be working on hands-on projects. You will need to purchase a number of hardware components for your projects. A list of the components is provided [here](https://github.com/mahdipedro/mahdipedro.github.io/blob/master/files/CptS466_566_Componentsv2.pdf).
 
 ## Grading Policy
- *	There will be one midterm exam (20%), one final exam (20%), and approximately 10 assignments (60%).
+ *	There will be one midterm exam (15%), one final exam (15%), and approximately 10 assignments (70%).
  *	The letter-grade equivalencies are based on lower bound thresholds of 90, 87, 83, 80, 77, 73, 70, 67, 63, and 60 for letter-grades of ‘A’, ‘A-‘, ‘B+’, ‘B’, ‘B-‘, ‘C+’, ‘C’, ‘C-‘, ‘D+’, and ‘D’, respectively. An overall course score of below 60 translates into an ‘F’ letter-grade. In short, the letter equivalencies are as follows. ‘A’≥=90; 87≤’A-‘<90; 83≤’B+'<87; 80≤’B'<87; 77≤’B-‘<80; 73≤’C+'<77; 70≤’C'<73; 67≤’C-‘<70; 63≤’D+'<67; 60≤’D'<63; F<60.
 
 <p align="center">
