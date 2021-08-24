@@ -12,7 +12,7 @@ location: "Pullman, WA"
 ## General Information
 
 * Day/Time/Venue: M,W,F11.10-12 / Sloan 46
-* Instructor: Mahdi Pedram, Email: mahdi.pedram@wsu.edu, Office: Dana 114, Office Hours: Monday and Wednesday 1:30pm to 2:30pm or by appointment.
+* Instructor: Mahdi Pedram, Email: mahdi.pedram@wsu.edu, Office: Dana 114, Office Hours: Monday and Wednesday 2pm to 3pm or by appointment.
 * Pre-requisite: CptS 360 Systems Programming; Good background on Operating Systems, C/C++ programming experience, and knowledge of microprocessors.
 * Course Webpage: [https://mahdipedro.github.io//teaching/2021-fall-teaching-1](https://mahdipedro.github.io//teaching/2021-fall-teaching-1) (for lecture notes, syllabus, class schedule, etc.); and [WSU Canvas](https://canvas.wsu.edu/) (for grades, submission of the assignments).
 * Main Textbooks:
