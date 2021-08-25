@@ -3,7 +3,7 @@ title: 'Gas Sensor Selection Guide'
 date: 2021-07-15
 ---
 
-I have been involved with a project that required us to use multiple gas sensors. I had to do research on these sensors to select the right sensors for our project. In this article, I explain how we may select the right gas sensors for a project. There are certain points that need to be considered before sensor selection which includes:
+I have been involved with a project that required us to use multiple gas sensors. I had to do research on these sensors to select the right sensors for our project. In addition gas sensors need to be calibrated as well. In this article, I explain how we may select the right gas sensors for a project and the potential ways to calibrate a gas sensor. There are certain points that need to be considered before sensor selection which includes:
 
 1- Cost of the Sensor: How much you would like to spend on the sensor. For instance, the price range of CO2 sensors are from $2.5 to hundreds of dollars.
 
@@ -11,13 +11,13 @@ I have been involved with a project that required us to use multiple gas sensors
 
 3- Operation Temperature: In what kind of environment are we going to deploy the sensor. For example, it would be important for sensor selection if the temperature goes below 0℃.
 
-4- Measurement Range: What is the required measurement range for the application? For example, CO2 concentration below 1000ppm (parts-per-million) is safe for humans. However, at higher levels, around 2500 ppm, there are significant reductions in cognitive functioning, especially for tasks that require higher-level thinking. And finally, CO2 levels above 50,000ppm can cause humans to lose consciousness which can lead to death, f this occurs for long enough. Or in CO case, at sustained concentrations above 150 to 200 ppm, disorientation, unconsciousness, and death are possible. [Reference](https://learn.kaiterra.com/en/air-academy/is-carbon-dioxide-harmful-to-people) [Reference](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers)
+4- Measurement Range: What is the required measurement range for the application? For example, CO2 concentration below 1000ppm (parts-per-million) is safe for humans. However, at higher levels, around 2500 ppm, there are significant reductions in cognitive functioning, especially for tasks that require higher-level thinking. And finally, CO2 levels above 50,000ppm can cause humans to lose consciousness which can lead to death, if this occurs for long enough. Or in CO case, at sustained concentrations above 150 to 200 ppm, disorientation, unconsciousness, and death are possible. [Reference](https://learn.kaiterra.com/en/air-academy/is-carbon-dioxide-harmful-to-people) [Reference](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers)
 
-5- Response Time: How fast the sensor's output change according to the new gas level. For example, we need a fast response time if the target gas is so toxic to human because we do not have time to wait for the sensor to respond after 90 seconds which might be too long for some applications.
+5- Response Time: How fast the sensor's output changes according to the new gas level. For example, we need a fast response time if the target gas is so toxic to human because we do not have time to wait for the sensor to respond after 90 seconds which might be too long for some applications.
 
 6- Lifespan: How long can we rely on the sensor's performance? Are we going to deploy the sensing system for some years or just some months?
 
-7- Size of the Module: Depending on the technology that is used the sensor size can vary. Or some may require larger driving circuit to function.
+7- Size of the Module: Depending on the technology that is used the sensor size can vary. Or some may require larger driver circuit to function.
 
 8- Measurement Principle: The technology that is used for building the sensor which includes Electrochemical, MEMS Pellistors, Infrared, Thermal Conductivity, Catalytic Pellistors, and Metal Oxide.
 
@@ -108,14 +108,13 @@ After selecting the right sensor for the project, now we need to calibrate it. S
       
   - Span or 2-point calibration: It is typically performed at the factory after a gas sensor is manufactured. To perform a span calibration, a gas sensor is exposed to 2 gases, one with no target gas, and one with a known amount of the target gas. The process begins by exposing the sensor to a pure inert gas (stable and non-reactive) such as nitrogen or argon. Then the value of 0% is recorded in sensor’s EPROM memory. Next, the sensor is exposed to a known percentage of gas (often the highest level for which the sensor is rated). For instance, a 25% oxygen sensor would be calibrated with 25% oxygen. Finally, the sensor response to the 2nd known gas is recorded in the sensor’s memory. In addition, if the sensor's response is not linear, they perform 4 or more span calibration to create the response. Zero-point adjustment is also vital when dealing with gas sensors. For instance, if at 0% target gas a sensor reads 0.01% when exposed to no target gas, a negative offset of -0.01% is stored in the sensor’s memory and applied to all readings.
 
-
  ![calibration_sample](https://user-images.githubusercontent.com/45086751/129829295-5f78f627-d74a-4e90-ac4e-01cd73fe70d7.png)
-
-  
 
   - Single Point Calibration: The prerequisite of this calibration is span calibration. It is useful in cases where maximum accuracy is less important than total cost. We only record one measurement of the sensor which often performed in fresh air. Fresh air contains approximately 78% nitrogen, 20.9% oxygen, 0.9% argon and 400ppm of carbon dioxide. Any gas sensor exposed to fresh air should match these readings. Once the calibration curve is stored in the sensor’s memory after span calibration, single point calibration is used like the zero-point offset. For example, if a carbon monoxide sensor uses single point calibration in fresh air, calibration process tells the sensor that there is no CO present and to save any offset to the zero point. 
 
   - Automatic Background Calibration (ABC): Considering an indoor air quality CO2 sensor, the theory behind ABC is that at some point each day a room is unoccupied. The CO2 level should return to 400ppm (fresh air), the same as outdoor air. By storing the lowest CO2 readings taken over several days in EPROM memory, an offset to 400ppm could be calculated, then added or subtracted from the actual CO2 readings. It is automated version of single-point calibration. And like single-point calibration, a span calibration curve was originally saved in the sensor's memory at the factory. For maximum accuracy, even devices that use ABC should be calibrated over time. The advantage of automatic background calibration is that the CO2 sensor is self-zeroing over the life of the sensor. However, it is vital that the sensor reads fresh air CO2 (400ppm) occasionally.
+  
+  - Calibration Using AI: Another possible method for a gas sensor calibration is using AI/ML. This method requires extensive data collection as well which might not be feasible for smaller projects. We can define some features such as room temperature, sensor age, room volume, amount of non-target gas in the room, and any other factor that might affect the sensor's output. Then we can start collecting data in different scenarios such as variable room sizes, different sensor ages, etc. At the same time, we also keep track of the ground truth values of the target gas by using multiple industrial sensors. Ultimately, we create a dataset of these experiment with all the features and labels. Then we can train a regression model for a sensor type which can be used to predict sensor's behavior in different settings.
 
 ## Calibration Phase of the Project
 
