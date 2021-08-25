@@ -117,7 +117,7 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 
 | Sensor Output                     | Room Size   | Sensor Age   | Temperature       |  Humidity                | Amount of non-target gas| True Target Gas Value|
 | :---:                             |    :----:   |        :---: | :----:            |         :---:            |   :---:                 |   :---:              |
-| X ppm                             | Y m^3       | Z months     |T℃                |       H%                 |    N ppm                |    GT PPM            |
+| X ppm                             | Y m^3       | Z months     |T℃                |       H%                 |    N ppm                |    GT ppm            |
 
 
 ## Calibration Phase of the Project
