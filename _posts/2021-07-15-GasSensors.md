@@ -31,6 +31,10 @@ There are various gas sensors mechanism, and it is important to select the most 
   - Electrochemical: Electrochemical gas sensors use oxidation-reduction reactions to measure gas concentration. The gas molecules to be detected undergo an oxidative reaction at a sensing electrode, generating ions and electrons. Ions are transferred to the counter electrode via an electrolyte and electrons are transferred to a counter electrode via an external circuit, resulting in a reduction. CO is one of the typical gases used for measurement and CO2 is generated as a result of the reaction of CO with a sensing electrode. The electrochemical sensor uses this chemical reaction. At this time, since the current flowing through the external circuit increases in proportion to the gas concentration, the gas concentration can be calculated by monitoring the current value. On the one hand, the sensors have the advantages of not being interfered by other gases and being resistant to condensation, but on the other hand, the sensors are said to have a short life span and require regular maintenance.
   
   - Photoacoustic Technology: Photoacoustic spectroscopy is the measurement of the effect of absorbed electromagnetic energy (particularly of light) on matter by means of acoustic detection. This low-power technology is currently used for only CO2 sensors. Sensors that use this technology are small in size. [Reference](https://www.sensirion.com/en/environmental-sensors/carbon-dioxide-sensors/carbon-dioxide-sensor-scd4x/)
+  
+  - Optical Sensors: Optical sensors are based on the principle of fluorescence quenching by the target gas. They rely on the use of a light source, a light detector, and a luminescent material that reacts to light. 
+  
+  - MEMS (Micro Electro Mechanical System) 
 
 
 
