@@ -84,14 +84,14 @@ The potential CO2 options were:
 </p> 
 
 
-| Sensor Module                     | Sensor Cost | Response Rate| Power Consumption |  Operation Temperature   | Measurement Range  | Harsh Environment
-| :---:                             |    :----:   |        :---: | :----:            |         :---:            |   :---:            | :---:            |
-| MH-Z14A NDIR Module               | $40         | <90s         |<430mW             |       0℃～50℃          |    0～5000 ppm      | Yes              |
-| MG-811 Electrochemical Module     | $35         | <20s         |<1W                |        -20℃～50℃       |    0～10000 ppm     | No               |
-| MH-Z19 NDIR Module                | $30         | <60s         |<60mW              |        0℃～50℃         |    0～5000 ppm      | No               |
-| SCD30 NDIR Module                 | $60         | <20          |<63mW              |        0℃～50℃         |    0～40000 ppm     | No               |
-| MH-Z16 NDIR Module                | $90         | <30          |<430mW             |        -10℃～50℃       |    0～5000 ppm      | Yes              |
-| SCD4x Photoacoustic Module        | $60         | <60          |<60mW              |        -10℃～60℃       |    400～5000 ppm    | No               |
+| Sensor Module                     | Sensor Cost | Response Rate| Power Consumption |  Operation Temperature   | Measurement Range  | Harsh Environment| Accuracy            |
+| :---:                             |    :----:   |        :---: | :----:            |         :---:            |   :---:            | :---:            |:---:                |
+| MH-Z14A NDIR Module               | $40         | <90s         |<430mW             |       0℃～50℃          |    0～5000 ppm      | Yes              |±(100ppm+ 6%) |
+| MG-811 Electrochemical Module     | $35         | <20s         |<1W                |        -20℃～50℃       |    0～10000 ppm     | No               |±100ppm@400ppm|
+| MH-Z19 NDIR Module                | $30         | <60s         |<60mW              |        0℃～50℃         |    0～5000 ppm      | No               |± 50ppm |
+| SCD30 NDIR Module                 | $60         | <20          |<63mW              |        0℃～50℃         |    0～40000 ppm     | No               |±(30ppm+3%)|
+| MH-Z16 NDIR Module                | $90         | <30          |<430mW             |        -10℃～50℃       |    0～5000 ppm      | Yes              |±(50ppm+5%)|
+| SCD4x Photoacoustic Module        | $60         | <60          |<60mW              |        -10℃～60℃       |    400～5000 ppm    | No               |±(40 ppm + 5%) |
 
 Based on the project requirements, we had to deploy the sensor in a harsh environment. Therefore, we came down to two choices: 1) MH-Z14A NDIR Module 2) MH-Z16 NDIR Module. The response rate of MH-Z16 NDIR Module is way faster than MH-Z14A NDIR Module. However, as I mentioned before, the application could tolerate slower response rate as well. The power consumption was very important factor for the project. However, the power consumption of both modules are equal! The temperature of the facility would not go below 0℃. Therefore, we should be fine with both sensors. As a result, we chose MH-Z14A NDIR Module which was cheaper (less than half) between the two! 
 
