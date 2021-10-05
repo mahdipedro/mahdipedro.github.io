@@ -88,7 +88,7 @@ The potential CO2 options were:
 | :---:                             |    :----:   |        :---: | :----:            |         :---:            |   :---:            | :---:            |:---:                |
 | MH-Z14A NDIR Module               | $40         | <90s         |<430mW             |       0℃～50℃          |    0～5000 ppm      | Yes              |±(100ppm+ 6%) |
 | MG-811 Electrochemical Module     | $35         | <20s         |<1W                |        -20℃～50℃       |    0～10000 ppm     | No               |±100ppm@400ppm|
-| MH-Z19 NDIR Module                | $30         | <60s         |<60mW              |        0℃～50℃         |    0～5000 ppm      | No               |± 50ppm |
+| MH-Z19 NDIR Module                | $30         | <60s         |<60mW              |        0℃～50℃         |    0～5000 ppm      | No               |± (50ppm+5%) |
 | SCD30 NDIR Module                 | $60         | <20          |<63mW              |        0℃～50℃         |    0～40000 ppm     | No               |±(30ppm+3%)|
 | MH-Z16 NDIR Module                | $90         | <30          |<430mW             |        -10℃～50℃       |    0～5000 ppm      | Yes              |±(50ppm+5%)|
 | SCD4x Photoacoustic Module        | $60         | <60          |<60mW              |        -10℃～60℃       |    400～5000 ppm    | No               |±(40 ppm + 5%) |
