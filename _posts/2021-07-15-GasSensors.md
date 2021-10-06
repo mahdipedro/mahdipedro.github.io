@@ -134,7 +134,7 @@ After selecting the right sensor for the project, now we need to calibrate it. S
 
   - MQ-137 Calibration:  The sensor has been calibrated in the factory and the sensor's response to NH3 concentration is reported in the sensor's datasheet:
 
-![mq](https://user-images.githubusercontent.com/45086751/130175606-8bbc7c94-3d10-41e3-a3db-fb9b84867bdd.JPG)
+![nh3](https://user-images.githubusercontent.com/45086751/136251884-67f7f2f7-c163-487d-ad4f-e8057c09ecdb.JPG)
 
 
    Rs is the resistance of the sensor in target gas (NH3) with different concentration; And R0 is the resistance of the sensor in fresh air. As a result, to calibrate the sensor, we need to find out the value of R0. The below circuit is the basic driver circuit for MQ-137.The sensor requires two voltage inputs including heater voltage (VH) and circuit voltage (VC). VH is used to supply standard working temperature to the sensor, and it can adopt DC or AC power, while VRL is the voltage of load resistance RL which is in series
