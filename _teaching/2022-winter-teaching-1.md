@@ -78,12 +78,12 @@ S7 - Final proposal document (5%) and presentation (5%) During the finals week, 
 * Pre-requisite: CptS 360 Systems Programming; Good background on Operating Systems, C/C++ programming experience, and knowledge of microprocessors.
 * Course Webpage: [https://mahdipedro.github.io//teaching/2021-fall-teaching-1](https://mahdipedro.github.io//teaching/2021-fall-teaching-1) (for lecture notes, syllabus, class schedule, etc.); and [WSU Canvas](https://canvas.wsu.edu/) (for grades, submission of the assignments).
 * Main Textbooks:
-    1. Embedded Systems: Introduction to Arm® Cortex™-M Microcontrollers (Volume 1) 5th Edition, By: Jonathan W Valvano, ISBN-13: 978-1477508992, ISBN-10: 1477508996.
-    2. Embedded Systems: Real-Time Interfacing to Arm Cortex-M Microcontrollers, 5th Edition, By: Jonathan W Valvano, ISBN-13: 978-1463590154, ISBN-10: 1463590156.
+    1. Making Embedded Systems: Design Patterns for Great Software 1st Edition by Elecia White, ISBN-13: 978-1449302146, ISBN-10: 9781449302146.
+    2. TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers 1st Edition by Pete Warden & Daniel Situnayake, ISBN-13: 978-1492052043, ISBN-10: 1492052043.
 
 <p align="center">
-    <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/126048660-d51c0bfe-eb76-48b0-ab62-d6e14712b02b.png">    
-    <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/126048662-cf78830a-e148-4722-94d6-d2044f40d626.png">
+    <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/148846027-b8aa08c5-b559-437e-a9b9-c487842d17c0.png">    
+    <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/148846094-760cab5a-212a-4293-b49d-478a18792569.png">
  </p> 
   
 
