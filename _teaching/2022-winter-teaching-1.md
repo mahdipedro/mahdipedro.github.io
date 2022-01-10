@@ -74,7 +74,9 @@ S7 - Final proposal document (5%) and presentation (5%) During the finals week, 
 
 ## Main Textbooks:
     1. Making Embedded Systems: Design Patterns for Great Software 1st Edition by Elecia White, ISBN-13: 978-1449302146, ISBN-10: 9781449302146.
+    
     2. TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers 1st Edition by Pete Warden & Daniel Situnayake, ISBN-13: 978-1492052043, ISBN-10: 1492052043.
+
 
 <p align="center">
     <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/148846027-b8aa08c5-b559-437e-a9b9-c487842d17c0.png">    
