@@ -9,6 +9,7 @@ location: "Evanston, IL"
 ---
  Course Instructor.
 
+
 ## Course Description
 
 Wireless and Mobile health (mHealth) aims to improve our health and well-being by utilizing data provided by technologies such as wearables, IoT devices, and mobile phones. This course will cover foundational knowledge and topical work in mHealth. Students will learn the essential steps needed to create a mHealth system from conception to evaluation through assigned reading, group discussions, and some hands-on projects. Since mHeath is an interdisciplinary field, we will cover a range of literature in human-computer interaction, wearable systems, machine learning, and health. Readings and in-class activities will prepare students for their final creative assignment that involves writing and presenting a research proposal for a mHealth system or research idea. Although this course will cover some technical aspects of mHealth, we encourage students with different backgrounds to enroll as they will work in interdisciplinary teams.
@@ -71,13 +72,7 @@ S6 - Methods and presentation of results (5%) In this stage, students will provi
 S7 - Final proposal document (5%) and presentation (5%) During the finals week, students will get 10 minutes to present their proposal followed by 3 minutes for Q&A. In the final proposal document, students are expected to incorporate feedback that they received from S5 and S6.
 
 
-## General Information
-
-* Day/Time/Venue: M,W,F11.10-12 / Sloan 46
-* Instructor: Mahdi Pedram, Email: mahdi.pedram@wsu.edu, Office: Dana 114, Office Hours: Monday and Wednesday 2pm to 3pm or by appointment.
-* Pre-requisite: CptS 360 Systems Programming; Good background on Operating Systems, C/C++ programming experience, and knowledge of microprocessors.
-* Course Webpage: [https://mahdipedro.github.io//teaching/2021-fall-teaching-1](https://mahdipedro.github.io//teaching/2021-fall-teaching-1) (for lecture notes, syllabus, class schedule, etc.); and [WSU Canvas](https://canvas.wsu.edu/) (for grades, submission of the assignments).
-* Main Textbooks:
+## Main Textbooks:
     1. Making Embedded Systems: Design Patterns for Great Software 1st Edition by Elecia White, ISBN-13: 978-1449302146, ISBN-10: 9781449302146.
     2. TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers 1st Edition by Pete Warden & Daniel Situnayake, ISBN-13: 978-1492052043, ISBN-10: 1492052043.
 
