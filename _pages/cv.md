@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Engineering, Amirkabir University of Technology, 2014
-* Ph.D in Computer Engineering, Washington State University, 2021 (expected)
+* Ph.D in Computer Engineering, Washington State University, 2021
 
 Work experience
 ======
