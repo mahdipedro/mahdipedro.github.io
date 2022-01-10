@@ -37,6 +37,39 @@ Paper Reviews (25%)
 Projects (20%)
 Research Proposal (40%)
  
+#### Class Participation (5%)
+Students are expected to attend all class sessions (unless students are granted prior permission to be excused). Additionally, students are expected to engage in class discussions by referencing relevant points from the readings, asking questions, and providing feedback to their peers. Students also participate by collectively annotating the reading assignments on Perusall.
+
+#### Lead Class Discussions (15%)
+mHeath is an interdisciplinary field that encompasses people from different backgrounds. [Insert goal of this activity] Every week, a group of students will lead the class discussion by presenting a topic not covered in the class but is related to mHealth. For example, if you are interested in diabetes management, you can choose to present the topic and engage your peers in a discussion. Another example is to utilize a skill that you have. For example, if you are an expert in 3D printing, you can demonstrate your skills to your peers. You will get the chance to choose a slot in the first week of class. This activity can be performed in a group of 1-4 students. 
+
+// Add more guidelines so they can check off their presentation. How is it related to the objectives and goals of the class
+
+#### Paper Reviews (20%)
+The paper reviews aim to encourage students to critically read the assigned readings to help students write their proposals. The reviews should mainly consist of the following sections: 1) paper summary, 2) things that you liked about the paper, 3) areas that you believe need more improvement or clarification. In addition, there will be a prompt specific to the topic of the week or previously covered topics in some review assignments. Reviews are due at 9 am on the assigned due date to allow the instructors to read over the reviews and incorporate them into class discussions.
+
+#### Projects (20%)
+We will get familiar with developing mHealth systems. Basically, we can employ embedded systems knowledge to develop mHealth systems that include microcontrollers, sensors, actuators, communication modules, learning algorithms, and firmware. As a result, we will learn about the embedded systems development process. We use an Arduino development board to develop our systems. There will be 4-5 small projects that will help us learn about the mHealth systems development process.
+
+#### Research Proposal (40%)
+Students will integrate in-class discussion and readings knowledge to create a mHeath research proposal. The proposal is divided into seven connected stages (S) that will prepare the students for their final submission. The stages are the following:
+
+S1 - Focus Area (5%): In this stage, students will identify an area in health that they are interested in and would like to improve. Students also determine what type of mhealth contribution they want to make (e.g., building a system, analyzing data, understanding a population/process, etc.). This stage aims to help students understand what has been already investigated and identify gaps that can be filled. This stage's deliverables will be a 1-2 pages single-spaced document (excluding references) that describes the chosen health focus area and the current mHealth research in that area. The aim is to provide the reader with the big picture of what has been done and what is not answered. You do not need to go into detail here. Most of this information can be extracted from the abstract and the paper's title. Google scholar is a suitable source to search for research articles. Once you find a paper, you can also check the citations of these papers, which is a possible way to find other related work.
+
+ 
+
+S2 - Ideas Generation (5%): In this stage, you will produce three ideas related to the focused health area. The deliverables will be three short paragraphs introducing the problem, what has been done, and what you plan to do.
+
+S3 - Peer review of ideas (5%): You will be randomly assigned to review six pitches from your peers. This review aims to provide constructive feedback that will help make the ideas as solid as possible. Good feedback will involve questions, identifying opportunities and risks, and suggesting modifications or extensions.
+
+S4 - Team formation and final proposal idea (5%): Students will be able to discuss their ideas in the class, which will help them form project groups for the final proposal. The group should decide the final ideas they want to pursue and submit a 1-page proposal abstract or summary. A good proposal abstract should summarize the significance of or the need for the proposed work, the main objective/contribution or hypothesis of the project, the method used to achieve the objective or test the hypothesis, and finally, the impact of the work.
+
+S5 - Introduction and related work (5%): In this stage, students will present more details about their ideas by supporting the significance of their work and positioning their work within the existing literature. This will require the team to read and summarize papers related to their research question to help in demonstrating the significance and the novelty of their work.
+
+S6 - Methods and presentation of results (5%) In this stage, students will provide more details on how they can achieve their objectives. For example, groups proposing a system should describe how they will build such a system in style and explain how they can prove or show that their system archives their objective. Another example is a group that wants to interview a particular population to identify design opportunities; in this case, the group should provide details on how they would reach such communities, the questions they intend to ask in the interview, and why these questions are essential. Students also describe how they intend to present or communicate their results. The usage of graphics, tables, or charts is highly encouraged. Students are expected to get any results; however, planning how results should be analyzed to help find gaps in the experiment design or system evaluation method.
+
+S7 - Final proposal document (5%) and presentation (5%) During the finals week, students will get 10 minutes to present their proposal followed by 3 minutes for Q&A. In the final proposal document, students are expected to incorporate feedback that they received from S5 and S6.
+
 
 ## General Information
 
@@ -53,110 +86,4 @@ Research Proposal (40%)
     <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/126048662-cf78830a-e148-4722-94d6-d2044f40d626.png">
  </p> 
   
-  
-## Course Syllabus
 
-*	Introduction to Computers and Electronics
-    - Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.
-    - Review of digital design basics: what is a digital system, combinational logics, gates, truth table, decoder, encoder, multiplexer, logic simplification, rules of Boolean algebra, designing a simple 1-bit ALU
-
-* Introduction to Embedded Systems & Applications
-* Introduction to the ARM Cortex-M
-    - Instruction Set Architecture (ISA), ARM registers, Processor Status Register (PSR), Instruction Format and Instruction Types, Memory Mapped I/O.
-
-* Introduction to Input / Output
-    -	I/O Ports configuration on Arm micro-controller TM4C123: I/O types, Direction register, Data register;
-*	Electronic Circuits
-    -	Current, voltage, Ohms law, power, voltage division, current division, transistor-level NAND gate.
-*	System Development Cycle
-    -	Requirements document, design process, testing; Switch and LED interfacing.
-    
-*	Functional debugging; 
-    -	SysTick timer; Arrays in C; Functional debugging.
-  
-*	Finite State Machines
-    -	Precise Timing (using SysTick timer)
- 
-*	Serial and Parallel Port Interfacing
-    -	UART: Methods of synchronization, UART configuration
-    -	SPI: Fundamentals
-    -	I2C : Synchronization method, TM4C I2C details
-    -	USB : Basic principles, modular and integrated USB Interfaces
-    -	Actuators: Binary Actuators and Motors.
- 
-*	Interrupts
-    -	Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.
-	
-*	Digital to Analog Conversion
-    -	Digitization, Nyquist Theorem, Sampling, Precision, Resolution, Designing a DAC using binary weighted approach, Sound as an analog signal, Designing a DAC using R2R approach, Sound generation example code.
- 
-*	ADC and data acquisition
-    -	Data acquisition system; ADC parameters; Configuring micro-controller for ADC process; Software code for data acquisition.
-
-*	Internet of Things
-	- CC3100 Booster Pack, IP Addresses, Client Server Communication.
-	
-*	Monitoring complex events
-      -	Signal processing; Segmentation; Feature extraction; Introduction to Machine Learning.
- 
-*	Feature selection
-    -	Search directions/strategies; Selection criteria; Filter versus wrapper methods
- 
-*	Supervised learning algorithms
-    -	Decision tree classification; K-Nearest-Neighbor classification; Evaluating classifier performance
-
-
-
-## Statement of Reasonable Accommodation
-
-Reasonable accommodations are available for students with a documented disability. If you have a disability and need accommodations to fully participate in this class, please either visit or call the Access Center (Washington Building 217; 509-335-3417) to schedule an appointment with an Access Advisor. All accommodations MUST be approved through the Access Center. For more information contact a Disability Specialist @ 509-335-3417, http://accesscenter.wsu.edu, Access.Center@wsu.edu.
-
-## Campus Safety Information
-
-Review the Campus Safety Plan (http://safetyplan.wsu.edu/) and visit the Office of Emergency Management website (http://oem.wsu.edu/) for a comprehensive listing of university policies, procedures, statistics, and information related to campus safety, emergency management, and the health and welfare of the campus community.
-
-
-## Cheating Policy
-
-Limited cooperation among students on homework assignments and programming projects is encouraged. Students may discuss meaning of the assignments and possible directions on how to solve the problems. However, any written portion of an assignment MUST be the student’s work. Copying from other students or allowing other students to copy your work is considered to be cheating and will result in a reduced or a failing grade.
-
-## Assignments (Homework and Projects)
-
-Please read the instructions included in each homework assignment about how to submit your assignment and on late submission policy. Assignments that are submitted beyond the allowed time frame will not be graded.  A tutorial document on how to install and use the Keil software is provided on the course website.
-
-## Hardware Components
-
-You will be working on hands-on projects. You will need to purchase a number of hardware components for your projects. A list of the components is provided [here](https://github.com/mahdipedro/mahdipedro.github.io/blob/master/files/CptS466_566_Componentsv4.pdf).
-
-## Grading Policy
- *	There will be one midterm exam (15%), one final exam (15%), and approximately 10 assignments (70%).
- *	The letter-grade equivalencies are based on lower bound thresholds of 90, 87, 83, 80, 77, 73, 70, 67, 63, and 60 for letter-grades of ‘A’, ‘A-‘, ‘B+’, ‘B’, ‘B-‘, ‘C+’, ‘C’, ‘C-‘, ‘D+’, and ‘D’, respectively. An overall course score of below 60 translates into an ‘F’ letter-grade. In short, the letter equivalencies are as follows. ‘A’≥=90; 87≤’A-‘<90; 83≤’B+'<87; 80≤’B'<87; 77≤’B-‘<80; 73≤’C+'<77; 70≤’C'<73; 67≤’C-‘<70; 63≤’D+'<67; 60≤’D'<63; F<60.
-
-<p align="center">
-  <img width="220" height="230" src="https://user-images.githubusercontent.com/45086751/126089915-085b8dc7-c11b-4dbc-95bd-ed68abb66355.png">
- </p> 
-
-## Grades
-Grades will be posted on WSU Canvas approximately one week after the due date for each homework assignment.
- 
-## Exams
- *	Midterms will take place during normal class hours and in the same classroom as lectures.
- *	Final exam will take place according to the University Final Exams Schedules.
-  
-## Class Schedule 
-
-
-
-| Week Of      | Topic & Reading | Comments |
-| :-----------: 	| :-----------: |	 :-----------: |	
-| Aug.23      | Introduction to the course; Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.| 
-| Aug.30   | Review of digital design basics: what is a digital system, combinational logics, gates, truth table, decoder, encoder, multiplexer, logic simplification, rules of Boolean algebra, designing a simple 1-bit ALU;  Introduction to Microcontrollers and Embedded systems: Applications, Von Neumann and Harvard Architectures, Instruction Set Architecture (ISA), ARM registers, Processor Status Register (PSR), Instruction Format and Instruction Types, Memory Mapped I/O.|
-|Sept.6	|I/O Ports configuration on Arm micro-controller TM4C123: I/O types, Direction register, Data register; Electronic circuits: current, voltage, Ohms law, power, voltage division, current division, transistor-level NAND gate.|
-|Sept.13	|Development cycle: requirements document, design process, testing; Switch and LED interfacing.|
-|Sept.20	|SysTick timer; Arrays in C; Functional debugging.|
-|Sept.27	|Finite State Machines; Precise Timing (SysTick timer)|
-|Oct.4	|UART: Methods of synchronization, UART configuration|
-|Oct.11	|Interrupts: Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.|
-|Oct.18	| Digital to Analog Conversion: Digitization, Nyquist Theorem, Sampling, Precision, Resolution, Designing a DAC using binary weighted approach, Sound as an analog signal, Designing a DAC using R2R approach, Sound generation example code.|
-|Oct.25	|ADC and Data Acquisition: Data acquisition system; ADC parameters; Configuring micro-controller for ADC process; Software code for data acquisition.|
-|Nov.1	|Monitoring complex events: Signal processing; segmentation; feature extraction; Introduction to Machine Learning|
