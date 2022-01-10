@@ -9,6 +9,35 @@ location: "Evanston, IL"
 ---
  Course Instructor.
 
+## Course Description
+
+Wireless and Mobile health (mHealth) aims to improve our health and well-being by utilizing data provided by technologies such as wearables, IoT devices, and mobile phones. This course will cover foundational knowledge and topical work in mHealth. Students will learn the essential steps needed to create a mHealth system from conception to evaluation through assigned reading, group discussions, and some hands-on projects. Since mHeath is an interdisciplinary field, we will cover a range of literature in human-computer interaction, wearable systems, machine learning, and health. Readings and in-class activities will prepare students for their final creative assignment that involves writing and presenting a research proposal for a mHealth system or research idea. Although this course will cover some technical aspects of mHealth, we encourage students with different backgrounds to enroll as they will work in interdisciplinary teams.
+
+ 
+
+### By the end of this course, students should be able to:
+
+Understand the process of creating and evaluating a mHealth system 
+Learn about developing an embedded system for mHeath applications using Arduino
+Understand resource optimization in mHealth systems
+Critically examine the impact of mHealth systems on people and society
+Analyze different types of data obtained from mHealth systems, including but not limited to the following sensors: ECG, PPG, accel/gyro, video, audio, proximity, ambient light, piezoelectric
+Design experiments to collect data and validate mHealth systems
+Write a proposal for a mHealth system or framework
+Grading
+All coursework will be graded and judged as either complete or incomplete. Students are expected to complete all assignments on time (unless they obtain an extension from the instructor). All assignments are due at 9:00 am central time on the due date.
+
+ 
+
+### The grading breakdown is as follows:
+
+Class Participation (5%)
+Lead Class Discussions (10%)
+Paper Reviews (25%)
+Projects (20%)
+Research Proposal (40%)
+ 
+
 ## General Information
 
 * Day/Time/Venue: M,W,F11.10-12 / Sloan 46
