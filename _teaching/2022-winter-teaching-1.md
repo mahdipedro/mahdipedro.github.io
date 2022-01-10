@@ -72,7 +72,8 @@ S6 - Methods and presentation of results (5%) In this stage, students will provi
 S7 - Final proposal document (5%) and presentation (5%) During the finals week, students will get 10 minutes to present their proposal followed by 3 minutes for Q&A. In the final proposal document, students are expected to incorporate feedback that they received from S5 and S6.
 
 
-## Main Textbooks:
+### Main Textbooks:
+
     ** Making Embedded Systems: Design Patterns for Great Software 1st Edition by Elecia White, ISBN-13: 978-1449302146, ISBN-10: 9781449302146.
     
     ** TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers 1st Edition by Pete Warden & Daniel Situnayake, ISBN-13: 978-1492052043, ISBN-10: 1492052043.
