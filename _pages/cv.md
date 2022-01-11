@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-* August 2016 - Present: Research Assistant
+* August 2016 - December 2021: Research Assistant
   * Washington State University
   * Supervisor: Professor Hassan Ghasemzadeh
   
-* July 2019 - Present: Teaching Assistant
+* July 2019 - December 2021: Teaching Assistant
   * Washington State University
   * Duties included: Assisting the instructor in designing syllabus/projects and mentoring students on their projects.
   * Courses: Embedded Systems, [Machine Learning](https://github.com/mahdipedro/mpedram.github.io/blob/master/files/syllabus.pdf), and Operating Systems
