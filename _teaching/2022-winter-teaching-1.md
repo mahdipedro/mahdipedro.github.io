@@ -79,8 +79,8 @@ S7 - Final proposal document (5%) and presentation (5%) During the finals week, 
 
 
 <p align="center">
-    <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/148846027-b8aa08c5-b559-437e-a9b9-c487842d17c0.png">    
     <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/148846094-760cab5a-212a-4293-b49d-478a18792569.png">
+    <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/148846027-b8aa08c5-b559-437e-a9b9-c487842d17c0.png">    
  </p> 
   
 
