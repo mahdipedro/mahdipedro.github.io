@@ -2,7 +2,7 @@
 title: "Wireless and Mobile Health (mHealth) - Winter 2022"
 collection: teaching
 type: "Undergraduate and graduate course"
-permalink: /teaching/2021-fall-teaching-1/
+permalink: /teaching/2022-winter-teaching-1/
 venue: "Northwestern University, McCormick School of Engineering"
 date: 2022-01-04
 location: "Evanston, IL"
