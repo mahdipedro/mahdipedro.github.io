@@ -16,6 +16,13 @@ Education
 
 Work experience
 ======
+* January 2022 - Present: Postdoctoral Researcher
+  * Northwestern University
+
+* January 2022 - Present: Lecturer 
+  * Northwestern University
+  * Course: Wireless and Mobile Health (mHealth)
+  
 * August 2016 - December 2021: Research Assistant
   * Washington State University
   * Supervisor: Professor Hassan Ghasemzadeh
