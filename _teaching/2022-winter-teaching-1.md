@@ -41,12 +41,11 @@ Research Proposal (40%)
 #### Class Participation (5%)
 Students are expected to attend all class sessions (unless students are granted prior permission to be excused). Additionally, students are expected to engage in class discussions by referencing relevant points from the readings, asking questions, and providing feedback to their peers. Students also participate by collectively annotating the reading assignments on Perusall.
 
-#### Lead Class Discussions (15%)
+#### Lead Class Discussions (10%)
 mHeath is an interdisciplinary field that encompasses people from different backgrounds. [Insert goal of this activity] Every week, a group of students will lead the class discussion by presenting a topic not covered in the class but is related to mHealth. For example, if you are interested in diabetes management, you can choose to present the topic and engage your peers in a discussion. Another example is to utilize a skill that you have. For example, if you are an expert in 3D printing, you can demonstrate your skills to your peers. You will get the chance to choose a slot in the first week of class. This activity can be performed in a group of 1-4 students. 
 
-// Add more guidelines so they can check off their presentation. How is it related to the objectives and goals of the class
 
-#### Paper Reviews (20%)
+#### Paper Reviews (25%)
 The paper reviews aim to encourage students to critically read the assigned readings to help students write their proposals. The reviews should mainly consist of the following sections: 1) paper summary, 2) things that you liked about the paper, 3) areas that you believe need more improvement or clarification. In addition, there will be a prompt specific to the topic of the week or previously covered topics in some review assignments. Reviews are due at 9 am on the assigned due date to allow the instructors to read over the reviews and incorporate them into class discussions.
 
 #### Projects (20%)
@@ -55,21 +54,19 @@ We will get familiar with developing mHealth systems. Basically, we can employ e
 #### Research Proposal (40%)
 Students will integrate in-class discussion and readings knowledge to create a mHeath research proposal. The proposal is divided into seven connected stages (S) that will prepare the students for their final submission. The stages are the following:
 
-S1 - Focus Area (5%): In this stage, students will identify an area in health that they are interested in and would like to improve. Students also determine what type of mhealth contribution they want to make (e.g., building a system, analyzing data, understanding a population/process, etc.). This stage aims to help students understand what has been already investigated and identify gaps that can be filled. This stage's deliverables will be a 1-2 pages single-spaced document (excluding references) that describes the chosen health focus area and the current mHealth research in that area. The aim is to provide the reader with the big picture of what has been done and what is not answered. You do not need to go into detail here. Most of this information can be extracted from the abstract and the paper's title. Google scholar is a suitable source to search for research articles. Once you find a paper, you can also check the citations of these papers, which is a possible way to find other related work.
+S1 - Research Selection and Team formation  (10%): Each group decides the final ideas they want to pursue and submit a 1-page proposal abstract or summary. A good proposal abstract should summarize the significance of or the need for the proposed work, the main objective/contribution or hypothesis of the project, the method used to achieve the objective or test the hypothesis, and finally, the impact of the work.
 
  
 
-S2 - Ideas Generation (5%): In this stage, you will produce three ideas related to the focused health area. The deliverables will be three short paragraphs introducing the problem, what has been done, and what you plan to do.
+S2 - Introduction and related work (5%): In this stage, students will present more details about their ideas by supporting the significance of their work and positioning their work within the existing literature. This will require the team to read and summarize papers related to their research question to help in demonstrating the significance and the novelty of their work.
 
-S3 - Peer review of ideas (5%): You will be randomly assigned to review six pitches from your peers. This review aims to provide constructive feedback that will help make the ideas as solid as possible. Good feedback will involve questions, identifying opportunities and risks, and suggesting modifications or extensions.
+ 
 
-S4 - Team formation and final proposal idea (5%): Students will be able to discuss their ideas in the class, which will help them form project groups for the final proposal. The group should decide the final ideas they want to pursue and submit a 1-page proposal abstract or summary. A good proposal abstract should summarize the significance of or the need for the proposed work, the main objective/contribution or hypothesis of the project, the method used to achieve the objective or test the hypothesis, and finally, the impact of the work.
+S3 - Methods and presentation of results (5%) In this stage, students will provide more details on how they plan to achieve their objectives. For example, groups proposing a system should describe how they will build such a system in style and explain how they can prove or show that their system archives their objective. Another example is a group that wants to interview a particular population to identify design opportunities; in this case, the group should provide details on how they would reach such communities, the questions they intend to ask in the interview, and why these questions are essential. Students also describe how they intend to present or communicate their results. The usage of graphics, tables, or charts is highly encouraged. Students are expected to get any results; however, planning how results should be analyzed to help find gaps in the experiment design or system evaluation method.
 
-S5 - Introduction and related work (5%): In this stage, students will present more details about their ideas by supporting the significance of their work and positioning their work within the existing literature. This will require the team to read and summarize papers related to their research question to help in demonstrating the significance and the novelty of their work.
 
-S6 - Methods and presentation of results (5%) In this stage, students will provide more details on how they can achieve their objectives. For example, groups proposing a system should describe how they will build such a system in style and explain how they can prove or show that their system archives their objective. Another example is a group that wants to interview a particular population to identify design opportunities; in this case, the group should provide details on how they would reach such communities, the questions they intend to ask in the interview, and why these questions are essential. Students also describe how they intend to present or communicate their results. The usage of graphics, tables, or charts is highly encouraged. Students are expected to get any results; however, planning how results should be analyzed to help find gaps in the experiment design or system evaluation method.
 
-S7 - Final proposal document (5%) and presentation (5%) During the finals week, students will get 10 minutes to present their proposal followed by 3 minutes for Q&A. In the final proposal document, students are expected to incorporate feedback that they received from S5 and S6.
+S4 - Final proposal document (10%) and presentation (10%) During the finals week, students will get 10 minutes to present their proposal followed by 3 minutes for Q&A. In the final proposal document, students are expected to incorporate feedback that they received from S5 and S6.
 
 
 ### Main Textbooks:
