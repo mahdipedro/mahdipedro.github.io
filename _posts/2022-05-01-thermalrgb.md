@@ -1,5 +1,5 @@
 ---
-title: 'Handling Power Hungry Sensors in a Low-Power Project'
+title: 'Storing RGB and Thermal Data Using ESP32-CAM Module'
 date: 2022-05-01
 ---
 
