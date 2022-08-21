@@ -28,5 +28,5 @@ Current Projects
   * Roles: Project Lead / Hardware Engineer
   * Start date: Since 01/01/2022
 * NIH R03 - WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild 
-  * Roles: Project manager/ Hardware Engineer
+  * Roles: Project Manager/ Hardware Engineer
   * Start date: 01/01/2022
