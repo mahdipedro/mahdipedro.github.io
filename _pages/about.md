@@ -25,8 +25,8 @@ Current Projects
   * Role: Project Lead
   * Start date: 12/01/2021
 * NIH R21 - BehaviorSight: Privacy Enhancing Wearable System to Detect Health Risk Behaviors in Real-time
-  * Role: Project Lead / Hardware engineer
+  * Roles: Project Lead / Hardware Engineer
   * Start date: Since 01/01/2022
 * NIH R03 - WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild 
-  * Role: Project manager/ Hardware engineer
+  * Roles: Project manager/ Hardware Engineer
   * Start date: 01/01/2022
