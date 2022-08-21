@@ -11,10 +11,16 @@ I am a researcher and educator at [Northwestern University](https://www.northwes
 
 Research Interest
 ======
-My research topics include :
+My research topics include:
 * Embedded Systems
 * Mobile Health (mHealth)
 * On-Device Processing 
 * Sensor System Development
 * Power Optimization
 * Machine Learning
+
+Current Projects
+======
+* NIH R01 - EAT: A Reliable Eating Assessment Technology for Free-living Individuals
+* NIH R21 - BehaviorSight: Privacy Enhancing Wearable System to Detect Health Risk Behaviors in Real-time
+* NIH R03 - WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild
