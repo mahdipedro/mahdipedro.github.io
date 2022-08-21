@@ -11,7 +11,6 @@ I am a researcher and educator at [Northwestern University](https://www.northwes
 
 Research Interest
 ======
-My research topics include:
 * Embedded Systems
 * Mobile Health (mHealth)
 * On-Device Processing 
