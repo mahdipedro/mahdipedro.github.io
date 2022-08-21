@@ -21,6 +21,6 @@ My research topics include:
 
 Current Projects
 ======
-* NIH R01 - EAT: A Reliable Eating Assessment Technology for Free-living Individuals - Since 12/01/2021
-* NIH R21 - BehaviorSight: Privacy Enhancing Wearable System to Detect Health Risk Behaviors in Real-time - Since 01/01/2022
-* NIH R03 - WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild - Since 01/01/2022
+* NIH R01 - EAT: A Reliable Eating Assessment Technology for Free-living Individuals - *Since 12/01/2021*
+* NIH R21 - BehaviorSight: Privacy Enhancing Wearable System to Detect Health Risk Behaviors in Real-time - *Since 01/01/2022*
+* NIH R03 - WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild - *Since 01/01/2022*
