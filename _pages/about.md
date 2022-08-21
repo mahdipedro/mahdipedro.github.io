@@ -13,7 +13,7 @@ Research Interest
 ======
 My research topics include :
 * Embedded Systems
-* Health Monitoring Systems
+* Mobile Health (mHealth)
 * On-Device Processing 
 * Sensor System Development
 * Power Optimization
