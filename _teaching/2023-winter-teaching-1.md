@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and graduate course"
 permalink: /teaching/2023-winter-teaching-1/
 venue: "Northwestern University, McCormick School of Engineering"
-date: 2022-01-04
+date: 2023-01-01
 location: "Evanston, IL"
 ---
  Course Instructor.
