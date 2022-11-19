@@ -80,4 +80,25 @@ S4 - Final proposal document (10%) and presentation (10%) During the finals week
     <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/148846027-b8aa08c5-b559-437e-a9b9-c487842d17c0.png">    
  </p> 
   
+  
+## Sensors to be used in this course:
+### IMU (inertial measurement unit) including accelerometer and gyroscope
+
+
+### Microphone 
+
+
+### Pulse Oximeter and Heart Rate Sensor 
+
+
+### Heart Rate Monitor (ECG)
+
+
+### Air Quality Sensor
+  
+
+### GSR (galvanic skin response) Sensor
+
+
+### EMG (electromyography) Detector 
 
