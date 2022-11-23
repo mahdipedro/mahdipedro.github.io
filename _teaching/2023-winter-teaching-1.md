@@ -89,7 +89,8 @@ S4 - Final proposal document (10%) and presentation (10%) During the finals week
 
 
 ### Pulse Oximeter and Heart Rate Sensor 
-
+There must be a particular amount of oxygen in the blood at all times, or the body cannot function properly. SpO2, or oxygen saturation, is a measure of the amount of oxygen-carrying hemoglobin in the blood compared to the amount of hemoglobin that is not carrying oxygen. SpO2 can be broken down into components, including saturation, pulse, serum pressure, and oxygen. Essentially, this abbreviation indicates the oxygen amount carried by red blood cells in the body. A percentage amount measures SpO2. A healthy level for an adult is approximately 96%, although a reading above 92% is generally considered healthy. When the body has low levels of SpO2, this can result in a condition called hypoxemia, which can cause severe symptoms. Some of these include cyanosis, a blue effect on the skin. Sometimes, hypoxemia can turn into hypoxia or low oxygen levels in body tissue.
+Factors that affect SpO2 measurements include 1) very cold hands at the time of the reading, 2) intrinsic vascular disease, 3) Raynaud’s phenomenon, which causes decreased blood flow to the fingers, and 4) factors such as fake nails or nail polish that is dark in color, such as a dark blue or black, can alter the SpO2 measurement readings. This is because they are pigmentations and can interfere with probes and sensors.
 
 ### Heart Rate Monitor (ECG)
 
