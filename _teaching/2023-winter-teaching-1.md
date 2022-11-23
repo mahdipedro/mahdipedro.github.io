@@ -93,7 +93,7 @@ There must be a particular amount of oxygen in the blood at all times, or the bo
 Factors that affect SpO2 measurements include 1) very cold hands at the time of the reading, 2) intrinsic vascular disease, 3) Raynaud’s phenomenon, which causes decreased blood flow to the fingers, and 4) factors such as fake nails or nail polish that is dark in color, such as a dark blue or black, can alter the SpO2 measurement readings. This is because they are pigmentations and can interfere with probes and sensors.
 
 ### Heart Rate Monitor (ECG)
-
+Electrocardiography is the process of producing an electrocardiogram (ECG), a recording of the heart's electrical activity. It is an electrogram of the heart, which is a graph of voltage versus time of the heart's electrical activity using electrodes placed on the skin. These electrodes detect the small electrical changes that are a consequence of cardiac muscle depolarization followed by repolarization during each cardiac cycle (heartbeat). An electrocardiogram is a painless, noninvasive way to help diagnose many common heart problems. A healthcare provider might use an electrocardiogram to determine or detect 1) Irregular heart rhythms (arrhythmias), 2) If blocked or narrowed arteries in the heart (coronary artery disease) are causing chest pain or a heart attack, 3) Whether you have had a previous heart attack, and 4) How well specific heart disease treatments, such as a pacemaker, are working
 
 ### Air Quality Sensor
   
