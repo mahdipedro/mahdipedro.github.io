@@ -101,7 +101,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 |Jan.24	|Introduction to embedded systems; Development cycle; Creating a system architecture; Outputs, Inputs, and Timers| Paper Review, S1 (Research Project)|
 |Jan.31	|Communicating with peripherals; configuring for serial communication; Analog-to-Digital Conversion (ADC) and data acquisition| Project 2|
 |Feb.7	|Signal processing and machine learning for time-series data (sampling, segmentation, feature extraction, classification); Model evaluation |Paper Review, S2 (Research Project)|
-|Feb.14	|Machine learning workflow, Building and training a machine learning model |Project 3, S3 (Research Project) |
+|Feb.14	|Machine learning workflow, Building and training a machine learning model, Explainability application in mHealth |Project 3, S3 (Research Project) |
 |Feb.21	|Hands-on ML, deploying the model to embedded devices, TensorFlow lite for embedded processors| Paper Review, Project 4|
 |Feb.28	| mHeath systems evaluations and optimizations| Project 5|
 |Mar.7	|Final Presentations| S4 (Research Project)|
