@@ -68,6 +68,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 
  1. Making Embedded Systems: Design Patterns for Great Software 1st Edition by Elecia White, ISBN-13: 978-1449302146, ISBN-10: 9781449302146.
  2. TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers 1st Edition by Pete Warden & Daniel Situnayake, ISBN-13: 978-1492052043.
+ 3. Wearable Sensors: Fundamentals, Implementation and Applications by Edward Sazonov, ISBN-13: 978-0124186620, ISBN-10: 0124186629.
 
 
 <p align="center">
