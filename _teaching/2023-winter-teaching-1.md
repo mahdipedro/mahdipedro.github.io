@@ -81,13 +81,21 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 ## Sensors to be used in this course:
 
  IMU (inertial measurement unit) including accelerometer and gyroscope
+ 
  Microphone 
+ 
  Optical Sensor for PPG Monitoring
+ 
  Heart Rate Monitor (ECG)
+ 
  Air Quality Sensor
+ 
  GSR (galvanic skin response) Sensor
+ 
  EMG (electromyography) Detector 
+ 
  UV Light Sensor
+ 
  RGB Camera
 
 
