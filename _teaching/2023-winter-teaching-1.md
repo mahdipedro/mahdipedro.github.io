@@ -87,4 +87,5 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 ### Air Quality Sensor
 ### GSR (galvanic skin response) Sensor
 ### EMG (electromyography) Detector 
+### UV Light Sensor
 ### RGB Camera
