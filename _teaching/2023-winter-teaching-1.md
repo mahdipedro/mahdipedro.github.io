@@ -78,9 +78,9 @@ S4 - Final proposal document (10%) and presentation (10%) During the finals week
 <p align="center">
     <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/148846094-760cab5a-212a-4293-b49d-478a18792569.png">
     <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/148846027-b8aa08c5-b559-437e-a9b9-c487842d17c0.png">    
-    <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/210087218-c790c375-726f-42e6-94e9-7877f45e5f7c.png">
+    <img width="260" height="300" src="https://user-images.githubusercontent.com/45086751/210087355-68caa20b-eba3-45fc-b35a-04060de3b037.png">
  </p> 
-  
+ 
   
 ## Sensors to be used in this course:
 ### IMU (inertial measurement unit) including accelerometer and gyroscope
