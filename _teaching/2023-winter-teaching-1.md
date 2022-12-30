@@ -97,6 +97,8 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
  UV Light Sensor
  
  RGB Camera
+ 
+ ![image](https://user-images.githubusercontent.com/45086751/210108933-c27fb269-e8f4-447d-88ff-ae0bf0fb0c14.png)
 
 ## Projects:
 Physical activity recognition using IMU
