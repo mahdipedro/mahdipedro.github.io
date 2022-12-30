@@ -95,8 +95,8 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 
 | Week Of      | Topic & Reading | Comments |
 | :-----------: 	| :-----------: |	 :-----------: |	
-| Aug.23      | Introduction to the course; Review of number representation & arithmetic: binary representation, conversion, sign magnitude and 2’s complement representations, representation in decimal format, computer arithmetic, addition, subtraction, overflow.| 
-| Aug.30   | Review of digital design basics: what is a digital system, combinational logics, gates, truth table, decoder, encoder, multiplexer, logic simplification, rules of Boolean algebra, designing a simple 1-bit ALU;  Introduction to Microcontrollers and Embedded systems: Applications, Von Neumann and Harvard Architectures, Instruction Set Architecture (ISA), ARM registers, Processor Status Register (PSR), Instruction Format and Instruction Types, Memory Mapped I/O.|
+| Jan.3      | Introduction to mHealth class ; What is health?| 
+| Jan.7   | Review of digital design basics: what is a digital system, combinational logics, gates, truth table, decoder, encoder, multiplexer, logic simplification, rules of Boolean algebra, designing a simple 1-bit ALU;  Introduction to Microcontrollers and Embedded systems: Applications, Von Neumann and Harvard Architectures, Instruction Set Architecture (ISA), ARM registers, Processor Status Register (PSR), Instruction Format and Instruction Types, Memory Mapped I/O.|
 |Sept.6	|I/O Ports configuration on Arm micro-controller TM4C123: I/O types, Direction register, Data register; Electronic circuits: current, voltage, Ohms law, power, voltage division, current division, transistor-level NAND gate.|
 |Sept.13	|Development cycle: requirements document, design process, testing; Switch and LED interfacing.|
 |Sept.20	|SysTick timer; Arrays in C; Functional debugging.|
