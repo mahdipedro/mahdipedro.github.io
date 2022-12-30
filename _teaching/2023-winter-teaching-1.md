@@ -99,7 +99,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
  RGB Camera
  
 <p align="center">
-    ![image](https://user-images.githubusercontent.com/45086751/210100508-c057bb14-722b-44db-9249-c25b8507ddd9.png)
+ <img width="600" height="480" src="https://user-images.githubusercontent.com/45086751/210100508-c057bb14-722b-44db-9249-c25b8507ddd9.png">
 </p>
 
 ## Projects:
