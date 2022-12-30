@@ -97,7 +97,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 | :-----------: 	| :-----------: |	 :-----------: |	
 | Jan.3      | Introduction to mHealth class ; What is health?; How to review an mhealth system?!| 
 | Jan.10   | Type of mHealth research including systems, analysis, and prediction; mHealth conferences + Overleaf  + lit review|
-|Jan.17	|HCI - goals of the research, who is the human that we are centering; Methods of understanding and knowledge extraction| |Project 1|
+|Jan.17	|HCI - goals of the research, who is the human that we are centering; Methods of understanding and knowledge extraction |Project 1|
 |Jan.24	|Introduction to embedded systems; Development cycle; Creating a system architecture; Outputs, Inputs, and Timers|
 |Sept.20	|SysTick timer; Arrays in C; Functional debugging.|
 |Sept.27	|Finite State Machines; Precise Timing (SysTick timer)|
