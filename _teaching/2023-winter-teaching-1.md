@@ -78,7 +78,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
  </p> 
  
   
-## Sensors to be used in this course:
+## Sensors and components to be used in this course:
 
  IMU (inertial measurement unit) including accelerometer and gyroscope
  
