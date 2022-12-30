@@ -101,9 +101,8 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 |Jan.24	|Introduction to embedded systems; Development cycle; Creating a system architecture; Outputs, Inputs, and Timers| Paper Review, S1 (Research Project)|
 |Jan.31	|Communicating with peripherals; configuring for serial communication; Analog-to-Digital Conversion (ADC) and data acquisition| Project 2|
 |Feb.7	|Signal processing and machine learning for time-series data (sampling, segmentation, feature extraction, classification); Model evaluation |Paper Review, S2 (Research Project)|
-|Oct.4	|UART: Methods of synchronization, UART configuration|
-|Oct.11	|Interrupts: Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.|
-|Oct.18	| Digital to Analog Conversion: Digitization, Nyquist Theorem, Sampling, Precision, Resolution, Designing a DAC using binary weighted approach, Sound as an analog signal, Designing a DAC using R2R approach, Sound generation example code.|
-|Oct.25	|ADC and Data Acquisition: Data acquisition system; ADC parameters; Configuring micro-controller for ADC process; Software code for data acquisition.|
-|Nov.1	|Monitoring complex events: Signal processing; segmentation; feature extraction; Introduction to Machine Learning|
+|Feb.14	|Machine learning workflow, Building and training a machine learning model |Project 3, S3 (Research Project) |
+|Feb.21	|Hands-on ML, deploying the model to embedded devices, TensorFlow lite for embedded processors| Paper Review, Project 4|
+|Feb.28	| mHeath systems evaluations and optimizations| Project 5|
+|Mar.7	|Final Presentations| S4 (Research Project)|
 
