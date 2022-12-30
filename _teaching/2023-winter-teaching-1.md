@@ -100,6 +100,17 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
  
  ![image](https://user-images.githubusercontent.com/45086751/210097417-499dbe85-235d-409c-8d3b-90dd8e486288.png)
 
+## Projects:
+Physical activity recognition using IMU
+
+Keyword spotting for anxiety level monitoring using audio
+
+Stress detection using GSR sensor
+
+Heart rate monitoring for anamoly detection using PPG and ECG signals
+
+Food detection using RGB camera 
+ 
  
 ## Class Schedule 
 
