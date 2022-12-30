@@ -95,10 +95,10 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 
 | Week Of      | Topic & Reading | Comments |
 | :-----------: 	| :-----------: |	 :-----------: |	
-| Jan.3      | Introduction to mHealth class ; What is health?| 
-| Jan.7   | Review of digital design basics: what is a digital system, combinational logics, gates, truth table, decoder, encoder, multiplexer, logic simplification, rules of Boolean algebra, designing a simple 1-bit ALU;  Introduction to Microcontrollers and Embedded systems: Applications, Von Neumann and Harvard Architectures, Instruction Set Architecture (ISA), ARM registers, Processor Status Register (PSR), Instruction Format and Instruction Types, Memory Mapped I/O.|
-|Sept.6	|I/O Ports configuration on Arm micro-controller TM4C123: I/O types, Direction register, Data register; Electronic circuits: current, voltage, Ohms law, power, voltage division, current division, transistor-level NAND gate.|
-|Sept.13	|Development cycle: requirements document, design process, testing; Switch and LED interfacing.|
+| Jan.3      | Introduction to mHealth class ; What is health?; How to review an mhealth system?!| 
+| Jan.10   | Type of mHealth research including systems, analysis, and prediction; mHealth conferences + Overleaf  + lit review|
+|Jan.17	|HCI - goals of the research, who is the human that we are centering; Methods of understanding and knowledge extraction| |Project 1|
+|Jan.24	|Introduction to embedded systems; Development cycle; Creating a system architecture; Outputs, Inputs, and Timers|
 |Sept.20	|SysTick timer; Arrays in C; Functional debugging.|
 |Sept.27	|Finite State Machines; Precise Timing (SysTick timer)|
 |Oct.4	|UART: Methods of synchronization, UART configuration|
