@@ -113,10 +113,8 @@ Stress detection using GSR sensor
 Heart rate monitoring for anamoly detection using PPG and ECG signals
 
 Food detection using RGB camera 
- 
- 
-## Class Schedule 
 
+## Class Schedule 
 | Week Of      | Topic & Reading | Assignment |
 | :-----------: 	| :-----------: |	 :-----------: |	
 | Jan.3      | Introduction to mHealth class ; What is health?; How to review an mhealth system?!| - |
