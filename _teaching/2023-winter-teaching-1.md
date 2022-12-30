@@ -99,8 +99,8 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 | Jan.10   | Type of mHealth research including systems, analysis, and prediction; mHealth conferences + Overleaf  + lit review| Paper Review |
 |Jan.17	|HCI - goals of the research, who is the human that we are centering; Methods of understanding and knowledge extraction |Paper Review, Project 1|
 |Jan.24	|Introduction to embedded systems; Development cycle; Creating a system architecture; Outputs, Inputs, and Timers| Paper Review, S1 (Research Project)|
-|Sept.20	|SysTick timer; Arrays in C; Functional debugging.|
-|Sept.27	|Finite State Machines; Precise Timing (SysTick timer)|
+|Jan.31	|Communicating with peripherals; configuring for serial communication; Analog-to-Digital Conversion (ADC) and data acquisition| Project 2|
+|Feb.7	|Signal processing and machine learning for time-series data (sampling, segmentation, feature extraction, classification); Model evaluation |Paper Review, S2 (Research Project)|
 |Oct.4	|UART: Methods of synchronization, UART configuration|
 |Oct.11	|Interrupts: Introduction to interrupts, Interrupt processing, inter-thread communication, edge-trigger interrupts, configuring edge-trigger interrupts, software code for SysTick periodic interrupt.|
 |Oct.18	| Digital to Analog Conversion: Digitization, Nyquist Theorem, Sampling, Precision, Resolution, Designing a DAC using binary weighted approach, Sound as an analog signal, Designing a DAC using R2R approach, Sound generation example code.|
