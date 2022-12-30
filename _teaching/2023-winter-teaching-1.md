@@ -98,6 +98,9 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
  
  RGB Camera
  
+ ![image](https://user-images.githubusercontent.com/45086751/210097417-499dbe85-235d-409c-8d3b-90dd8e486288.png)
+
+ 
 ## Class Schedule 
 
 | Week Of      | Topic & Reading | Assignment |
