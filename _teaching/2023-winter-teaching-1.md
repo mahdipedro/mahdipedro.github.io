@@ -79,8 +79,6 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
  
   
 ## Sensors and components to be used in this course:
-
-<img width="600" height="480" src="https://user-images.githubusercontent.com/45086751/210098056-b8e01169-21af-45db-8bc3-884d107ff544.png">
  
  IMU (inertial measurement unit) including accelerometer and gyroscope
  
@@ -100,6 +98,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
  
  RGB Camera
  
+![image](https://user-images.githubusercontent.com/45086751/210100508-c057bb14-722b-44db-9249-c25b8507ddd9.png)
 
 ## Projects:
 Physical activity recognition using IMU
