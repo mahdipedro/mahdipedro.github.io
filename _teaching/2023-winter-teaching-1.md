@@ -119,13 +119,13 @@ Food detection using RGB camera
 
 | Week Of      | Topic & Reading | Assignment |
 | :-----------: 	| :-----------: |	 :-----------: |	
-| Jan.3      | Introduction to mHealth class ; What is health?; How to review an mhealth system?!| |
+| Jan.3      | Introduction to mHealth class ; What is health?; How to review an mhealth system?!| - |
 | Jan.10   | Type of mHealth research including systems, analysis, and prediction; mHealth conferences + Overleaf  + lit review| Paper Review |
-|Jan.17	|HCI - goals of the research, who is the human that we are centering; Methods of understanding and knowledge extraction |Paper Review, Project 1|
-|Jan.24	|Introduction to embedded systems; Development cycle; Creating a system architecture; Outputs, Inputs, and Timers| Paper Review, S1 (Research Project)|
-|Jan.31	|Communicating with peripherals; configuring for serial communication; Analog-to-Digital Conversion (ADC) and data acquisition| Project 2|
-|Feb.7	|Signal processing and machine learning for time-series data (sampling, segmentation, feature extraction, classification); Model evaluation |Paper Review, S2 (Research Project)|
-|Feb.14	|Machine learning workflow, Building and training a machine learning model, Explainability application in mHealth |Project 3, S3 (Research Project) |
-|Feb.21	|Hands-on ML, deploying the model to embedded devices, TensorFlow lite for embedded processors| Paper Review, Project 4|
-|Feb.28	| mHeath systems evaluations and optimizations| Project 5|
-|Mar.7	|Final Presentations| S4 (Research Project)|
+| Jan.17	|HCI - goals of the research, who is the human that we are centering; Methods of understanding and knowledge extraction |Paper Review, Project 1|
+| Jan.24	|Introduction to embedded systems; Development cycle; Creating a system architecture; Outputs, Inputs, and Timers| Paper Review, S1 (Research Project)|
+| Jan.31	|Communicating with peripherals; configuring for serial communication; Analog-to-Digital Conversion (ADC) and data acquisition| Project 2|
+| Feb.7	|Signal processing and machine learning for time-series data (sampling, segmentation, feature extraction, classification); Model evaluation |Paper Review, S2 (Research Project)|
+| Feb.14	|Machine learning workflow, Building and training a machine learning model, Explainability application in mHealth |Project 3, S3 (Research Project) |
+| Feb.21	|Hands-on ML, deploying the model to embedded devices, TensorFlow lite for embedded processors| Paper Review, Project 4|
+| Feb.28	| mHeath systems evaluations and optimizations| Project 5|
+| Mar.7	|Final Presentations| S4 (Research Project)|
