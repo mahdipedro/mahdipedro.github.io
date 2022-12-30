@@ -100,7 +100,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
  
 ## Class Schedule 
 
-| Week Of      | Topic & Reading | Comments |
+| Week Of      | Topic & Reading | Assignment |
 | :-----------: 	| :-----------: |	 :-----------: |	
 | Jan.3      | Introduction to mHealth class ; What is health?; How to review an mhealth system?!| |
 | Jan.10   | Type of mHealth research including systems, analysis, and prediction; mHealth conferences + Overleaf  + lit review| Paper Review |
