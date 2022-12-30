@@ -62,7 +62,6 @@ S2 - Team formation and Introduction and related work of the final proposal idea
 S3 - Methods and presentation of results (2%): In this stage, students will provide more details on how they can achieve their objectives. For example, groups proposing a system should describe how they will build such a system in style and explain how they can prove or show that their system archives their objective. Another example is a group that wants to interview a particular population to identify design opportunities; in this case, the group should provide details on how they would reach such communities, the questions they intend to ask in the interview, and why these questions are essential. Students also describe how they intend to present or communicate their results. The usage of graphics, tables, or charts is highly encouraged. Students are expected to get any results; however, planning how results should be analyzed to help find gaps in the experiment design or system evaluation method.
 
 S4 - Final proposal document (3%) and presentation (6%) During finals week, students will get 10 minutes to present their proposal, followed by 3 minutes for Q&A. In the final proposal document, students must incorporate feedback from S2 and S3.
-![image](https://user-images.githubusercontent.com/45086751/210087655-6f4d509f-c2a9-4650-bd2a-14c97e6b0de5.png)
 
 
 ### Main Textbooks:
