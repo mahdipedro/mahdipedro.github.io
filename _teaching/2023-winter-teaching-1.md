@@ -99,6 +99,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
  RGB Camera
  
 ## Class Schedule 
+
 | Week Of      | Topic & Reading | Comments |
 | :-----------: 	| :-----------: |	 :-----------: |	
 | Jan.3      | Introduction to mHealth class ; What is health?; How to review an mhealth system?!| |
