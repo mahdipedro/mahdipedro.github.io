@@ -5,5 +5,5 @@ permalink: /publication/SmartACT
 date: 2023-1-10
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, December 2022'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9928492'
-citation: 'Rawan Alharbi, Soroush Shahi, Stefany Cruz, Lingfeng Li, Sougata Sen,Christopher Romano, <b>Mahdi Pedram</b>, Josiah Hester, Aggelos K Katsaggelos, Nabil Alshurafa (2022). &quot;SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal.&quot; <i>IMWUT</i>.'
+citation: 'Rawan Alharbi, Soroush Shahi, Stefany Cruz, Lingfeng Li, Sougata Sen,Christopher Romano, <b>Mahdi Pedram</b>, Josiah Hester, Aggelos K Katsaggelos, Nabil Alshurafa (2022). &quot;; <i>IMWUT</i>.'
 ---
