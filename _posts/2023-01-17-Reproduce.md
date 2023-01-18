@@ -2,6 +2,26 @@
 title: 'Reproducibility'
 date: 2023-01-17
 ---
-The purpose of this project was to build a wearable system that can be used for reliable ankle edema quantification. Ankle edema is an important symptom for monitoring patients with chronic systematic diseases. It is an important indicator of onset or exacerbation of a variety of diseases that disturb cardiovascular, renal, or hepatic system such as heart, liver, and kidney failure, diabetes, etc. SmartSock is a real-time and activity-sensitive wearable system for monitoring ankle edema.
+
+## How to Perform Reproducibility Testing
+
+1. Establish a Goal
+• Collect type A uncertainty data,
+• Validate a new calibration or test method,
+• Evaluate the quality and consistency of laboratory results,
+• Investigate factors that cause measurement uncertainty or error.
+
+2. Determine What You Will Test or Measure
+We need to choose:
+• When you will perform the test (Time),
+• Where you will perform the test (Environment),
+• How you will perform the test (Method),
+• What you will use to perform the test (Equipment),
+• Who you will perform the test (Operator).
+
+3. Select a Variable or Condition to Change
+4. Perform a Test With Variable A
+5. Perform a Test With Variable B
+6. Analyze the Results
 
 
