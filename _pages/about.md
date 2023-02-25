@@ -38,4 +38,4 @@ News
 <img width="480" alt="experience" src="https://user-images.githubusercontent.com/45086751/221367175-b215b222-fb65-4551-b70b-99c1af2cc45a.png">
 
 * 2022-9.  Our paper [SmartAct: Energy Efficient and Real-Time Hand-to-Mouth Gesture Detection Using Wearable RGB-T](https://ieeexplore.ieee.org/document/9928492) got accepted at CHI 2023 Case Studies
-![bsn_figure_1_merged](https://user-images.githubusercontent.com/45086751/221382754-ee0b0b35-c308-4aee-923b-f4ada0da9426.png)
+<img width="480" alt="bsn_figure_1_merged" src="https://user-images.githubusercontent.com/45086751/221382795-ac3bc1e7-d419-4ef6-abbc-077b3a2a9ffb.png">
