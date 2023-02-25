@@ -28,6 +28,3 @@ Current Projects
 * NIH R03 - WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild 
   * Roles: Project Manager/ Hardware Engineer
   * Start date: 01/01/2022
-
-News
-======
