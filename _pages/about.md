@@ -34,7 +34,5 @@ News
 * Our paper "[SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal](https://dl.acm.org/doi/abs/10.1145/3569460) got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)"
 ![frame1](https://user-images.githubusercontent.com/45086751/221366570-948f291a-d880-4448-bafc-cf5dde91d9d9.png)
 
-* Mobile Health (mHealth)
-* On-Device Processing 
-* Power Optimization
-* Machine Learning
+* Our paper "Experience: Barriers and Opportunities of Wearables for Eating Research" got accepted at CHI 2023 Case Studies
+[Figure_2_final (2).pdf](https://github.com/mahdipedro/mahdipedro.github.io/files/10831616/Figure_2_final.2.pdf)
