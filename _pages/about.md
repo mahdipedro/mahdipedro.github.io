@@ -31,7 +31,7 @@ Current Projects
 
 News
 ======
-* Embedded Systems
+* Our paper "[SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal](https://dl.acm.org/doi/abs/10.1145/3569460) got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)"
 * Mobile Health (mHealth)
 * On-Device Processing 
 * Power Optimization
