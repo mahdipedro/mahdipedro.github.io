@@ -35,4 +35,4 @@ News
 <img width="480" alt="frame1" src="https://user-images.githubusercontent.com/45086751/221367010-ca4fe986-7dcf-43c0-8819-ef6e3f0f9568.png">
 
 * Our paper "Experience: Barriers and Opportunities of Wearables for Eating Research" got accepted at CHI 2023 Case Studies
-![experience](https://user-images.githubusercontent.com/45086751/221367076-bfc98165-2d0e-4bde-a66f-bca05be86e7e.png)
+<img width="480" alt="experience" src="https://user-images.githubusercontent.com/45086751/221367175-b215b222-fb65-4551-b70b-99c1af2cc45a.png">
