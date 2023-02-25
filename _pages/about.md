@@ -32,7 +32,7 @@ Current Projects
 News
 ======
 * Our paper "[SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal](https://dl.acm.org/doi/abs/10.1145/3569460) got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)"
-![frame1](https://user-images.githubusercontent.com/45086751/221366570-948f291a-d880-4448-bafc-cf5dde91d9d9.png)
+<img width="480" alt="frame1" src="https://user-images.githubusercontent.com/45086751/221367010-ca4fe986-7dcf-43c0-8819-ef6e3f0f9568.png">
 
 * Our paper "Experience: Barriers and Opportunities of Wearables for Eating Research" got accepted at CHI 2023 Case Studies
 <img width="1147" alt="Screen Shot 2023-02-25 at 9 58 25 AM" src="https://user-images.githubusercontent.com/45086751/221366865-eb9a5709-bc5e-4537-b5ed-b0de36687b71.png">
