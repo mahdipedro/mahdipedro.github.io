@@ -32,9 +32,6 @@ Current Projects
 News
 ======
 * Our paper "[SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal](https://dl.acm.org/doi/abs/10.1145/3569460) got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)"
-  <p align="center">
-  <img width="180" height="150" src="[https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2F1721181113.rsc.cdn77.org%2Fdata%2Fimages%2Ffull%2F44863%2Fthe-smokemon-necklace-establishes-a-unique-smoking-profile-for-each-user.png]">
-  </p> 
 * Mobile Health (mHealth)
 * On-Device Processing 
 * Power Optimization
