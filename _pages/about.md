@@ -29,5 +29,10 @@ Current Projects
   * Roles: Project Manager/ Hardware Engineer
   * Start date: 01/01/2022
 
-Current Projects
+News
 ======
+* Embedded Systems
+* Mobile Health (mHealth)
+* On-Device Processing 
+* Power Optimization
+* Machine Learning
