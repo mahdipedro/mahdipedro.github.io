@@ -32,9 +32,8 @@ Current Projects
 News
 ======
 * Our paper "[SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal](https://dl.acm.org/doi/abs/10.1145/3569460) got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)"
-  <p align="center">
-  <img width="180" height="150" src="[https://user-images.githubusercontent.com/45086751/129488385-c0311048-ae0f-4949-8194-401621b754da.png](https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/withHand.jpg)">
-  </p> 
+ ![Uploading frame1.png…]()
+
 * Mobile Health (mHealth)
 * On-Device Processing 
 * Power Optimization
