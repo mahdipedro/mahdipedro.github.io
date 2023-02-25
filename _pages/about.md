@@ -19,7 +19,7 @@ Research Interests
 
 Current Projects
 ======
-* NIH R01 - EAT: A Reliable Eating Assessment Technology for Free-living Individuals
+* Our paper "[SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal](https://dl.acm.org/doi/abs/10.1145/3569460)" got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
   * Role: Project Lead
   * Start date: 12/01/2021
 * NIH R21 - BehaviorSight: Privacy Enhancing Wearable System to Detect Health Risk Behaviors in Real-time
