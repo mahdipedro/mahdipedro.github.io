@@ -28,3 +28,4 @@ Current Projects
 * NIH R03 - WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild 
   * Roles: Project Manager/ Hardware Engineer
   * Start date: 01/01/2022
+  * Our paper "SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal" got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies.
