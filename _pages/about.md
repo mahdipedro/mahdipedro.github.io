@@ -13,6 +13,7 @@ Research Interests
 ======
 * Embedded Systems
 * Mobile Health (mHealth)
+* Smart Sensing Solutions
 * On-Device Processing 
 * Power Optimization
 * Machine Learning
