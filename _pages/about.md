@@ -32,8 +32,8 @@ Current Projects
 
 News
 ======
-* 2023-2.  Our paper [SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal](https://dl.acm.org/doi/abs/10.1145/3569460) got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-<img width="475" alt="frame1" src="https://user-images.githubusercontent.com/45086751/221367346-2aa69fdc-4073-41ac-ae35-b14238cf81fc.png">
+* 2023-5.  Our paper Detecting Eating and Social Presence with All Day Wearable RGB-T got accepted at 2023 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+[wildcam_application_9.pdf](https://github.com/mahdipedro/mahdipedro.github.io/files/11687521/wildcam_application_9.pdf)
 
 * 2023-2.  Our paper [SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal](https://dl.acm.org/doi/abs/10.1145/3569460) got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 <img width="475" alt="frame1" src="https://user-images.githubusercontent.com/45086751/221367346-2aa69fdc-4073-41ac-ae35-b14238cf81fc.png">
