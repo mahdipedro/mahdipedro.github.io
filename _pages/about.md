@@ -32,15 +32,15 @@ Current Projects
 
 News
 ======
-* 2023-5.  Our paper Detecting Eating and Social Presence with All Day Wearable RGB-T got accepted at 2023 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+* 2023-5.  Our paper "Detecting Eating and Social Presence with All Day Wearable RGB-T" got accepted at 2023 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
 <img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/wildcam_application_web.png?raw=true">
 
 
-* 2023-2.  Our paper [SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal](https://dl.acm.org/doi/abs/10.1145/3569460) got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+* 2023-2.  Our paper ["SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal"](https://dl.acm.org/doi/abs/10.1145/3569460) got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 <img width="475" alt="frame1" src="https://user-images.githubusercontent.com/45086751/221367346-2aa69fdc-4073-41ac-ae35-b14238cf81fc.png">
 
 * 2023-1.  Our paper ["Experience: Barriers and Opportunities of Wearables for Eating Research"](https://dl.acm.org/doi/abs/10.1145/3544549.3573841) got accepted at CHI 2023 Case Studies
 <img width="480" alt="experience" src="https://user-images.githubusercontent.com/45086751/221367175-b215b222-fb65-4551-b70b-99c1af2cc45a.png">
 
-* 2022-9.  Our paper [SmartAct: Energy Efficient and Real-Time Hand-to-Mouth Gesture Detection Using Wearable RGB-T](https://ieeexplore.ieee.org/document/9928492) got accepted at BSN 2023
+* 2022-9.  Our paper ["SmartAct: Energy Efficient and Real-Time Hand-to-Mouth Gesture Detection Using Wearable RGB-T"](https://ieeexplore.ieee.org/document/9928492) got accepted at BSN 2023
 <img width="480" alt="bsn_figure_1_merged" src="https://user-images.githubusercontent.com/45086751/221382795-ac3bc1e7-d419-4ef6-abbc-077b3a2a9ffb.png">
