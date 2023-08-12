@@ -8,7 +8,7 @@ date: 2019-08-15
 location: "Pullman, WA"
 ---
 
-Lab Instructor and Teaching Asssitant.
+Lab Instructor and Teaching Assistant.
 
 Heading 1
 ======
