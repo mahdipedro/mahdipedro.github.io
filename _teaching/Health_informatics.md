@@ -3,7 +3,7 @@ title: "Health Informatics - Fall 2023"
 collection: teaching
 type: "Undergraduate and graduate course"
 permalink: /teaching/Health_informatics/
-venue: "School of Computing at DePaul"
+venue: "DePaul University, School of Computing (SoC)"
 date: 2023-09-02
 location: "Chicago, IL"
 ---
@@ -12,7 +12,7 @@ location: "Chicago, IL"
 
 ## Course Description
 
-Wireless and Mobile health (mHealth) aims to improve our health and well-being by utilizing data provided by technologies such as wearables, IoT devices, and mobile phones. This course will cover foundational knowledge and topical work in mHealth. Students will learn the essential steps needed to create a mHealth system from conception to evaluation through assigned reading, group discussions, and some hands-on projects. Since mHeath is an interdisciplinary field, we will cover a range of literature in human-computer interaction, wearable systems, machine learning, and health. Readings and in-class activities will prepare students for their final creative assignment that involves writing and presenting a research proposal for a mHealth system or research idea. Although this course will cover some technical aspects of mHealth, we encourage students with different backgrounds to enroll as they will work in interdisciplinary teams.
+Wireless and Mobile health (mHealth) aims to improve our health and well-being by utilizing data provided by technologies such as wearables, IoT devices, and mobile phones. This course will cover foundational knowledge and topical work in mHealth. Students will learn the essential steps needed to create a mHealth system from conception to evaluation through assigned reading, group discussions, and some hands-on projects. Since mHeath is an interdisciplinary field, we will cover a range of literature on human-computer interaction, wearable systems, machine learning, and health. Readings and in-class activities will prepare students for their final creative assignment that involves writing and presenting a research proposal for a mHealth system or research idea. Although this course will cover some technical aspects of mHealth, we encourage students with different backgrounds to enroll as they will work in interdisciplinary teams.
 
  
 
@@ -53,7 +53,7 @@ We will get familiar with developing mHealth systems. Basically, we can employ e
 #### Research Proposal (25%)
 Students will integrate in-class discussion and readings knowledge to create a mHeath research proposal. The proposal is divided into seven connected stages (S) that will prepare the students for their final submission. The stages are the following:
 
-S1 - Focus area and idea generation and peer review of ideas (6%): There will be two separate steps for S1 inclusing: 
+S1 - Focus area and idea generation and peer review of ideas (6%): There will be two separate steps for S1 including: 
 -	Focus area: In this stage, students will identify an area in health that they are interested in and would like to improve. Students also determine what type of mhealth contribution they want to make (e.g., building a system, analyzing data, understanding a population/process, etc.). This stage aims to help students understand what has already been investigated and identify gaps that can be filled. This stage's deliverables will be a 1-2 pages single-spaced document (excluding references) that describes the chosen health focus area and the current mHealth research in that area. The aim is to provide the reader with the big picture of what has been done and is not answered. You do not need to go into detail here. Most of this information can be extracted from the abstract and the paper's title. Google Scholar is a suitable source for searching for research articles. Once you find a paper, you can also check the citations of these papers, which is a possible way to find other related work. 
 -	Idea generation and peer review of ideas: In this stage, you will produce three ideas related to the focused health area. The deliverables will be three short paragraphs introducing the problem, what has been done, and what you plan to do. In addition, you will be randomly assigned to review six pitches from your peers. This review aims to provide constructive feedback to help make the ideas as solid as possible. Good feedback will involve questions, identifying opportunities and risks, and suggesting modifications or extensions. 
 
@@ -107,7 +107,7 @@ Keyword spotting for anxiety level monitoring using audio
 
 Stress detection using GSR sensor
 
-Heart rate monitoring for anamoly detection using PPG and ECG signals
+Heart rate monitoring for anomaly detection using PPG and ECG signals
 
 Food detection using RGB camera 
 
