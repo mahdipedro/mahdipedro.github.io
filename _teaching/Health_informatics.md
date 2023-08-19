@@ -51,7 +51,7 @@ We will become familiar with developing and evaluating digital health systems. B
 Students will integrate in-class discussion and readings knowledge to create a digital health research proposal. The proposal is divided into seven connected stages (S) that will prepare the students for their final submission. The stages are the following:
 
 S1 - Focus area and idea generation and peer review of ideas (6%): There will be two separate steps for S1 including: 
--	Focus area: In this stage, students will identify an area in health that they are interested in and would like to improve. Students also determine what type of digital health contribution they want to make (e.g., building a system, analyzing data, understanding a population/process, etc.). This stage aims to help students understand what has already been investigated and identify gaps that can be filled. This stage's deliverables will be a 1-2 pages single-spaced document (excluding references) that describes the chosen health focus area and the current digital health research in that area. The aim is to provide the reader with the big picture of what has been done and is not answered. You do not need to go into detail here. Most of this information can be extracted from the abstract and the paper's title. Google Scholar is a suitable source for searching for research articles. Once you find a paper, you can also check the citations of these papers, which is a possible way to find other related work.
+-	Focus area: In this stage, students will identify an area in health that they are interested in and would like to improve. Students also determine what type of digital health contribution they want to make (e.g., building a system, analyzing data, understanding a population/process, etc.). This stage aims to help students understand what has already been investigated and identify gaps that can be filled. This stage's deliverables will be a 1-2 pages single-spaced document (excluding references) that describes the chosen health focus area and the current digital health research in that area. The aim is to provide the reader with the big picture of what has been done and is unanswered. You do not need to go into detail here. Most of this information can be extracted from the abstract and the paper's title. Google Scholar is a suitable source for searching for research articles. Once you find a paper, you can also check the citations of these papers, which is a possible way to find other related work.
 -	Idea generation and peer review of ideas: In this stage, you will produce three ideas related to the focused health area. The deliverables will be three short paragraphs introducing the problem, what has been done, and what you plan to do. In addition, you will be randomly assigned to review six pitches from your peers. This review aims to provide constructive feedback to help make the ideas as solid as possible. Good feedback will involve questions, identifying opportunities and risks, and suggesting modifications or extensions. 
 
 S2 - Team formation and Introduction and related work of the final proposal idea (8%): Students will be able to discuss their ideas in class, which will help them form project groups for the final proposal. The group should decide the final ideas they want to pursue and submit a 1-page proposal abstract or summary. A good proposal abstract should summarize the significance of or the need for the proposed work, the project's main objective/contribution or hypothesis, the method used to achieve the objective or test the hypothesis, and finally, the impact of the work. In addition, students will present more details about their ideas by supporting their work's significance and positioning it within the existing literature. This will require the team to read and summarize papers related to their research question to help demonstrate their work's significance and novelty. 
@@ -62,6 +62,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 
 
 ### Main Textbooks:
+Students do not need to purchase textbooks for this class, but we will cover the following books in this course.
 
  1. TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers 1st Edition by Pete Warden & Daniel Situnayake, ISBN-13: 978-1492052043.
  2. Wearable Sensors: Fundamentals, Implementation and Applications by Edward Sazonov, ISBN-13: 978-0124186620, ISBN-10: 0124186629.
@@ -77,7 +78,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 
 You can find the list of the required components [here](https://www.digikey.com/en/mylists/list/Y0JR36UQGA).
  
-- IMU (inertial measurement unit) including accelerometer and gyroscope
+- IMU (inertial measurement unit), including accelerometer and gyroscope
 - Microphone
 - Optical Sensor for PPG Monitoring
 - Heart Rate Monitor (ECG)
