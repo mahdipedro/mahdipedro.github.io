@@ -75,48 +75,23 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
   
 ## Sensors and components to be used in this course:
  
- IMU (inertial measurement unit) including accelerometer and gyroscope
- 
- Microphone 
- 
- Optical Sensor for PPG Monitoring
- 
- Heart Rate Monitor (ECG)
- 
- Air Quality Sensor
- 
- GSR (galvanic skin response) Sensor
- 
- EMG (electromyography) Detector 
- 
- UV Light Sensor
- 
- RGB Camera
+- IMU (inertial measurement unit) including accelerometer and gyroscope
+- Microphone
+- Optical Sensor for PPG Monitoring
+- Heart Rate Monitor (ECG)
+- GSR (galvanic skin response) Sensor
+- EMG (electromyography) Detector
+- UV Light Sensor
+- RGB Camera
  
  ![image](https://user-images.githubusercontent.com/45086751/210108933-c27fb269-e8f4-447d-88ff-ae0bf0fb0c14.png)
 
 ## Projects:
-Physical activity recognition using IMU
-
-Keyword spotting for anxiety level monitoring using audio
-
-Stress detection using GSR sensor
-
-Heart rate monitoring for anomaly detection using PPG and ECG signals
-
-Food detection using RGB camera 
+- Physical activity recognition using IMU
+- Keyword spotting for anxiety level monitoring using audio
+- Stress detection using a GSR sensor
+- Heart rate monitoring for anomaly detection using PPG and ECG signals
+- Food detection using RGB camera 
 
 ## Class Schedule 
-
-| Week Of      | Topic & Reading | Assignment |
-| :-----------: 	| :-----------: |	 :-----------: |	
-| Jan.3      | Introduction to mHealth class ; What is health?; How to review an mhealth system?!| - |
-| Jan.10   | Type of mHealth research including systems, analysis, and prediction; mHealth conferences + Overleaf  + lit review| Paper Review |
-| Jan.17	|HCI - goals of the research, who is the human that we are centering; Methods of understanding and knowledge extraction |Paper Review, Project 1|
-| Jan.24	|Introduction to embedded systems; Development cycle; Creating a system architecture; Outputs, Inputs, and Timers| Paper Review, S1 (Research Project)|
-| Jan.31	|Communicating with peripherals; configuring for serial communication; Analog-to-Digital Conversion (ADC) and data acquisition| Project 2|
-| Feb.7	|Signal processing and machine learning for time-series data (sampling, segmentation, feature extraction, classification); Model evaluation |Paper Review, S2 (Research Project)|
-| Feb.14	|Machine learning workflow, Building and training a machine learning model, Explainability application in mHealth |Project 3, S3 (Research Project) |
-| Feb.21	|Hands-on ML, deploying the model to embedded devices, TensorFlow lite for embedded processors| Paper Review, Project 4|
-| Feb.28	| mHeath systems evaluations and optimizations| Project 5|
-| Mar.7	|Final Presentations| S4 (Research Project)|
+TBD
