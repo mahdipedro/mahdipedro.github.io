@@ -80,9 +80,8 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 - Optical Sensor for PPG Monitoring
 - Heart Rate Monitor (ECG)
 - GSR (galvanic skin response) Sensor
-- EMG (electromyography) Detector
-- UV Light Sensor
 - RGB Camera
+- Low Resolution Thermal Camera
  
 ![Health_Informatics_Components](https://github.com/mahdipedro/mahdipedro.github.io/assets/45086751/7117ab29-7c2b-4d84-b990-6506f52a46a2)
 
