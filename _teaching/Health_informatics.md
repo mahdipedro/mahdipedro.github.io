@@ -96,7 +96,6 @@ You can find the list of the required components [here](https://www.digikey.com/
 - Food detection using RGB camera 
 
 ## Class Schedule 
-TBD
 
 | Week Of      | Topic & Reading | Assignment |
 | :-----------: 	| :-----------: |	 :-----------: |	
