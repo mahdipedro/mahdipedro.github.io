@@ -85,6 +85,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 - RGB Camera
  
 ![Health_Informatics_Components](https://github.com/mahdipedro/mahdipedro.github.io/assets/45086751/39bae8c3-a4bb-4889-b7e8-2bac29bfa632)
+[Health_Informatics_Components.pdf](https://github.com/mahdipedro/mahdipedro.github.io/files/12386505/Health_Informatics_Components.pdf)
 
 ## Projects:
 - Physical activity recognition using IMU
