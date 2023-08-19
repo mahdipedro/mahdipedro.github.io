@@ -74,6 +74,8 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
  
   
 ## Sensors and components to be used in this course:
+
+You can find the list of the required components [here](https://www.digikey.com/en/mylists/list/Y0JR36UQGA).
  
 - IMU (inertial measurement unit) including accelerometer and gyroscope
 - Microphone
@@ -81,7 +83,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 - Heart Rate Monitor (ECG)
 - GSR (galvanic skin response) Sensor
 - RGB Camera
-- Low Resolution Thermal Camera
+- Low-Resolution Thermal Camera
  
 ![Health_Informatics_Components](https://github.com/mahdipedro/mahdipedro.github.io/assets/45086751/7117ab29-7c2b-4d84-b990-6506f52a46a2)
 
