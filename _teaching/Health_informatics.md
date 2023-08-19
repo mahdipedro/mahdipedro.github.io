@@ -12,23 +12,20 @@ location: "Chicago, IL"
 
 ## Course Description
 
-Wireless and Mobile health (mHealth) aims to improve our health and well-being by utilizing data provided by technologies such as wearables, IoT devices, and mobile phones. This course will cover foundational knowledge and topical work in mHealth. Students will learn the essential steps needed to create a mHealth system from conception to evaluation through assigned reading, group discussions, and some hands-on projects. Since mHeath is an interdisciplinary field, we will cover a range of literature on human-computer interaction, wearable systems, machine learning, and health. Readings and in-class activities will prepare students for their final creative assignment that involves writing and presenting a research proposal for a mHealth system or research idea. Although this course will cover some technical aspects of mHealth, we encourage students with different backgrounds to enroll as they will work in interdisciplinary teams.
+Health Informatics aims to improve our health and well-being by utilizing data provided by technologies such as wearables, IoT devices, and mobile phones. This course will cover foundational knowledge and topical work in health informatics. Students will learn the essential steps needed to analyze sensor data focusing on health applications through assigned reading, group discussions, and hands-on projects. Since Health Informatics is an interdisciplinary field, we will cover a range of literature on human-computer interaction, wearable systems, machine learning, embedded systems, and health. Readings and in-class activities will prepare students for their final creative assignment that involves writing and presenting a research proposal for a research idea.
 
  
 
 ### By the end of this course, students should be able to:
 
-Understand the process of creating and evaluating a mHealth system 
-Learn about developing an embedded system for mHeath applications using Arduino
-Understand resource optimization in mHealth systems
-Critically examine the impact of mHealth systems on people and society
-Analyze different types of data obtained from mHealth systems, including but not limited to the following sensors: ECG, PPG, accel/gyro, video, audio, proximity, ambient light, piezoelectric
-Design experiments to collect data and validate mHealth systems
-Write a proposal for a mHealth system or framework
-Grading
-All coursework will be graded and judged as either complete or incomplete. Students are expected to complete all assignments on time (unless they obtain an extension from the instructor). All assignments are due at 9:00 am central time on the due date.
+- Understand the process of creating and evaluating a digital health solution 
+- Learn about developing an embedded system for digital health applications using Arduino
+- Understand resource optimization in digital health
+- Critically examine the impact of digital health on people and society
+- Analyze different types of data obtained from mobile health (mHealth) systems, including but not limited to the following sensors: ECG, PPG, accel/gyro, video, audio, proximity, ambient light, piezoelectric
+- Design experiments to collect data and validate mHealth systems
+- Write a proposal for a digital health solution
 
- 
 
 ### The grading breakdown is as follows:
 
