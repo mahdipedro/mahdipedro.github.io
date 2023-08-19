@@ -84,7 +84,7 @@ S4 - Final proposal document (3%) and presentation (6%) During finals week, stud
 - UV Light Sensor
 - RGB Camera
  
-![Health_Informatics_Components](https://github.com/mahdipedro/mahdipedro.github.io/assets/45086751/39bae8c3-a4bb-4889-b7e8-2bac29bfa632)
+![Health_Informatics_Components](https://github.com/mahdipedro/mahdipedro.github.io/assets/45086751/7117ab29-7c2b-4d84-b990-6506f52a46a2)
 
 ## Projects:
 - Physical activity recognition using IMU
