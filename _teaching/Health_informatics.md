@@ -61,7 +61,7 @@ S3 - Methods and presentation of results (2%): In this stage, students will prov
 S4 - Final proposal document (3%) and presentation (6%) During finals week, students will get 10 minutes to present their proposal, followed by 3 minutes for Q&A. In the final proposal document, students must incorporate feedback from S2 and S3.
 
 
-### Main Textbooks:
+## Main Textbooks:
 Students do not need to purchase textbooks for this class, but we will cover the following books in this course.
 
  1. TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers 1st Edition by Pete Warden & Daniel Situnayake, ISBN-13: 978-1492052043.
