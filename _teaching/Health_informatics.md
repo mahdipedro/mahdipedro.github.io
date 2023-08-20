@@ -66,11 +66,14 @@ Students do not need to purchase textbooks for this class, but we will cover the
 
  1. TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers 1st Edition by Pete Warden & Daniel Situnayake, ISBN-13: 978-1492052043.
  2. Wearable Sensors: Fundamentals, Implementation and Applications by Edward Sazonov, ISBN-13: 978-0124186620, ISBN-10: 0124186629.
+ 3. Health Informatics: Practical Guide Seventh Edition by William R. Hersh & Robert E. Hoyt, ISBN-13: 978-1387642410
+
 
 
 <p align="center">
     <img width="195" height="225" src="https://user-images.githubusercontent.com/45086751/148846027-b8aa08c5-b559-437e-a9b9-c487842d17c0.png">    
     <img width="195" height="235" src="https://user-images.githubusercontent.com/45086751/210087355-68caa20b-eba3-45fc-b35a-04060de3b037.png">
+    <img width="195" height="235" src="[https://user-images.githubusercontent.com/45086751/210087355-68caa20b-eba3-45fc-b35a-04060de3b037.png](https://m.media-amazon.com/images/I/41JQeN0tJmL._SX384_BO1,204,203,200_.jpg)"> 
 </p>
  
   
