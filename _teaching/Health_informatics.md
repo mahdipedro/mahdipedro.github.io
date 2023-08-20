@@ -71,7 +71,7 @@ Students do not need to purchase textbooks for this class, but we will cover the
 
 
 <p align="center">
-    <img width="195" height="225" src="[https://user-images.githubusercontent.com/45086751/148846027-b8aa08c5-b559-437e-a9b9-c487842d17c0.png](https://d1b14unh5d6w7g.cloudfront.net/1492052043.01.S001.JUMBOXXX.jpg?Expires=1692629867&Signature=LgHSGHRyuaJKuDJ9GBWbSTuYtqnzx3k0Tlgpzm4izhC7YFRboaH3Dkp~q-tBpAf4iz0FkKE~XPNAXK4NJNIXV0li9dlPN7nO9VlbA2YM8lO1GQjKWpxdqcOyh8-Q22~d4Jc7jnHmCvxv~Hdi2-OZaOWiXl~Y6NtoHmkFqkTWHN0_&Key-Pair-Id=APKAIUO27P366FGALUMQ)">    
+    <img width="195" height="225" src="https://d1b14unh5d6w7g.cloudfront.net/1492052043.01.S001.JUMBOXXX.jpg?Expires=1692629867&Signature=LgHSGHRyuaJKuDJ9GBWbSTuYtqnzx3k0Tlgpzm4izhC7YFRboaH3Dkp~q-tBpAf4iz0FkKE~XPNAXK4NJNIXV0li9dlPN7nO9VlbA2YM8lO1GQjKWpxdqcOyh8-Q22~d4Jc7jnHmCvxv~Hdi2-OZaOWiXl~Y6NtoHmkFqkTWHN0_&Key-Pair-Id=APKAIUO27P366FGALUMQ">    
     <img width="195" height="235" src="https://user-images.githubusercontent.com/45086751/210087355-68caa20b-eba3-45fc-b35a-04060de3b037.png">
     <img width="195" height="235" src="https://d1b14unh5d6w7g.cloudfront.net/1387642413.01.S001.JUMBOXXX.jpg?Expires=1692629795&Signature=JjgzsGHrbFBrGvDa9JhV4r2f-6spJvONKrkOorvfIaaL4ZI-VBEjwZ547n7nWK9mxQE-WA6cUePk6MX4~8Qm4MKMykgVW8KqD5yuS8wqbjNGGx~q3891PTbmif-ranElDWDjBVc7OCAh1O84DuhBaW0qcQ5B8TbOCYEc4~qp5H0_&Key-Pair-Id=APKAIUO27P366FGALUMQ"> 
 </p>
