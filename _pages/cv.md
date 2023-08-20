@@ -16,14 +16,6 @@ Education
 
 Work experience
 ======
-* August 2023 - Present: Tenure Track Assistant Professor
-  * DePaul University
-
-* August 2023 - Present: Adjunct Assistant Professor
-  * Northwestern University
-
-* January 2023 - Present: Chief Technology Officer
-  * SenseWhy Inc
 
 * January 2022 - September 2023: Postdoctoral Researcher
   * Northwestern University
