@@ -18,6 +18,14 @@ Health Informatics aims to improve our health and well-being by utilizing data p
 
 ### By the end of this course, students should be able to:
 
+- Recognize, analyze, and pose solutions for information processing challenges as faced by health professionals managing select patients, populations, or groups.
+- Identify the current state of development of the major areas within health informatics including the following
+-  Standards and terminologies
+-  Decision making and decision support
+-  Clinical information systems (institution, enterprise, public health, and personal health records)
+-  Systems life cycle, with particular attention to systems selection and implementation
+-  Knowledge management and information retrieved
+-  Information retrieval and human-computer interaction.
 - Understand the process of creating and evaluating a digital health solution 
 - Learn about developing an embedded system for digital health applications using Arduino
 - Understand resource optimization in digital health
