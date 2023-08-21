@@ -19,19 +19,11 @@ Health Informatics aims to improve our health and well-being by utilizing data p
 ### By the end of this course, students should be able to:
 
 - Recognize, analyze, and pose solutions for information processing challenges as faced by health professionals managing select patients, populations, or groups.
-- Identify the current state of development of the major areas within health informatics including the following
--  Standards and terminologies
--  Decision making and decision support
--  Clinical information systems (institution, enterprise, public health, and personal health records)
--  Systems life cycle, with particular attention to systems selection and implementation
--  Knowledge management and information retrieved
--  Information retrieval and human-computer interaction.
-- Understand the process of creating and evaluating a digital health solution 
+- Identify the current state of development of the major areas within health informatics including the following: Standards and terminologies, Decision making and decision support, Clinical information systems (institution, enterprise, public health, and personal health records), Systems life cycle, with particular attention to systems selection and implementation, Knowledge management and information retrieved, Information retrieval and human-computer interaction.
+- Demonstrate the conceptual ability and technical skills to develop and execute an evaluation plan involving data extraction from practice information systems and databases. Understand the process of creating and evaluating a digital health solution 
+- Devise and evaluate biomedical informatics solutions to the information processing challenges identified, consistent with ethical, legal, and social considerations.
 - Learn about developing an embedded system for digital health applications using Arduino
-- Understand resource optimization in digital health
-- Critically examine the impact of digital health on people and society
 - Analyze different types of data obtained from mobile health (mHealth) systems, including but not limited to the following sensors: ECG, PPG, accel/gyro, video, audio, proximity, ambient light, piezoelectric
-- Design experiments to collect data and validate mHealth systems
 - Write a proposal for a digital health solution
 
 
