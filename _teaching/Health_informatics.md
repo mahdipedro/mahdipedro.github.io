@@ -102,9 +102,9 @@ You can find the list of the required components [here](https://www.digikey.com/
 
 | Week Of      | Topic & Reading | Assignment |
 | :-----------: 	| :-----------: |	 :-----------: |	
-| Sep.6      | Introduction to Helath Informatics class ; What is health?; How to review a digital health solution?!| - |
-| Sep.13   | Type of digital health research including systems, analysis, and prediction; digital health conferences + Overleaf  + lit review| Paper Review |
-| Sep.20	|HCI - goals of the research, who is the human that we are centering; Methods of understanding and knowledge extraction |Paper Review, Project 1|
+| Sep.6      | Introduction to Biomedical and Health Informatics; Computing Concepts for Biomedicine and Health- |
+| Sep.13   | Electronic Health Records;Standards and Interoperability| Paper Review |
+| Sep.20	|Clinical Decision Support; Safety, Quality, and Value Paper Review, Project 1|
 | Sep.27	|Introduction to embedded systems; Development cycle; Creating a system architecture; Outputs, Inputs, and Timers.| Paper Review, S1 (Research Project)|
 | Oct.4	|Getting started with Arduino and sensing modalities for health applications, what are we sensing and why are we sensing?| -|
 | Oct.11	|Introduction to Machine Learning, review of Supervised and Unsupervised learning methods for health applications| Project 2|
