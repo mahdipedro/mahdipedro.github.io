@@ -102,14 +102,14 @@ You can find the list of the required components [here](https://www.digikey.com/
 
 | Week Of      | Topic & Reading | Assignment |
 | :-----------: 	| :-----------: |	 :-----------: |	
-| Sep.6      | Introduction to Biomedical and Health Informatics; Computing Concepts for Biomedicine and Health | |
+| Sep.6      | Introduction to Biomedical and Health Informatics; Computing Concepts for Biomedicine and Health |- 
 | Sep.13   | Electronic Health Records;Standards and Interoperability| Paper Review |
-| Sep.20	|Clinical Decision Support; Safety, Quality, and Value; EHR System Selection and Implementation; Telemedicine and Telehealth | |
+| Sep.20	|Clinical Decision Support; Safety, Quality, and Value; EHR System Selection and Implementation; Telemedicine and Telehealth |- 
  Sep.27	|Health Information Privacy and Security; Information Retrieval; Clinical Research Informatics; Consumer Health Informatics; Public Health Informatics | Paper Review, S1 (Research Project)|
-| Oct.4	|Getting started with Arduino and sensing modalities for health applications, what are we sensing and why are we sensing?| -|
-| Oct.11	|Introduction to Machine Learning, review of Supervised and Unsupervised learning methods for health applications| Project 2|
-| Oct.18	|Signal processing and machine learning for time-series data (sampling, segmentation, feature extraction, classification); Model evaluation |Paper Review, S2 (Research Project)|
-| Oct.25	|Machine learning workflow, Building, and training a machine learning model, Explainability application in digital health |Project 3, S3 (Research Project) |
+| Oct.4	|Getting started with Arduino and sensing modalities for health applications, what are we sensing and why are we sensing?| -
+| Oct.11	|Introduction to Machine Learning, review of Supervised and Unsupervised learning methods for health applications| Project 2
+| Oct.18	|Signal processing and machine learning for time-series data (sampling, segmentation, feature extraction, classification); Model evaluation |Paper Review, S2 (Research Project)
+| Oct.25	|Machine learning workflow, Building, and training a machine learning model, Explainability application in digital health |Project 3, S3 (Research Project) 
 | Nov.1	|Real-time processing of health data. Hands-on ML, deploying the model to embedded devices, TensorFlow lite for embedded processors| Paper Review, Project 4|
 | Nov.8	| Digital health solution evaluations and optimizations| Project 5|
 | Nov.15	|Final Presentations| S4 (Research Project)|
