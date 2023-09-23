@@ -32,6 +32,9 @@ Current Projects
 
 News
 ======
+* 2023-8.  I joined DePaul University as a tenure-track assistant professor. Also, I will collaborate with Northwestern University as an adjunct assistant professor.
+
+
 * 2023-5.  Our paper "Detecting Eating and Social Presence with All Day Wearable RGB-T" got accepted at 2023 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
 <img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/wildcam_application_web.png?raw=true">
 
