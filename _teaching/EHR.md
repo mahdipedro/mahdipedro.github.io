@@ -41,16 +41,7 @@ By the end of the course, students will be equipped with a robust understanding 
 
 
 ## Text Book
-[Raspberry Pi Cookbook](https://www.oreilly.com/library/view/raspberry-pi-cookbook/9781098130916/), 4th Edition by Simon Monk, December 2022, O'Reilly Media, ISBN: 9781098130923, which can be accessed from DePaul Login.
-
-<p align="center">
-    <img width="260" height="300" src="https://m.media-amazon.com/images/I/81E-rfvRILL._SY522_.jpg)https://m.media-amazon.com/images/I/81E-rfvRILL._SY522_.jpg">
- </p> 
-
-## Required Components
-  Students are required to purchase the following items:
-  * [Raspberry Pi Zero 2 W - 2021](https://www.amazon.com/Raspberry-Zero-Bluetooth-RPi-2W/dp/B09LH5SBPS)
-  * [Seeed Studio XIAO nRF52840 Sense](https://www.amazon.com/Seeed-Studio-XIAO-nRF52840-Sense/dp/B09T94SZ8K/ref=sr_1_1?crid=2MJOLG5KGMR7P&keywords=seeed%2Bxiao%2Bsense&qid=1699672428&s=electronics&sprefix=seeed%2Bxiao%2Bsens%2Celectronics%2C99&sr=1-1&th=1)
+Students will not need to purchase a textbook. Everything will be provided.
 
 ## Grading 
 The course grade is apportioned as follows:
@@ -58,25 +49,14 @@ The course grade is apportioned as follows:
 * 50% for lab assignments and reports 
 * 30% for final project	
 
-### Labs
-Homework (fillable DOCX forms; no hard copies will be provided in class) will be available on D2L and consist of reading online material to further understand the concepts covered in the course. You will need to complete and submit (via D2L) the weekly assignment before the next class meeting. The template for each of the lab reports will be available on D2L. After completing the lab reports, print them as PDFs and upload them on D2L.
-
 ### Quiz
 Based on the prior lab and the assignment, a short quiz will be given in class. Quizzes should be completed individually by the next lab meeting.
 
-### Final Project
-During the last several weeks of the course, you will be working on a group project, which you will present in week 11 of the class. It will be a simple application you will implement using a Raspberry Pi board and other electronic components. The project will be approved based on your proposal. A final project write-up will be due during exam week. Instructions about the final project will be available on D2L.
 
 ## Class Schedule 
 
 
 | Week      | Topic & Experiments |
 | :-----------: 	| :-----------: |	 
-| Week 1      | Course Introduction and Raspberry Pi Setup.| 
-| Week 2   | Learn how to program the Raspberry Pi, Send emails from Raspberry Pi, Display sensor values on Raspberry Pi, Use the IFTTT framework to send notifications, Send tweets using ThingSpeak, and display sensor data on the web.|
-| Week 3	| Understand Raspberry Pi pinout, Program general-purpose digital output, Build simple circuits to test the programs, Learn pulse width modulation (PWM), and Build user graphical user interfaces.|
-| Week 4	| Programming general-purpose digital input (detect switch interactions, learn internal/external Pull UP/DOWN resistors, software polling vs. hardware interrupts, use rotary encoders, motion detectors, interact with keyboards and mouse) and Interface Raspberry Pi Camera (using a Raspberry Pi Camera Module for Computer Vision, face and motion detection using Computer Vision).|
-|Week 5	| Interfacing resistive sensors (Measure resistance, Measure light intensity, Measure voltage, Learn and use Serial Peripheral Interface (SPI) and, Analog to Digital Conversion.|
-|Week 6	| Measure voltages (contd.), Measure temperature, Measure distance, Use Organic Light Emitting Diode (OLED) to display information, I2C communication protocol, and Internet of things: Implement a simple web server.|
-|Week 7	| Actuators (Control servo motors, Control the speed of DC motors, Control direction of DC motors, Control unipolar stepper motors.|
-
+| Week 1      | | 
+| Week 2   | | 
