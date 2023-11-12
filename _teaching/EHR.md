@@ -56,7 +56,7 @@ Based on the prior lab and the assignment, a short quiz will be given in class. 
 ## Class Schedule 
 
 
-| Week      | Topic & Experiments |
-| :-----------: 	| :-----------: |	 
-| Week 1      | | 
-| Week 2   | | 
+| Week      | Topic |  |
+| :-----------: 	| :-----------: |	 :-----------: |
+| Week 1      | | |
+| Week 2   | | |
