@@ -32,7 +32,8 @@ Electronic Healthcare Record Systems are the foundation for significantly improv
 * Preprocess Electronic Health Records and represent them as time-series data
 * Imputation strategies and data encodings
 
-## Prerequisites
+## Course Outcomes
+By the end of the course, students will be equipped with a robust understanding of EHR systems, the ability to analyze health data using advanced machine learning techniques, and a comprehensive perspective on the impact of EHRs on both patients and healthcare professionals. This course prepares attendees to effectively implement, manage, and utilize EHR systems in a healthcare setting, ensuring compliance with modern healthcare regulations and maximizing the benefits of digital health records.
 
 
 ## Course Format
