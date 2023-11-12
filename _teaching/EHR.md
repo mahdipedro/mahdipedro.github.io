@@ -11,35 +11,32 @@ location: "Chicago, IL"
 
 
 ## Course Description
-CSC 299 stresses student initiative in investigating a particular application of computing. In the process, students learn new tools (including languages and APIs) methodologies, study algorithms/code examples/formalisms used in that particular computing area, work on projects, and apply them to develop operating systems.
-The topic of study in this section of CSC 299 is Hardware Projects for the Raspberry Pi & the topic of CSE 299 is Hardware Projects. In this course, the students will apply problem-solving and programming skills toward building cyber-physical systems using the Raspberry Pi hardware platform. The course will cover basic electronics and the Python API for managing hardware devices (including communication interfaces), interfacing with digital and analog inputs (sensors), controlling motors (actuators), and using output devices (e.g., displays and buzzers). Throughout the course and final project, students will work in groups to build basic cyber-physical systems (e.g., controlling LEDs and motors, communicating over the Internet, monitoring the surroundings via various sensors) to moderately sophisticated ones (e.g., remotely piloting a robot rover over the Internet).
+Electronic Healthcare Record Systems are the foundation for significantly improved healthcare services in the future. It not only serves as a repository for all patient records but has the potential to unify all healthcare information from a wide variety of sources. It has the potential to improve the processes within our healthcare systems. It is also a treasure trove of information, which when mined, can potentially lead to significant discoveries on the treatment of disease.
 
-## Course Objectives
-In this course, students will:
-* Configure and secure Raspberry Pi for remote operation
-* Work and be familiar with the Unix/Linux operating systems to perform system configurations, Python program development, and execution
-* Use, be familiar with, and build basic electronic circuits
-* Use Raspberry Pi and the Python API to interface digital/analog inputs (sensors), control motors, and other hardware (actuators), and use a variety of displays (output devices).
-* Communicate with hardware devices over the Internet
-* Build moderately sophisticated cyber-physical systems using the Raspberry Pi.
+## Learning Objectives
+* Digital vs paper patient records
+* Definition of EMR, EHR, PHR
+* The need for a unified view of our records
+* Key components of an EHR system
+* The Patient's perspective of EHR
+* The Clinicians' perspective of EHR
+* Technology Issues of EHR
+* Meaningful use of EHR
+* The 21st Century "Cures" Act and how it will help.
+* Understand the Schema of publicly available EHR databases (MIMIC-III)
+* Recognize the International Classification of Diseases (ICD) use
+* Extract and visualize descriptive statistics from clinical databases
+* Understand and extract key clinical outcomes such as mortality and stay of length
+* Train deep learning architectures such as Multi-layer perceptron, Convolutional Neural Networks, and Recurrent Neural Networks for classification
+* Validate and compare different machine learning algorithms
+* Preprocess Electronic Health Records and represent them as time-series data
+* Imputation strategies and data encodings
 
 ## Prerequisites
-Students must also have taken CSC 242 or CSC 243 or an equivalent introduction to programming course. Also, students must have passed these courses or have been waived out of them. More to the point, students must already know how to program in Python or have sufficient programming experience to learn Python quickly. This is an in-person class, and the participation is compulsory. You will need to bring your Raspberry Pi kit and laptop to the class.
 
-### Important Notes
-* This is a hands-on class. You are expected to take part in in-person sessions. The health safety guidelines and protocols will be followed.
-* Labs, Homework (lab reports), quizzes, and final projects are individual activities. Final projects can be either group or personal activities.
-* Groups will have up to two members. More information will be conveyed at mid-quarter after observing the class dynamics.
-* This class follows the flipped classroom concepts where the students are expected to complete the reading assignments before attempting to complete the labs.
-* Please make sure to use the components in the kit given to you with care.
 
 ## Course Format
-The course provides the material you will need to understand the fundamental concepts covered during the course, including:
-* Follow-up lectures (before the class begins)
-* Weekly lab for hands-on programming and problem-solving (7 labs in total).
-* Six weekly quizzes and seven reports based on the lab assignments
-* Resources such as videos, notes, and code files via D2L
-* Self-assessment resources on D2L, including lecture questions/answers and unit quizzes/solutions, to assess your progress and understanding.
+
 
 
 ## Text Book
