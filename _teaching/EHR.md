@@ -11,7 +11,7 @@ location: "Chicago, IL"
 
 
 ## Course Description
-Electronic Healthcare Record Systems are the foundation for significantly improved healthcare services in the future. It not only serves as a repository for all patient records but has the potential to unify all healthcare information from a wide variety of sources. It has the potential to improve the processes within our healthcare systems. It is also a treasure trove of information, which when mined, can potentially lead to significant discoveries on the treatment of disease.
+Electronic Healthcare Record Systems are the foundation for significantly improved healthcare services in the future. It not only serves as a repository for all patient records but has the potential to unify all healthcare information from a wide variety of sources. It has the potential to improve the processes within our healthcare systems. It is also a treasure trove of information, which when mined, can potentially lead to significant discoveries on the treatment of disease. This comprehensive course provides an in-depth understanding of Electronic Health Records (EHR), a critical component in modern healthcare systems. Designed for healthcare professionals, IT specialists, and data analysts, the course covers a wide range of topics from the basics of digital patient records to advanced data analytics using machine learning.
 
 ## Learning Objectives
 * Digital vs paper patient records
