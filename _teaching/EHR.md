@@ -1,1 +1,84 @@
+---
+title: "Electronic Health Records - Winter 2024"
+collection: teaching
+type: "Undergraduate and graduate course"
+permalink: /teaching/EHR/
+venue: "DePaul University, School of Computing (SoC)"
+date: 2023-10-20
+location: "Chicago, IL"
+---
+ Course Instructor.
+
+
+## Course Description
+CSC 299 stresses student initiative in investigating a particular application of computing. In the process, students learn new tools (including languages and APIs) methodologies, study algorithms/code examples/formalisms used in that particular computing area, work on projects, and apply them to develop operating systems.
+The topic of study in this section of CSC 299 is Hardware Projects for the Raspberry Pi & the topic of CSE 299 is Hardware Projects. In this course, the students will apply problem-solving and programming skills toward building cyber-physical systems using the Raspberry Pi hardware platform. The course will cover basic electronics and the Python API for managing hardware devices (including communication interfaces), interfacing with digital and analog inputs (sensors), controlling motors (actuators), and using output devices (e.g., displays and buzzers). Throughout the course and final project, students will work in groups to build basic cyber-physical systems (e.g., controlling LEDs and motors, communicating over the Internet, monitoring the surroundings via various sensors) to moderately sophisticated ones (e.g., remotely piloting a robot rover over the Internet).
+
+## Course Objectives
+In this course, students will:
+* Configure and secure Raspberry Pi for remote operation
+* Work and be familiar with the Unix/Linux operating systems to perform system configurations, Python program development, and execution
+* Use, be familiar with, and build basic electronic circuits
+* Use Raspberry Pi and the Python API to interface digital/analog inputs (sensors), control motors, and other hardware (actuators), and use a variety of displays (output devices).
+* Communicate with hardware devices over the Internet
+* Build moderately sophisticated cyber-physical systems using the Raspberry Pi.
+
+## Prerequisites
+Students must also have taken CSC 242 or CSC 243 or an equivalent introduction to programming course. Also, students must have passed these courses or have been waived out of them. More to the point, students must already know how to program in Python or have sufficient programming experience to learn Python quickly. This is an in-person class, and the participation is compulsory. You will need to bring your Raspberry Pi kit and laptop to the class.
+
+### Important Notes
+* This is a hands-on class. You are expected to take part in in-person sessions. The health safety guidelines and protocols will be followed.
+* Labs, Homework (lab reports), quizzes, and final projects are individual activities. Final projects can be either group or personal activities.
+* Groups will have up to two members. More information will be conveyed at mid-quarter after observing the class dynamics.
+* This class follows the flipped classroom concepts where the students are expected to complete the reading assignments before attempting to complete the labs.
+* Please make sure to use the components in the kit given to you with care.
+
+## Course Format
+The course provides the material you will need to understand the fundamental concepts covered during the course, including:
+* Follow-up lectures (before the class begins)
+* Weekly lab for hands-on programming and problem-solving (7 labs in total).
+* Six weekly quizzes and seven reports based on the lab assignments
+* Resources such as videos, notes, and code files via D2L
+* Self-assessment resources on D2L, including lecture questions/answers and unit quizzes/solutions, to assess your progress and understanding.
+
+
+## Text Book
+[Raspberry Pi Cookbook](https://www.oreilly.com/library/view/raspberry-pi-cookbook/9781098130916/), 4th Edition by Simon Monk, December 2022, O'Reilly Media, ISBN: 9781098130923, which can be accessed from DePaul Login.
+
+<p align="center">
+    <img width="260" height="300" src="https://m.media-amazon.com/images/I/81E-rfvRILL._SY522_.jpg)https://m.media-amazon.com/images/I/81E-rfvRILL._SY522_.jpg">
+ </p> 
+
+## Required Components
+  Students are required to purchase the following items:
+  * [Raspberry Pi Zero 2 W - 2021](https://www.amazon.com/Raspberry-Zero-Bluetooth-RPi-2W/dp/B09LH5SBPS)
+  * [Seeed Studio XIAO nRF52840 Sense](https://www.amazon.com/Seeed-Studio-XIAO-nRF52840-Sense/dp/B09T94SZ8K/ref=sr_1_1?crid=2MJOLG5KGMR7P&keywords=seeed%2Bxiao%2Bsense&qid=1699672428&s=electronics&sprefix=seeed%2Bxiao%2Bsens%2Celectronics%2C99&sr=1-1&th=1)
+
+## Grading 
+The course grade is apportioned as follows:
+* 20% for quizzes
+* 50% for lab assignments and reports 
+* 30% for final project	
+
+### Labs
+Homework (fillable DOCX forms; no hard copies will be provided in class) will be available on D2L and consist of reading online material to further understand the concepts covered in the course. You will need to complete and submit (via D2L) the weekly assignment before the next class meeting. The template for each of the lab reports will be available on D2L. After completing the lab reports, print them as PDFs and upload them on D2L.
+
+### Quiz
+Based on the prior lab and the assignment, a short quiz will be given in class. Quizzes should be completed individually by the next lab meeting.
+
+### Final Project
+During the last several weeks of the course, you will be working on a group project, which you will present in week 11 of the class. It will be a simple application you will implement using a Raspberry Pi board and other electronic components. The project will be approved based on your proposal. A final project write-up will be due during exam week. Instructions about the final project will be available on D2L.
+
+## Class Schedule 
+
+
+| Week      | Topic & Experiments |
+| :-----------: 	| :-----------: |	 
+| Week 1      | Course Introduction and Raspberry Pi Setup.| 
+| Week 2   | Learn how to program the Raspberry Pi, Send emails from Raspberry Pi, Display sensor values on Raspberry Pi, Use the IFTTT framework to send notifications, Send tweets using ThingSpeak, and display sensor data on the web.|
+| Week 3	| Understand Raspberry Pi pinout, Program general-purpose digital output, Build simple circuits to test the programs, Learn pulse width modulation (PWM), and Build user graphical user interfaces.|
+| Week 4	| Programming general-purpose digital input (detect switch interactions, learn internal/external Pull UP/DOWN resistors, software polling vs. hardware interrupts, use rotary encoders, motion detectors, interact with keyboards and mouse) and Interface Raspberry Pi Camera (using a Raspberry Pi Camera Module for Computer Vision, face and motion detection using Computer Vision).|
+|Week 5	| Interfacing resistive sensors (Measure resistance, Measure light intensity, Measure voltage, Learn and use Serial Peripheral Interface (SPI) and, Analog to Digital Conversion.|
+|Week 6	| Measure voltages (contd.), Measure temperature, Measure distance, Use Organic Light Emitting Diode (OLED) to display information, I2C communication protocol, and Internet of things: Implement a simple web server.|
+|Week 7	| Actuators (Control servo motors, Control the speed of DC motors, Control direction of DC motors, Control unipolar stepper motors.|
 
