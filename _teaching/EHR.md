@@ -58,13 +58,13 @@ Based on the prior lab and the assignment, a short quiz will be given in class. 
 
 | Week      | Topic | Activity |
 | :-----------: 	| :-----------: |	 :-----------: |
-| Week 1      | | |
-| Week 2   | | |
-| Week 3   | | |
-| Week 4   | | |
-| Week 5   | | |
-| Week 6   | | |
-| Week 7   | | |
-| Week 8   | | |
-| Week 9   | | |
+| Week 1      | The fundamental functions of an Electronic Healthcare Records system | |
+| Week 2   | The impact of EHRs on today's healthcare system | |
+| Week 3   | Meaningful use and its impact on adopting EHRs | |
+| Week 4   | How the new "Cures" Act will help interoperability of EHRs| |
+| Week 5   | EHR and public databases | |
+| Week 6   | MIMIC III database | |
+| Week 7   | Recognition of the International Classification of Diseases (ICD) use| |
+| Week 8   | International classification of disease system| |
+| Week 9   | Concpets in MIMIC III and patients inclusion flowchart| |
 | Week 10   | | |
