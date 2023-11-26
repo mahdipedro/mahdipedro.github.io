@@ -19,6 +19,9 @@ Research Interests
 
 Current Projects
 ======
+* DePaul- RFUMS Grant - SmokeSense: Advancing Wrist-Worn Devices with AI for Real-Time Smoking Insights
+  * Role: PI
+  * Start Date: 1/15/2024
 * NIH R01 - EAT: A Reliable Eating Assessment Technology for Free-living Individuals
   * Role: Project Lead
   * Start date: 12/01/2021
