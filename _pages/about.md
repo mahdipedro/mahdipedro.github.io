@@ -20,11 +20,11 @@ Research Interests
 Current Projects and Research Opportunities
 ======
 * DePaul-RFUMS Grant - SmokeSense: Advancing Wrist-Worn Devices with AI for Real-Time Smoking Insights
-  * I am hiring two students (one undergraduate and one graduate)
+  * <ins>I am hiring two students (one undergraduate and one graduate)</ins>
       * Position 1: Experience interacting with sensors and developing firmware (C/C++)
       * Position 2: Experience designing 3D enclosures for the wearable device
 * DePaul URC Grant - Batteryless UV Sensing Device for Melanoma survivors 
-  * I am hiring one student with a background in electronics.
+  * <ins>I am hiring one student with a background in electronics.</ins>
 * NIH R01 - EAT: A Reliable Eating Assessment Technology for Free-living Individuals
 * NIH R21 - BehaviorSight: Privacy Enhancing Wearable System to Detect Health Risk Behaviors in Real-time
 * NIH R03 - WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild 
