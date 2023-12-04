@@ -21,8 +21,8 @@ Current Projects
 ======
 * DePaul-RFUMS Grant - SmokeSense: Advancing Wrist-Worn Devices with AI for Real-Time Smoking Insights
   * I am hiring two students (one undergraduate and one graduate)
-  * Position 1: Experience interacting with sensors and developing firmware (C/C++)
-  * Position 2: Experience designing 3D enclosures for the wearable device
+    * Position 1: Experience interacting with sensors and developing firmware (C/C++)
+    * Position 2: Experience designing 3D enclosures for the wearable device
 * NIH R01 - EAT: A Reliable Eating Assessment Technology for Free-living Individuals
 * NIH R21 - BehaviorSight: Privacy Enhancing Wearable System to Detect Health Risk Behaviors in Real-time
 * NIH R03 - WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild 
