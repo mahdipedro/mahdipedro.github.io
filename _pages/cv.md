@@ -29,7 +29,7 @@ Work experience
 * January 2022 - September 2023: Postdoctoral Researcher
   * Northwestern University
 
-* January 2022 - Present: Lecturer 
+* January 2022 - May 2023: Course Instructor 
   * Northwestern University
   * Course: Wireless and Mobile Health (mHealth)
   
