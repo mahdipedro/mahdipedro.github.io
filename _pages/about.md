@@ -12,6 +12,7 @@ I am an assistant professor at [DePaul University](https://core.depaul.edu/uwide
 Research Interests
 ======
 * Embedded Systems
+* Health Informatics
 * Mobile Health (mHealth)
 * Smart Sensing Solutions
 * On-Device Processing
