@@ -21,6 +21,7 @@ Research Interests
 Open PhD positions for the following projects
 ======
 * DePaul-RFUMS Grant - SmokeSense: Advancing Wrist-Worn Devices with AI for Real-Time Smoking Insights
+* * Skills:
 * NIH R21 - HydroCare: Monitoring and Maintaining Hydration in Older Adults Through Smart Wearable Sensors
 * NIH R15 - DiaBalance: Redefining Diabetes Management Strategies with Wearables 
 * DePaul URC Grant - Batteryless UV Sensing Device for Melanoma survivors 
