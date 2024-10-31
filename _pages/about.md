@@ -21,7 +21,7 @@ Research Interests
 Open PhD positions for the following projects
 ======
 * DePaul-RFUMS Grant - SmokeSense: Advancing Wrist-Worn Devices with AI for Real-Time Smoking Insights
- * Required Background: Experience with sensor fusion and Time-series data, including motion and environmental data.
+*   Required Background: Experience with sensor fusion and Time-series data, including motion and environmental data.
 * NIH R21 - HydroCare: Monitoring and Maintaining Hydration in Older Adults Through Smart Wearable Sensors
 * NIH R15 - DiaBalance: Redefining Diabetes Management Strategies with Wearables 
 * DePaul URC Grant - Batteryless UV Sensing Device for Melanoma survivors 
