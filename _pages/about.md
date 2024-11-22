@@ -29,12 +29,14 @@ News
 ======
 * 2024-8.  I joined the University of North Texas as a tenure-track assistant professor.
 
-* 2023-11. Our grant "SmokeSense: Advancing Wrist-Worn Devices with AI for Real-Time Smoking Insights" with [Dr. Jao](https://www.rosalindfranklin.edu/academics/faculty/nancy-c-jao/) was funded ($67,000) by [DePaul-RFU Grant Program: AI in Biomedical Discovery & Healthcare](https://offices.depaul.edu/research-services/about/Documents/AIDiscoveryHealthcareGrant%20Request%20for%20Proposals%202023-24.pdf). 
+* 2023-11. Our grant "SmokeSense: Advancing Wrist-Worn Devices with AI for Real-Time Smoking Insights" with [Dr. Jao](https://www.rosalindfranklin.edu/academics/faculty/nancy-c-jao/) was funded ($67,000) by [DePaul-RFU Grant Program: AI in Biomedical Discovery & Healthcare](https://offices.depaul.edu/research-services/about/Documents/AIDiscoveryHealthcareGrant%20Request%20for%20Proposals%202023-24.pdf).
 
-* 2023-8.  I joined DePaul University as a tenure-track assistant professor. Also, I will collaborate with Northwestern University as an adjunct assistant professor.
+* 2023-12.  The end of the Winter 2023 quarter at DePaul, where we learned about Electronic Health Records!
+<img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/EHR.jpeg">
 
+* 2023-8.  I joined DePaul University as a tenure-track assistant professor. I will also collaborate with Northwestern University as an adjunct assistant professor.
 
-* 2023-5.  Our paper "Detecting Eating and Social Presence with All Day Wearable RGB-T" got accepted at 2023 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+* 2023-5.  Our paper "Detecting Eating and Social Presence with All Day Wearable RGB-T" got accepted at the 2023 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
 <img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/wildcam_application_web.png?raw=true">
 
 
