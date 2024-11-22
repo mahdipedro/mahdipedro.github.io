@@ -33,7 +33,7 @@ News
 
 * 2023-12.  The end of the Winter 2023 quarter at DePaul, where we learned about Electronic Health Records!
 
-<img width="475" alt="frame2" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/EHR.jpeg">
+<img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/EHR.jpeg?raw=true">
 
 * 2023-8.  I joined DePaul University as a tenure-track assistant professor. I will also collaborate with Northwestern University as an adjunct assistant professor.
 
