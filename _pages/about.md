@@ -31,7 +31,7 @@ News
 
 * 2023-11. Our grant "SmokeSense: Advancing Wrist-Worn Devices with AI for Real-Time Smoking Insights" with [Dr. Jao](https://www.rosalindfranklin.edu/academics/faculty/nancy-c-jao/) was funded ($67,000) by [DePaul-RFU Grant Program: AI in Biomedical Discovery & Healthcare](https://offices.depaul.edu/research-services/about/Documents/AIDiscoveryHealthcareGrant%20Request%20for%20Proposals%202023-24.pdf).
 
-* 2023-12.  The end of the Winter 2023 quarter at DePaul, where we learned about Electronic Health Records!
+* 2023-12.  At the end of the Winter 2023 quarter at DePaul, where students learned about Electronic Health Records. 45 students enrolled in this class.
 
 <img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/EHR.jpeg?raw=true">
 
