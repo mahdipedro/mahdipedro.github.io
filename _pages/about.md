@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an assistant professor at the [University of North Texas](https://www.unt.edu/index.html), adjunct assistant professor at [Northwestern University](https://habitslab.github.io/), and a technical advisor of [SenseWhy](http://sensewhyinc.com/) INC. I also teach [Wireless and Mobile health](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/397-497-14.html) (mHealth), [Health Informatics](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?crseId=013455), [Electronic Health Records](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?Subject=HIT&CatalogNbr=430), [Applied Computing](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?Subject=CSC&CatalogNbr=299), and Embedded Systems (UNT) courses. I received my Ph.D. in Computer Engineering from [Washington State University](https://wsu.edu) (WSU) in 2021 at [EMIL Lab](https://ghasemzadeh.com/). I currently work on health monitoring projects related to behavioral medicine.
 
-## I am seeking PhD students interested in research, engineering, and entrepreneurship. Please get in touch with me if you are interested!
+### I am seeking PhD students interested in research, engineering, and entrepreneurship. Please get in touch with me if you are interested!
 
 Research Interests
 ======
