@@ -28,7 +28,8 @@ Open PhD positions for the following projects
 
 News
 ======
-* 2023-2.  Our paper ["SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal"](https://dl.acm.org/doi/abs/10.1145/3569460) got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+* 2024-9.  Our paper ["HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications
+"](https://dl.acm.org/doi/abs/10.1145/3678591) got published at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 <img width="475" alt="frame1" src="https://user-images.githubusercontent.com/45086751/221367346-2aa69fdc-4073-41ac-ae35-b14238cf81fc.png">
 
 * 2024-8.  I joined the University of North Texas as a tenure-track assistant professor.
