@@ -29,8 +29,8 @@ Open PhD positions for the following projects
 News
 ======
 * 2024-9.  Our paper ["HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications
-"](https://dl.acm.org/doi/abs/10.1145/3678591) got published at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-<img width="475" alt="frame1" src="https://user-images.githubusercontent.com/45086751/221367346-2aa69fdc-4073-41ac-ae35-b14238cf81fc.png">
+"](https://dl.acm.org/doi/abs/10.1145/3678591) is published in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+<img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/habitsense_fig1.png">
 
 * 2024-8.  I joined the University of North Texas as a tenure-track assistant professor.
 
