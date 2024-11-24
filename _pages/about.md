@@ -28,6 +28,9 @@ Open PhD positions for the following projects
 
 News
 ======
+* 2023-2.  Our paper ["SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal"](https://dl.acm.org/doi/abs/10.1145/3569460) got accepted at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+<img width="475" alt="frame1" src="https://user-images.githubusercontent.com/45086751/221367346-2aa69fdc-4073-41ac-ae35-b14238cf81fc.png">
+
 * 2024-8.  I joined the University of North Texas as a tenure-track assistant professor.
 
 * 2023-11. Our grant "SmokeSense: Advancing Wrist-Worn Devices with AI for Real-Time Smoking Insights" with [Dr. Jao](https://www.rosalindfranklin.edu/academics/faculty/nancy-c-jao/) was funded ($67,000) by [DePaul-RFU Grant Program: AI in Biomedical Discovery & Healthcare](https://offices.depaul.edu/research-services/about/Documents/AIDiscoveryHealthcareGrant%20Request%20for%20Proposals%202023-24.pdf).
