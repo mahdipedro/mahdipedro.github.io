@@ -28,8 +28,7 @@ Open PhD positions for the following projects
 
 News
 ======
-* 2024-9.  Our paper ["HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications
-"](https://dl.acm.org/doi/abs/10.1145/3678591) is published in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+* 2024-9.  Our paper ["HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications"](https://dl.acm.org/doi/abs/10.1145/3678591) is published in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
 <img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/habitsense_fig1.png?raw=true">
 
