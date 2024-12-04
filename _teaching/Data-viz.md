@@ -1,7 +1,7 @@
 ---
-title: "Applied Computing - Fall 2024"
+title: "Scientific Data Visualization - Fall 2024"
 collection: teaching
-type: "Undergraduate and graduate course"
+type: "Graduate course"
 permalink: /teaching/Data-viz/
 venue: "University of North Texas, Department of Computer Science and Engineering"
 date: 2024-08-20
