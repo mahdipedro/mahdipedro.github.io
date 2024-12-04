@@ -30,7 +30,7 @@ News
 ======
 * 2024-12.  At the end of Fall 2024 semester at UNT, where students learned about Scientific Data Visualization.
 
-<img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/Data%20Viz.JPG?raw=true">
+<img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/Data-viz.JPG?raw=true">
 
 * 2024-9.  Our paper ["HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications"](https://dl.acm.org/doi/abs/10.1145/3678591) is published in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
