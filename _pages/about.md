@@ -28,6 +28,10 @@ Open PhD positions for the following projects
 
 News
 ======
+* Our paper ["Self-Sustaining Wearable UV Sensor for Passive and Continuous Sun Protection"](https://ieeexplore.ieee.org/abstract/document/10780588) is published in the 2024 IEEE 20th International Conference on Body Sensor Networks (BSN).
+
+<img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/UV.pdf">
+
 * 2024-12.  At the end of Fall 2024 semester at UNT, where students learned about Scientific Data Visualization.
 
 <img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/Data-viz.JPG?raw=true">
