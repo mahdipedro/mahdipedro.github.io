@@ -28,7 +28,7 @@ Open PhD positions for the following projects
 
 News
 ======
-* Our paper ["Self-Sustaining Wearable UV Sensor for Passive and Continuous Sun Protection"](https://ieeexplore.ieee.org/abstract/document/10780588) is published in the 2024 IEEE 20th International Conference on Body Sensor Networks (BSN).
+* 2024-12. Our paper ["Self-Sustaining Wearable UV Sensor for Passive and Continuous Sun Protection"](https://ieeexplore.ieee.org/abstract/document/10780588) is published in the 2024 IEEE 20th International Conference on Body Sensor Networks (BSN).
 
 <img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/UV.jpg?raw=true">
 
