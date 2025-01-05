@@ -16,8 +16,10 @@ Education
 
 Work experience
 ======
+* August 2024 - Present: Tenure Track Assistant Professor
+  *  University of North Texas
 
-* August 2023 - Present: Tenure Track Assistant Professor
+* August 2023 - August 2024: Tenure Track Assistant Professor
   * DePaul University
 
 * August 2023 - Present: Adjunct Assistant Professor
