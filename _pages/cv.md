@@ -29,7 +29,7 @@ Work experience
   * SenseWhy Inc
 
 * January 2022 - September 2023: Postdoctoral Researcher
-  * Northwestern University
+  * Northwestern University - [HABits Lab](https://www.thehabitslab.com/)
 
 * January 2022 - May 2023: Course Instructor 
   * Northwestern University
