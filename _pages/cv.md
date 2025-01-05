@@ -65,7 +65,7 @@ Work experience
 Skills
 ======
 * Programming Languages: C, Python, Java, Matlab, VHDL, and Verilog
-* Softwares: Proteus Design Suite, Weka, Eagle PCB Design, Altium Designer, SPICE software, LaTeX
+* Softwares: Proteus Design Suite, Tableau, KiCad, Fusion 360, Eagle PCB Design, Altium Designer, SPICE software, LaTeX
 * Laboratory: System Prototyping, Oscilloscope, Logic Analyzer, Signal Generator, Soldering, and Multimeter 
 
 Publications
