@@ -36,7 +36,7 @@ Work experience
   * Course: Wireless and Mobile Health (mHealth)
   
 * August 2016 - December 2021: Research Assistant
-  * Washington State University
+  * Washington State University - [EMIL Research Lab](https://ghasemzadeh.com/)
   * Advisor: Professor Hassan Ghasemzadeh
 
 * July 2021 - December 2021: Lecturer
