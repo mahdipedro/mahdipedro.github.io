@@ -26,7 +26,7 @@ Work experience
   * Northwestern University
 
 * January 2023 - Present: Chief Technology Officer
-  * SenseWhy Inc
+  * [SenseWhy Inc](https://www.sensewhyinc.com/)
 
 * January 2022 - September 2023: Postdoctoral Researcher
   * Northwestern University - [HABits Lab](https://www.thehabitslab.com/)
