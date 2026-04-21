@@ -31,6 +31,8 @@ News
 
 * 2026-3. Our paper (HydroCare: Energy-Efficient Framework for Hydration Monitoring using Time-of-Flight Imaging) got accepted to the IEEE/ACM International Conference on Connected Health 2026.
 
+* 2025-10. Our paper ["ToF Based Wearable Sensing for Passive Food Intake Monitoring"](https://openreview.net/pdf?id=qxPZ6auXvu) is published in the 2025 IEEE 21st International Conference on Body Sensor Networks (BSN).
+
 * 2024-12. Our paper ["Self-Sustaining Wearable UV Sensor for Passive and Continuous Sun Protection"](https://ieeexplore.ieee.org/abstract/document/10780588) is published in the 2024 IEEE 20th International Conference on Body Sensor Networks (BSN).
 
 <img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/UV.jpg?raw=true">
