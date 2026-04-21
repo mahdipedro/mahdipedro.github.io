@@ -27,7 +27,9 @@ Open PhD positions for the following projects
 News
 ======
 * 2026-4. Our R25 proposal (Advancing Digital Health Technology: A Summer Research Program for High School and Community College Educators
-) got funded by the NIH. 
+) got funded by the NIH.
+
+* 2026-3. Our paper (HydroCare: Energy-Efficient Framework for Hydration Monitoring using Time-of-Flight Imaging) got accepted to the IEEE/ACM International Conference on Connected Health 2026.
 
 * 2024-12. Our paper ["Self-Sustaining Wearable UV Sensor for Passive and Continuous Sun Protection"](https://ieeexplore.ieee.org/abstract/document/10780588) is published in the 2024 IEEE 20th International Conference on Body Sensor Networks (BSN).
 
