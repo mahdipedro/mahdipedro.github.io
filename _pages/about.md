@@ -21,13 +21,14 @@ Research Interests
 
 Open PhD positions for the following projects
 ======
-* DePaul-RFUMS Grant - SmokeSense: Advancing Wrist-Worn Devices with AI for Real-Time Smoking Insights
-* NIH R21 - HydroCare: Monitoring and Maintaining Hydration in Older Adults Through Smart Wearable Sensors
-* NIH R15 - DiaBalance: Redefining Diabetes Management Strategies with Wearables 
-* DePaul URC Grant - Batteryless UV Sensing Device for Melanoma survivors 
+* Pending. NIH R21 - HydroCare: Monitoring and Maintaining Hydration in Older Adults Through Smart Wearable Sensors
+* Funded Through UNT/UNT Health. DiaBalance: Redefining Diabetes Management Strategies with Wearables
 
 News
 ======
+* 2026-4. Our R25 proposal (Advancing Digital Health Technology: A Summer Research Program for High School and Community College Educators
+) got funded by the NIH. 
+
 * 2024-12. Our paper ["Self-Sustaining Wearable UV Sensor for Passive and Continuous Sun Protection"](https://ieeexplore.ieee.org/abstract/document/10780588) is published in the 2024 IEEE 20th International Conference on Body Sensor Networks (BSN).
 
 <img width="475" alt="frame1" src="https://github.com/mahdipedro/mahdipedro.github.io/blob/master/images/UV.jpg?raw=true">
